@@ -4126,7 +4126,7 @@
         1000,
         1000
       ],
-      "instruction": "向上滑动主界面以加载更多内容",
+      "instruction": "Swipe up on the main feed to view more content.",
       "start": [
         500.0,
         800.0
@@ -4149,7 +4149,7 @@
         999,
         999
       ],
-      "instruction": "向下滚动以查看更多内容",
+      "instruction": "Scroll down to view more content.",
       "start": [
         499.1,
         807.5
@@ -4172,7 +4172,7 @@
         999,
         999
       ],
-      "instruction": "scroll left",
+      "instruction": "Scroll left to view more content.",
       "start": [
         878.7,
         915.0
@@ -4333,7 +4333,7 @@
         999,
         999
       ],
-      "instruction": "scroll left",
+      "instruction": "Scroll left to view more content.",
       "start": [
         878.7,
         915.0
@@ -4356,7 +4356,7 @@
         999,
         999
       ],
-      "instruction": "scroll left",
+      "instruction": "Scroll left to view more content.",
       "start": [
         878.7,
         915.0
@@ -4402,7 +4402,7 @@
         999,
         925
       ],
-      "instruction": "scroll down to view more content in the Resource Center",
+      "instruction": "Scroll down to view more content in the Resource Center",
       "start": [
         499.1,
         818.8
@@ -4494,7 +4494,7 @@
         999,
         999
       ],
-      "instruction": "scroll down",
+      "instruction": "Scroll down to view more content.",
       "start": [
         499.1,
         920.0
@@ -4517,7 +4517,7 @@
         999,
         925
       ],
-      "instruction": "scroll down to view more content in the Resource Center",
+      "instruction": "Scroll down to view more content in the Resource Center",
       "start": [
         499.1,
         818.8
@@ -4586,7 +4586,7 @@
         999,
         925
       ],
-      "instruction": "scroll down to view more content in the Resource Center",
+      "instruction": "Scroll down to view more content in the Resource Center",
       "start": [
         499.1,
         818.8

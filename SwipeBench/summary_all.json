@@ -4126,7 +4126,7 @@
         1000,
         1000
       ],
-      "instruction": "向上滑动主界面以加载更多内容",
+      "instruction": "Swipe up on the main feed to view more content.",
       "start": [
         500.0,
         800.0
@@ -4149,7 +4149,7 @@
         999,
         999
       ],
-      "instruction": "向下滚动以查看更多内容",
+      "instruction": "Scroll down to view more content.",
       "start": [
         499.1,
         807.5
@@ -4172,7 +4172,7 @@
         999,
         999
       ],
-      "instruction": "scroll left",
+      "instruction": "Scroll left to view more content.",
       "start": [
         878.7,
         915.0
@@ -4333,7 +4333,7 @@
         999,
         999
       ],
-      "instruction": "scroll left",
+      "instruction": "Scroll left to view more content.",
       "start": [
         878.7,
         915.0
@@ -4356,7 +4356,7 @@
         999,
         999
       ],
-      "instruction": "scroll left",
+      "instruction": "Scroll left to view more content.",
       "start": [
         878.7,
         915.0
@@ -4402,7 +4402,7 @@
         999,
         925
       ],
-      "instruction": "scroll down to view more content in the Resource Center",
+      "instruction": "Scroll down to view more content in the Resource Center",
       "start": [
         499.1,
         818.8
@@ -4494,7 +4494,7 @@
         999,
         999
       ],
-      "instruction": "scroll down",
+      "instruction": "Scroll down to view more content.",
       "start": [
         499.1,
         920.0
@@ -4517,7 +4517,7 @@
         999,
         925
       ],
-      "instruction": "scroll down to view more content in the Resource Center",
+      "instruction": "Scroll down to view more content in the Resource Center",
       "start": [
         499.1,
         818.8
@@ -4586,7 +4586,7 @@
         999,
         925
       ],
-      "instruction": "scroll down to view more content in the Resource Center",
+      "instruction": "Scroll down to view more content in the Resource Center",
       "start": [
         499.1,
         818.8
@@ -9189,8 +9189,7 @@
         462.0,
         32.1
       ],
-      "instruction": "Click the \"Get (c.ai+)\" button.",
-      "description": "Get"
+      "instruction": "Click the \"Get (c.ai+)\" button."
     }
   },
   {
@@ -9212,8 +9211,7 @@
         111.1,
         32.1
       ],
-      "instruction": "Tap the \"(c.ai)\" logo at the top left.",
-      "description": "未知组件"
+      "instruction": "Tap the \"(c.ai)\" logo at the top left."
     }
   },
   {
@@ -9235,8 +9233,7 @@
         278.7,
         32.1
       ],
-      "instruction": "Click the \"Get (c.ai+)\" button.",
-      "description": "Get"
+      "instruction": "Click the \"Get (c.ai+)\" button."
     }
   },
   {
@@ -9258,8 +9255,7 @@
         633.3,
         32.1
       ],
-      "instruction": "click the square icon with a 'C' inside at the top right",
-      "description": "未知组件"
+      "instruction": "click the square icon with a 'C' inside at the top right"
     }
   },
   {
@@ -9281,8 +9277,7 @@
         745.4,
         32.1
       ],
-      "instruction": "click the search icon at the top right corner",
-      "description": "未知组件"
+      "instruction": "click the search icon at the top right corner"
     }
   },
   {
@@ -9304,8 +9299,7 @@
         858.3,
         32.1
       ],
-      "instruction": "click the notification bell icon at the top right corner",
-      "description": "未知组件"
+      "instruction": "click the notification bell icon at the top right corner"
     }
   },
   {
@@ -9327,8 +9321,7 @@
         126.9,
         60.4
       ],
-      "instruction": "Tap the \"For You\" tab to view personalized content.",
-      "description": "For You"
+      "instruction": "Tap the \"For You\" tab to view personalized content."
     }
   },
   {
@@ -9350,8 +9343,7 @@
         325.9,
         60.4
       ],
-      "instruction": "Tap on the \"Scenes\" tab to view content related to scenes.",
-      "description": "Scenes, .. | Scenes | .."
+      "instruction": "Tap on the \"Scenes\" tab to view content related to scenes."
     }
   },
   {
@@ -9373,8 +9365,7 @@
         538.0,
         60.4
       ],
-      "instruction": "tap the \"Featured\" tab",
-      "description": "Featured, .. | .. | Featured"
+      "instruction": "tap the \"Featured\" tab"
     }
   },
   {
@@ -9396,8 +9387,7 @@
         749.1,
         60.4
       ],
-      "instruction": "Tap on the \"Groups\" tab.",
-      "description": "Groups"
+      "instruction": "Tap on the \"Groups\" tab."
     }
   },
   {
@@ -9419,8 +9409,7 @@
         891.7,
         60.4
       ],
-      "instruction": "Tap the \"Anime\" tab to view anime-related content.",
-      "description": "Anime"
+      "instruction": "Tap the \"Anime\" tab to view anime-related content."
     }
   },
   {
@@ -9442,8 +9431,7 @@
         244.4,
         123.3
       ],
-      "instruction": "Tap on the Ada Wong character card to view more details.",
-      "description": "Xosu | Мафия ты девушка кошка | Character Avatar | 289.5k | Character Avatar, Xosu, Мафия ты девушка кошка , 289.5k"
+      "instruction": "Tap on the Ada Wong character card to view more details."
     }
   },
   {
@@ -9465,8 +9453,7 @@
         681.5,
         123.3
       ],
-      "instruction": "Tap on the Jack Abbot character card to view more details.",
-      "description": "Leon Kennedy | Character Avatar, Leon Kennedy, Your dads best friend, 10.2m | Your dads best friend | Character Avatar | 10.2m"
+      "instruction": "Tap on the Jack Abbot character card to view more details."
     }
   },
   {
@@ -9488,8 +9475,7 @@
         244.4,
         227.1
       ],
-      "instruction": "Tap on the Emma Frost character card to view more details.",
-      "description": "Character Avatar, Ghost - Dad, ♡ | interrupted bath (teen!au), 546.2k | ♡ | interrupted bath (teen!au) | Character Avatar | 546.2k | Ghost - Dad"
+      "instruction": "Tap on the Emma Frost character card to view more details."
     }
   },
   {
@@ -9511,8 +9497,7 @@
         681.5,
         227.1
       ],
-      "instruction": "Tap on the character avatar of Josh-Bl to view more details.",
-      "description": "● | Sara Hueng/ korean| | 325.7k | Character Avatar, Horny girlfriend,  ● | Sara Hueng/ korean|, 325.7k | Character Avatar | Horny girlfriend"
+      "instruction": "Tap on the character avatar of Josh-Bl to view more details."
     }
   },
   {
@@ -9534,8 +9519,7 @@
         244.4,
         331.2
       ],
-      "instruction": "Tap on the \"DC Dick Grayson\" character card to view more details.",
-      "description": "Your Big Sister's Sleepover | Sisters Sleepover | 3.6m | Character Avatar, Sisters Sleepover, Your Big Sister's Sleepover, 3.6m | Character Avatar"
+      "instruction": "Tap on the \"DC Dick Grayson\" character card to view more details."
     }
   },
   {
@@ -9557,8 +9541,7 @@
         681.5,
         331.2
       ],
-      "instruction": "Tap on the \"Alpha Mason\" character card to view more details.",
-      "description": "529.1k | ❥  Domestic life at the  Tower | Character Avatar | Titans | Character Avatar, Titans, ❥  Domestic life at the  Tower, 529.1k"
+      "instruction": "Tap on the \"Alpha Mason\" character card to view more details."
     }
   },
   {
@@ -9580,8 +9563,7 @@
         244.4,
         403.3
       ],
-      "instruction": "Click the home icon at the bottom left to return to the main screen.",
-      "description": "Character Avatar"
+      "instruction": "Click the home icon at the bottom left to return to the main screen."
     }
   },
   {
@@ -9603,8 +9585,7 @@
         681.5,
         403.3
       ],
-      "instruction": "Tap the character avatar icon at the bottom right.",
-      "description": "Character Avatar"
+      "instruction": "Tap the character avatar icon at the bottom right."
     }
   },
   {
@@ -9626,8 +9607,7 @@
         92.6,
         405.0
       ],
-      "instruction": "click the home icon at the bottom left corner",
-      "description": "Home"
+      "instruction": "click the home icon at the bottom left corner"
     }
   },
   {
@@ -9649,8 +9629,7 @@
         463.0,
         405.0
       ],
-      "instruction": "Tap the \"Create\" button at the bottom center of the screen.",
-      "description": "Create"
+      "instruction": "Tap the \"Create\" button at the bottom center of the screen."
     }
   },
   {
@@ -9672,8 +9651,7 @@
         648.1,
         405.0
       ],
-      "instruction": "Navigate to the Community section by tapping the icon at the bottom of the screen.",
-      "description": "Community"
+      "instruction": "Navigate to the Community section by tapping the icon at the bottom of the screen."
     }
   },
   {
@@ -9695,8 +9673,7 @@
         832.4,
         405.0
       ],
-      "instruction": "Tap the profile icon at the bottom right corner.",
-      "description": ".. | Profile"
+      "instruction": "Tap the profile icon at the bottom right corner."
     }
   },
   {
@@ -9718,8 +9695,7 @@
         463.0,
         205.4
       ],
-      "instruction": "Tap on \"Add the Logitech Silent Plus mouse to my cart\" to proceed with adding the item to the cart.",
-      "description": "Add the Logitech Silent Plus mouse to my cart"
+      "instruction": "Tap on \"Add the Logitech Silent Plus mouse to my cart\" to proceed with adding the item to the cart."
     }
   },
   {
@@ -9741,8 +9717,7 @@
         462.0,
         117.5
       ],
-      "instruction": "Close the sheet by tapping the area near the top left corner.",
-      "description": "Close sheet"
+      "instruction": "Close the sheet by tapping the area near the top left corner."
     }
   },
   {
@@ -9764,8 +9739,7 @@
         666.7,
         393.8
       ],
-      "instruction": "Click the plus icon at the bottom right corner.",
-      "description": "Rate now"
+      "instruction": "Click the plus icon at the bottom right corner."
     }
   },
   {
@@ -9787,8 +9761,7 @@
         85.2,
         30.4
       ],
-      "instruction": "Tap the profile icon at the top left corner.",
-      "description": "profile"
+      "instruction": "Tap the profile icon at the top left corner."
     }
   },
   {
@@ -9810,8 +9783,7 @@
         839.8,
         31.2
       ],
-      "instruction": "Tap the \"Add widgets\" button in the top right corner.",
-      "description": "Add widgets"
+      "instruction": "Tap the \"Add widgets\" button in the top right corner."
     }
   },
   {
@@ -9833,8 +9805,7 @@
         463.0,
         377.9
       ],
-      "instruction": "Click the search bar at the bottom to start asking or navigating.",
-      "description": "未知组件"
+      "instruction": "Click the search bar at the bottom to start asking or navigating."
     }
   },
   {
@@ -9856,8 +9827,7 @@
         177.8,
         42.5
       ],
-      "instruction": "Tap on the \"Bookmarks\" tab.",
-      "description": "Bookmarks"
+      "instruction": "Tap on the \"Bookmarks\" tab."
     }
   },
   {
@@ -9879,8 +9849,7 @@
         747.2,
         42.5
       ],
-      "instruction": "Tap on the \"Library\" tab.",
-      "description": "Library"
+      "instruction": "Tap on the \"Library\" tab."
     }
   },
   {
@@ -9902,8 +9871,7 @@
         273.1,
         405.0
       ],
-      "instruction": "Tap the \"Delete browsing data\" option at the bottom of the screen.",
-      "description": "Delete browsing data"
+      "instruction": "Tap the \"Delete browsing data\" option at the bottom of the screen."
     }
   },
   {
@@ -9925,8 +9893,7 @@
         369.4,
         27.5
       ],
-      "instruction": "Tap on the \"Following\" tab to switch to the Following feed.",
-      "description": "Following"
+      "instruction": "Tap on the \"Following\" tab to switch to the Following feed."
     }
   },
   {
@@ -9948,8 +9915,7 @@
         57.4,
         27.5
       ],
-      "instruction": "click the smiley face icon at the top left corner",
-      "description": "未知组件"
+      "instruction": "click the smiley face icon at the top left corner"
     }
   },
   {
@@ -9971,8 +9937,7 @@
         866.7,
         27.5
       ],
-      "instruction": "Tap the search icon at the top right corner.",
-      "description": "未知组件"
+      "instruction": "Tap the search icon at the top right corner."
     }
   },
   {
@@ -9994,8 +9959,7 @@
         184.3,
         46.7
       ],
-      "instruction": "Tap on the \"Wellness\" tab to view wellness-related content.",
-      "description": "Wellness"
+      "instruction": "Tap on the \"Wellness\" tab to view wellness-related content."
     }
   },
   {
@@ -10017,8 +9981,7 @@
         383.3,
         46.7
       ],
-      "instruction": "Tap on the \"Mental Health\" tab to view content related to mental health.",
-      "description": "Mental Health"
+      "instruction": "Tap on the \"Mental Health\" tab to view content related to mental health."
     }
   },
   {
@@ -10040,8 +10003,7 @@
         610.2,
         46.7
       ],
-      "instruction": "Tap on the \"Photography\" tab to view content related to photography.",
-      "description": "Photography"
+      "instruction": "Tap on the \"Photography\" tab to view content related to photography."
     }
   },
   {
@@ -10063,8 +10025,7 @@
         803.7,
         46.7
       ],
-      "instruction": "Tap the \"Outdoors\" tab to view content related to outdoor activities.",
-      "description": "Outdoors"
+      "instruction": "Tap the \"Outdoors\" tab to view content related to outdoor activities."
     }
   },
   {
@@ -10086,8 +10047,7 @@
         906.5,
         46.7
       ],
-      "instruction": "Tap the \"Outfits\" tab to view content related to outfits.",
-      "description": "Outfits"
+      "instruction": "Tap the \"Outfits\" tab to view content related to outfits."
     }
   },
   {
@@ -10109,8 +10069,7 @@
         232.4,
         136.2
       ],
-      "instruction": "Tap on the post titled \"Mezcal Sensory Exploration\" by Firesidebourbon.",
-      "description": "#piano   #classicalmusic   #composer | Devern"
+      "instruction": "Tap on the post titled \"Mezcal Sensory Exploration\" by Firesidebourbon."
     }
   },
   {
@@ -10132,8 +10091,7 @@
         415.7,
         206.2
       ],
-      "instruction": "click the play button on the video thumbnail",
-      "description": "未知组件"
+      "instruction": "click the play button on the video thumbnail"
     }
   },
   {
@@ -10155,8 +10113,7 @@
         691.7,
         136.2
       ],
-      "instruction": "Tap on the \"Marathon\" post by Shofe_alam.",
-      "description": "3 | T-shirt deli – custom tees wrapped like a sandwich | coolestjersey"
+      "instruction": "Tap on the \"Marathon\" post by Shofe_alam."
     }
   },
   {
@@ -10178,8 +10135,7 @@
         865.7,
         206.2
       ],
-      "instruction": "click on the \"Just Viewed\" button to sort or view recently viewed content.",
-      "description": "未知组件"
+      "instruction": "click on the \"Just Viewed\" button to sort or view recently viewed content."
     }
   },
   {
@@ -10201,8 +10157,7 @@
         232.4,
         291.2
       ],
-      "instruction": "Tap on the post titled \"#peptides\" by Maggie.",
-      "description": "#joaofelix.... | 24 | Jedidiah"
+      "instruction": "Tap on the post titled \"#peptides\" by Maggie."
     }
   },
   {
@@ -10224,8 +10179,7 @@
         398.1,
         357.1
       ],
-      "instruction": "click on the empty space in the bottom left area of the screen",
-      "description": "未知组件"
+      "instruction": "click on the empty space in the bottom left area of the screen"
     }
   },
   {
@@ -10247,8 +10201,7 @@
         232.4,
         382.1
       ],
-      "instruction": "scroll down",
-      "description": "未知组件"
+      "instruction": "scroll down"
     }
   },
   {
@@ -10269,8 +10222,7 @@
         67,
         95
       ],
-      "instruction": "Open the menu.",
-      "description": "Menu"
+      "instruction": "Open the menu."
     }
   },
   {
@@ -10291,8 +10243,7 @@
         898,
         489
       ],
-      "instruction": "Tap the plus button to add a new goal.",
-      "description": "Add a goal"
+      "instruction": "Tap the plus button to add a new goal."
     }
   },
   {
@@ -10313,8 +10264,7 @@
         500,
         595
       ],
-      "instruction": "Tap the \"Brush teeth\" goal to mark it as completed.",
-      "description": "Complete goal | Brush teeth\n5 energy"
+      "instruction": "Tap the \"Brush teeth\" goal to mark it as completed."
     }
   },
   {
@@ -10335,8 +10285,7 @@
         418,
         960
       ],
-      "instruction": "Tap the \"Shop\" tab at the bottom of the screen.",
-      "description": "Shop"
+      "instruction": "Tap the \"Shop\" tab at the bottom of the screen."
     }
   },
   {
@@ -10357,8 +10306,7 @@
         581,
         960
       ],
-      "instruction": "Navigate to the Friends section by tapping the \"Friends\" icon in the bottom navigation bar.",
-      "description": "Friends"
+      "instruction": "Navigate to the Friends section by tapping the \"Friends\" icon in the bottom navigation bar."
     }
   },
   {
@@ -10379,8 +10327,7 @@
         745,
         960
       ],
-      "instruction": "Tap the \"Bag\" icon in the bottom navigation bar.",
-      "description": "Bag"
+      "instruction": "Tap the \"Bag\" icon in the bottom navigation bar."
     }
   },
   {
@@ -10401,8 +10348,7 @@
         908,
         960
       ],
-      "instruction": "Tap the \"Test\" tab at the bottom right.",
-      "description": "Test"
+      "instruction": "Tap the \"Test\" tab at the bottom right."
     }
   },
   {
@@ -10423,8 +10369,7 @@
         917,
         72
       ],
-      "instruction": "Tap the \"Mood\" button to check or update your current mood.",
-      "description": "Mood"
+      "instruction": "Tap the \"Mood\" button to check or update your current mood."
     }
   },
   {
@@ -10445,8 +10390,7 @@
         790,
         489
       ],
-      "instruction": "Tap the \"More options\" icon to access additional settings or actions.",
-      "description": "More options"
+      "instruction": "Tap the \"More options\" icon to access additional settings or actions."
     }
   },
   {
@@ -10467,8 +10411,7 @@
         877,
         591
       ],
-      "instruction": "Tap the checkmark button to mark the \"Get out of bed\" goal as complete.",
-      "description": "Complete goal"
+      "instruction": "Tap the checkmark button to mark the \"Get out of bed\" goal as complete."
     }
   },
   {
@@ -10484,8 +10427,7 @@
         499,
         520
       ],
-      "instruction": "click the Wiser app icon",
-      "description": "未知组件"
+      "instruction": "click the Wiser app icon"
     }
   },
   {
@@ -10501,8 +10443,7 @@
         933,
         74
       ],
-      "instruction": "click the close button at the top right corner",
-      "description": "未知组件"
+      "instruction": "click the close button at the top right corner"
     }
   },
   {
@@ -10518,8 +10459,7 @@
         500,
         774
       ],
-      "instruction": "Tap the \"Start Free Trial\" button.",
-      "description": "Start Free Trial"
+      "instruction": "Tap the \"Start Free Trial\" button."
     }
   },
   {
@@ -10541,8 +10481,7 @@
         863.9,
         32.1
       ],
-      "instruction": "click the unknown component located at the top right corner.",
-      "description": "未知组件"
+      "instruction": "click the unknown component located at the top right corner."
     }
   },
   {
@@ -10564,8 +10503,7 @@
         84.3,
         55.0
       ],
-      "instruction": "Click on the \"MON\" text.",
-      "description": "MON"
+      "instruction": "Click on the \"MON\" text."
     }
   },
   {
@@ -10587,8 +10525,7 @@
         629.6,
         274.2
       ],
-      "instruction": "Ignore this component as it is not actionable.",
-      "description": "未知组件"
+      "instruction": "Ignore this component as it is not actionable."
     }
   },
   {
@@ -10610,8 +10547,7 @@
         143.5,
         402.9
       ],
-      "instruction": "tap the keyboard switch button at the bottom left corner",
-      "description": "Switch between keyboards"
+      "instruction": "tap the keyboard switch button at the bottom left corner"
     }
   },
   {
@@ -10633,8 +10569,7 @@
         781.5,
         402.9
       ],
-      "instruction": "tap the clipboard and frequent phrases icon at the bottom right corner",
-      "description": "Clipboard and frequent phrases"
+      "instruction": "tap the clipboard and frequent phrases icon at the bottom right corner"
     }
   },
   {
@@ -10656,8 +10591,7 @@
         462.0,
         62.5
       ],
-      "instruction": "click on the search bar at the top of the screen to initiate a search.",
-      "description": "未知组件"
+      "instruction": "click on the search bar at the top of the screen to initiate a search."
     }
   },
   {
@@ -10679,8 +10613,7 @@
         697.2,
         146.2
       ],
-      "instruction": "Click the search bar to begin typing your query.",
-      "description": "Search…"
+      "instruction": "Click the search bar to begin typing your query."
     }
   },
   {
@@ -10702,8 +10635,7 @@
         805.6,
         146.2
       ],
-      "instruction": "click the unchecked icon at the top right of the search bar",
-      "description": "Unchecked"
+      "instruction": "click the unchecked icon at the top right of the search bar"
     }
   },
   {
@@ -10725,8 +10657,7 @@
         260.2,
         354.2
       ],
-      "instruction": "tap on the \"Keyboard settings\" option in the pop-up menu.",
-      "description": "Keyboard settings | Sogou IME for Xiaomi | Baidu IME for Xiaomi"
+      "instruction": "tap on the \"Keyboard settings\" option in the pop-up menu."
     }
   },
   {
@@ -10748,8 +10679,7 @@
         260.2,
         341.7
       ],
-      "instruction": "Select \"Sogou IME for Xiaomi\" from the keyboard input method options.",
-      "description": "Sogou IME for Xiaomi | Baidu IME for Xiaomi"
+      "instruction": "Select \"Sogou IME for Xiaomi\" from the keyboard input method options."
     }
   },
   {
@@ -10771,8 +10701,7 @@
         463.0,
         145.8
       ],
-      "instruction": "Type \"Arc Sync\" into the search bar.",
-      "description": "Unchecked | Search…"
+      "instruction": "Type \"Arc Sync\" into the search bar."
     }
   },
   {
@@ -10794,8 +10723,7 @@
         697.2,
         146.2
       ],
-      "instruction": "Tap the search bar to begin searching.",
-      "description": "Search…"
+      "instruction": "Tap the search bar to begin searching."
     }
   },
   {
@@ -10817,8 +10745,7 @@
         805.6,
         146.2
       ],
-      "instruction": "Tap the unchecked icon to toggle the selection or dismiss the current input.",
-      "description": "Unchecked"
+      "instruction": "Tap the unchecked icon to toggle the selection or dismiss the current input."
     }
   },
   {
@@ -10840,8 +10767,7 @@
         462.0,
         335.4
       ],
-      "instruction": "click the clipboard button",
-      "description": "random text suxhwbfuajwndivofknsgdhxbsjaish | Clipboard | Clearing clipboard | Frequent phrases | Hide clipboard | text133"
+      "instruction": "click the clipboard button"
     }
   },
   {
@@ -10863,8 +10789,7 @@
         107.4,
         35.0
       ],
-      "instruction": "Tap the Arc Help Center logo at the top left.",
-      "description": "Arc Help Center Help Center home page"
+      "instruction": "Tap the Arc Help Center logo at the top left."
     }
   },
   {
@@ -10886,8 +10811,7 @@
         838.9,
         79.2
       ],
-      "instruction": "Click the \"X\" button to dismiss the \"Follow 10 people to get started\" prompt.",
-      "description": "Dismiss getting started guide"
+      "instruction": "Click the \"X\" button to dismiss the \"Follow 10 people to get started\" prompt."
     }
   },
   {
@@ -10909,8 +10833,7 @@
         463.0,
         126.7
       ],
-      "instruction": "Tap the \"Find people to follow\" button.",
-      "description": "Find people to follow"
+      "instruction": "Tap the \"Find people to follow\" button."
     }
   },
   {
@@ -10932,8 +10855,7 @@
         197.2,
         162.9
       ],
-      "instruction": "Tap on \"World Cup\" to browse content related to the World Cup.",
-      "description": "World Cup | Browse topic World Cup"
+      "instruction": "Tap on \"World Cup\" to browse content related to the World Cup."
     }
   },
   {
@@ -10955,8 +10877,7 @@
         394.4,
         162.9
       ],
-      "instruction": "Tap on \"ICE Policies\" to browse related content.",
-      "description": "Browse topic ICE Policies | ICE Policies"
+      "instruction": "Tap on \"ICE Policies\" to browse related content."
     }
   },
   {
@@ -10978,8 +10899,7 @@
         673.1,
         162.9
       ],
-      "instruction": "Tap on the \"Trump Funding Ruling\" topic to view related posts.",
-      "description": "Browse topic Trump Funding Ruling | Trump Funding Ruling"
+      "instruction": "Tap on the \"Trump Funding Ruling\" topic to view related posts."
     }
   },
   {
@@ -11001,8 +10921,7 @@
         896.3,
         162.9
       ],
-      "instruction": "Tap the \"Canadian Politics\" topic to browse related content.",
-      "description": "Browse topic Canadian Politics | Canadian Politics"
+      "instruction": "Tap the \"Canadian Politics\" topic to browse related content."
     }
   }
 ]
