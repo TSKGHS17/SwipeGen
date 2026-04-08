@@ -1,0 +1,9173 @@
+[
+  {
+    "img_filename": "ai.character.app_page_0_swipe_0.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        112,
+        999,
+        177
+      ],
+      "instruction": "swipe left to view more categories in the navigation bar",
+      "start": [
+        878.7,
+        144.2
+      ],
+      "end": [
+        119.4,
+        144.2
+      ],
+      "duration": 0.3,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_0_swipe_1.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        177,
+        999,
+        999
+      ],
+      "instruction": "scroll down to view more content",
+      "start": [
+        499.1,
+        900.0
+      ],
+      "end": [
+        499.1,
+        275.4
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_0_swipe_2.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        177,
+        999,
+        999
+      ],
+      "instruction": "scroll down to view more content",
+      "start": [
+        499.1,
+        900.0
+      ],
+      "end": [
+        499.1,
+        275.4
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_0_swipe_3.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        46,
+        187,
+        950,
+        937
+      ],
+      "instruction": "Swipe up on the main feed to view more posts.",
+      "start": [
+        497.2,
+        846.7
+      ],
+      "end": [
+        497.2,
+        276.7
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_1_swipe_0.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        112,
+        999,
+        177
+      ],
+      "instruction": "swipe left to view more categories in the navigation bar.",
+      "start": [
+        878.7,
+        144.2
+      ],
+      "end": [
+        119.4,
+        144.2
+      ],
+      "duration": 0.3,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_1_swipe_1.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        177,
+        999,
+        999
+      ],
+      "instruction": "scroll down to view more content",
+      "start": [
+        499.1,
+        900.0
+      ],
+      "end": [
+        499.1,
+        275.4
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_1_swipe_2.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        177,
+        999,
+        999
+      ],
+      "instruction": "scroll down to view more content",
+      "start": [
+        499.1,
+        900.0
+      ],
+      "end": [
+        499.1,
+        275.4
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_1_swipe_3.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        46,
+        124,
+        950,
+        944
+      ],
+      "instruction": "Swipe up on the main feed to view more posts.",
+      "start": [
+        497.2,
+        845.4
+      ],
+      "end": [
+        497.2,
+        222.1
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_2_swipe_0.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        112,
+        999,
+        177
+      ],
+      "instruction": "swipe left to view more categories in the navigation bar",
+      "start": [
+        878.7,
+        144.2
+      ],
+      "end": [
+        119.4,
+        144.2
+      ],
+      "duration": 0.3,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_2_swipe_1.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        177,
+        999,
+        999
+      ],
+      "instruction": "scroll down to view more content",
+      "start": [
+        499.1,
+        900.0
+      ],
+      "end": [
+        499.1,
+        275.4
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_2_swipe_2.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        177,
+        999,
+        999
+      ],
+      "instruction": "scroll down to view more content",
+      "start": [
+        499.1,
+        900.0
+      ],
+      "end": [
+        499.1,
+        275.4
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_2_swipe_3.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        46,
+        189,
+        950,
+        945
+      ],
+      "instruction": "Swipe up on the main feed to view more posts.",
+      "start": [
+        497.2,
+        854.2
+      ],
+      "end": [
+        497.2,
+        279.6
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_3_swipe_0.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        112,
+        999,
+        177
+      ],
+      "instruction": "swipe left to view more categories in the navigation bar",
+      "start": [
+        878.7,
+        144.2
+      ],
+      "end": [
+        119.4,
+        144.2
+      ],
+      "duration": 0.3,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_3_swipe_1.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        177,
+        999,
+        999
+      ],
+      "instruction": "scroll down to view more content",
+      "start": [
+        499.1,
+        900.0
+      ],
+      "end": [
+        499.1,
+        275.4
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_3_swipe_2.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        177,
+        999,
+        999
+      ],
+      "instruction": "scroll down to view more content",
+      "start": [
+        499.1,
+        900.0
+      ],
+      "end": [
+        499.1,
+        275.4
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_3_swipe_3.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        46,
+        189,
+        950,
+        937
+      ],
+      "instruction": "Swipe up on the main feed to view more posts.",
+      "start": [
+        497.2,
+        847.1
+      ],
+      "end": [
+        497.2,
+        278.8
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_4_swipe_0.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        112,
+        999,
+        177
+      ],
+      "instruction": "swipe left to view more categories in the navigation bar",
+      "start": [
+        878.7,
+        144.2
+      ],
+      "end": [
+        119.4,
+        144.2
+      ],
+      "duration": 0.3,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_4_swipe_1.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        177,
+        999,
+        999
+      ],
+      "instruction": "scroll down to view more content",
+      "start": [
+        499.1,
+        900.0
+      ],
+      "end": [
+        499.1,
+        275.4
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_4_swipe_2.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        177,
+        999,
+        999
+      ],
+      "instruction": "scroll down to view more content",
+      "start": [
+        499.1,
+        900.0
+      ],
+      "end": [
+        499.1,
+        275.4
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_4_swipe_3.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        46,
+        124,
+        950,
+        940
+      ],
+      "instruction": "Swipe up on the main feed to view more posts.",
+      "start": [
+        497.2,
+        841.7
+      ],
+      "end": [
+        497.2,
+        221.7
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_5_swipe_0.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        112,
+        999,
+        177
+      ],
+      "instruction": "swipe left to view more categories in the navigation bar",
+      "start": [
+        878.7,
+        144.2
+      ],
+      "end": [
+        119.4,
+        144.2
+      ],
+      "duration": 0.3,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_5_swipe_1.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        177,
+        999,
+        999
+      ],
+      "instruction": "scroll down to view more content",
+      "start": [
+        499.1,
+        900.0
+      ],
+      "end": [
+        499.1,
+        275.4
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_5_swipe_2.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        177,
+        999,
+        999
+      ],
+      "instruction": "scroll down to view more content",
+      "start": [
+        499.1,
+        900.0
+      ],
+      "end": [
+        499.1,
+        275.4
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_5_swipe_3.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        46,
+        187,
+        950,
+        937
+      ],
+      "instruction": "Swipe up on the main feed to view more posts.",
+      "start": [
+        497.2,
+        846.7
+      ],
+      "end": [
+        497.2,
+        276.7
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_6_swipe_0.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        112,
+        999,
+        177
+      ],
+      "instruction": "swipe left to view more categories in the navigation bar",
+      "start": [
+        878.7,
+        144.2
+      ],
+      "end": [
+        119.4,
+        144.2
+      ],
+      "duration": 0.3,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_6_swipe_1.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        177,
+        999,
+        999
+      ],
+      "instruction": "scroll down to view more character avatars",
+      "start": [
+        499.1,
+        900.0
+      ],
+      "end": [
+        499.1,
+        275.4
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_6_swipe_2.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        177,
+        999,
+        999
+      ],
+      "instruction": "scroll down to view more character avatars",
+      "start": [
+        499.1,
+        900.0
+      ],
+      "end": [
+        499.1,
+        275.4
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_6_swipe_3.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        46,
+        188,
+        950,
+        930
+      ],
+      "instruction": "Swipe up on the main feed to view more posts.",
+      "start": [
+        497.2,
+        840.8
+      ],
+      "end": [
+        497.2,
+        276.7
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_7_swipe_0.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        112,
+        999,
+        177
+      ],
+      "instruction": "swipe left to view more categories in the navigation bar",
+      "start": [
+        878.7,
+        144.2
+      ],
+      "end": [
+        119.4,
+        144.2
+      ],
+      "duration": 0.3,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_7_swipe_1.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        177,
+        999,
+        999
+      ],
+      "instruction": "scroll down to view more character avatars",
+      "start": [
+        499.1,
+        900.0
+      ],
+      "end": [
+        499.1,
+        275.4
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_7_swipe_2.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        177,
+        999,
+        999
+      ],
+      "instruction": "scroll down to view more character avatars",
+      "start": [
+        499.1,
+        900.0
+      ],
+      "end": [
+        499.1,
+        275.4
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_7_swipe_3.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        46,
+        187,
+        950,
+        937
+      ],
+      "instruction": "Swipe up on the main feed to view more posts.",
+      "start": [
+        497.2,
+        846.7
+      ],
+      "end": [
+        497.2,
+        276.7
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_8_swipe_0.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        112,
+        999,
+        177
+      ],
+      "instruction": "swipe left to view more categories in the navigation bar.",
+      "start": [
+        878.7,
+        144.2
+      ],
+      "end": [
+        119.4,
+        144.2
+      ],
+      "duration": 0.3,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_8_swipe_1.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        177,
+        999,
+        999
+      ],
+      "instruction": "scroll down to view more content",
+      "start": [
+        499.1,
+        900.0
+      ],
+      "end": [
+        499.1,
+        275.4
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_8_swipe_2.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        177,
+        999,
+        999
+      ],
+      "instruction": "scroll down to view more content",
+      "start": [
+        499.1,
+        900.0
+      ],
+      "end": [
+        499.1,
+        275.4
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_8_swipe_3.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        46,
+        187,
+        950,
+        937
+      ],
+      "instruction": "Swipe up on the main feed to view more posts.",
+      "start": [
+        497.2,
+        846.7
+      ],
+      "end": [
+        497.2,
+        276.7
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_9_swipe_0.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        112,
+        999,
+        177
+      ],
+      "instruction": "swipe left to view more categories in the navigation bar.",
+      "start": [
+        878.7,
+        144.2
+      ],
+      "end": [
+        119.4,
+        144.2
+      ],
+      "duration": 0.3,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_9_swipe_1.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        177,
+        999,
+        999
+      ],
+      "instruction": "scroll down to view more character avatars",
+      "start": [
+        499.1,
+        900.0
+      ],
+      "end": [
+        499.1,
+        275.4
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_9_swipe_2.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        177,
+        999,
+        999
+      ],
+      "instruction": "scroll down to view more character avatars",
+      "start": [
+        499.1,
+        900.0
+      ],
+      "end": [
+        499.1,
+        275.4
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_10_swipe_0.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        112,
+        999,
+        177
+      ],
+      "instruction": "swipe left to view more categories in the navigation bar",
+      "start": [
+        878.7,
+        144.2
+      ],
+      "end": [
+        119.4,
+        144.2
+      ],
+      "duration": 0.3,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_10_swipe_1.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        177,
+        999,
+        999
+      ],
+      "instruction": "scroll down to view more content",
+      "start": [
+        499.1,
+        900.0
+      ],
+      "end": [
+        499.1,
+        275.4
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_10_swipe_2.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        177,
+        999,
+        999
+      ],
+      "instruction": "scroll down to view more content",
+      "start": [
+        499.1,
+        900.0
+      ],
+      "end": [
+        499.1,
+        275.4
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_10_swipe_3.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        46,
+        187,
+        950,
+        930
+      ],
+      "instruction": "Swipe up on the main feed to view more posts.",
+      "start": [
+        497.2,
+        840.8
+      ],
+      "end": [
+        497.2,
+        275.8
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_11_swipe_0.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        112,
+        999,
+        177
+      ],
+      "instruction": "swipe left to view more categories in the navigation bar",
+      "start": [
+        878.7,
+        144.2
+      ],
+      "end": [
+        119.4,
+        144.2
+      ],
+      "duration": 0.3,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_11_swipe_1.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        177,
+        999,
+        999
+      ],
+      "instruction": "scroll down to view more character avatars",
+      "start": [
+        499.1,
+        900.0
+      ],
+      "end": [
+        499.1,
+        275.4
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_11_swipe_2.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        177,
+        999,
+        999
+      ],
+      "instruction": "scroll down to view more character avatars",
+      "start": [
+        499.1,
+        900.0
+      ],
+      "end": [
+        499.1,
+        275.4
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_11_swipe_3.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        46,
+        189,
+        950,
+        935
+      ],
+      "instruction": "Swipe up on the main feed to view more posts.",
+      "start": [
+        497.2,
+        845.4
+      ],
+      "end": [
+        497.2,
+        278.3
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_12_swipe_0.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        112,
+        999,
+        177
+      ],
+      "instruction": "swipe left to view more categories in the navigation bar",
+      "start": [
+        878.7,
+        144.2
+      ],
+      "end": [
+        119.4,
+        144.2
+      ],
+      "duration": 0.3,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_12_swipe_1.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        177,
+        999,
+        999
+      ],
+      "instruction": "scroll down to view more content",
+      "start": [
+        499.1,
+        900.0
+      ],
+      "end": [
+        499.1,
+        275.4
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_12_swipe_2.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        177,
+        999,
+        999
+      ],
+      "instruction": "scroll down to view more content",
+      "start": [
+        499.1,
+        900.0
+      ],
+      "end": [
+        499.1,
+        275.4
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_12_swipe_3.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        46,
+        187,
+        950,
+        937
+      ],
+      "instruction": "Swipe up on the main feed to view more posts.",
+      "start": [
+        497.2,
+        846.7
+      ],
+      "end": [
+        497.2,
+        276.7
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_13_swipe_0.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        112,
+        999,
+        177
+      ],
+      "instruction": "swipe left to view more categories in the navigation bar.",
+      "start": [
+        878.7,
+        144.2
+      ],
+      "end": [
+        119.4,
+        144.2
+      ],
+      "duration": 0.3,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_13_swipe_1.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        177,
+        999,
+        999
+      ],
+      "instruction": "scroll down to view more content",
+      "start": [
+        499.1,
+        900.0
+      ],
+      "end": [
+        499.1,
+        275.4
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_13_swipe_2.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        177,
+        999,
+        999
+      ],
+      "instruction": "scroll down to view more content",
+      "start": [
+        499.1,
+        900.0
+      ],
+      "end": [
+        499.1,
+        275.4
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_13_swipe_3.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        46,
+        187,
+        950,
+        937
+      ],
+      "instruction": "Swipe up on the main feed to view more posts.",
+      "start": [
+        497.2,
+        846.7
+      ],
+      "end": [
+        497.2,
+        276.7
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_14_swipe_0.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        112,
+        999,
+        177
+      ],
+      "instruction": "swipe left to view more categories in the navigation bar.",
+      "start": [
+        878.7,
+        144.2
+      ],
+      "end": [
+        119.4,
+        144.2
+      ],
+      "duration": 0.3,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_14_swipe_1.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        177,
+        999,
+        999
+      ],
+      "instruction": "scroll down to view more content",
+      "start": [
+        499.1,
+        900.0
+      ],
+      "end": [
+        499.1,
+        275.4
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_14_swipe_2.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        177,
+        999,
+        999
+      ],
+      "instruction": "scroll down to view more content",
+      "start": [
+        499.1,
+        900.0
+      ],
+      "end": [
+        499.1,
+        275.4
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_14_swipe_3.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        46,
+        187,
+        950,
+        937
+      ],
+      "instruction": "Swipe up on the main feed to view more posts.",
+      "start": [
+        497.2,
+        846.7
+      ],
+      "end": [
+        497.2,
+        276.7
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_15_swipe_0.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        112,
+        999,
+        177
+      ],
+      "instruction": "swipe left to view more categories in the navigation bar",
+      "start": [
+        878.7,
+        144.2
+      ],
+      "end": [
+        119.4,
+        144.2
+      ],
+      "duration": 0.3,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_15_swipe_1.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        177,
+        999,
+        999
+      ],
+      "instruction": "scroll down to view more character avatars",
+      "start": [
+        499.1,
+        900.0
+      ],
+      "end": [
+        499.1,
+        275.4
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_15_swipe_2.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        177,
+        999,
+        999
+      ],
+      "instruction": "scroll down to view more character avatars",
+      "start": [
+        499.1,
+        900.0
+      ],
+      "end": [
+        499.1,
+        275.4
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_15_swipe_3.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        46,
+        187,
+        950,
+        937
+      ],
+      "instruction": "Swipe up on the main feed to view more posts.",
+      "start": [
+        497.2,
+        846.7
+      ],
+      "end": [
+        497.2,
+        276.7
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_16_swipe_0.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        112,
+        999,
+        177
+      ],
+      "instruction": "swipe left to view more categories in the navigation bar",
+      "start": [
+        878.7,
+        144.2
+      ],
+      "end": [
+        119.4,
+        144.2
+      ],
+      "duration": 0.3,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_16_swipe_1.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        177,
+        999,
+        999
+      ],
+      "instruction": "scroll down to view more content",
+      "start": [
+        499.1,
+        900.0
+      ],
+      "end": [
+        499.1,
+        275.4
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_16_swipe_2.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        177,
+        999,
+        999
+      ],
+      "instruction": "scroll down to view more content",
+      "start": [
+        499.1,
+        900.0
+      ],
+      "end": [
+        499.1,
+        275.4
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_16_swipe_3.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        46,
+        189,
+        950,
+        935
+      ],
+      "instruction": "Swipe up on the main feed to view more posts.",
+      "start": [
+        497.2,
+        845.4
+      ],
+      "end": [
+        497.2,
+        278.3
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_17_swipe_0.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        112,
+        999,
+        177
+      ],
+      "instruction": "swipe left to view more categories in the navigation bar",
+      "start": [
+        878.7,
+        144.2
+      ],
+      "end": [
+        119.4,
+        144.2
+      ],
+      "duration": 0.3,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_17_swipe_1.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        177,
+        999,
+        999
+      ],
+      "instruction": "scroll down to view more character avatars",
+      "start": [
+        499.1,
+        900.0
+      ],
+      "end": [
+        499.1,
+        275.4
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_17_swipe_2.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        177,
+        999,
+        999
+      ],
+      "instruction": "scroll down to view more character avatars",
+      "start": [
+        499.1,
+        900.0
+      ],
+      "end": [
+        499.1,
+        275.4
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_17_swipe_3.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        46,
+        189,
+        950,
+        937
+      ],
+      "instruction": "Swipe up on the main feed to view more posts",
+      "start": [
+        497.2,
+        847.1
+      ],
+      "end": [
+        497.2,
+        278.8
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_18_swipe_0.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        112,
+        999,
+        177
+      ],
+      "instruction": "swipe left to view more categories in the navigation bar",
+      "start": [
+        878.7,
+        144.2
+      ],
+      "end": [
+        119.4,
+        144.2
+      ],
+      "duration": 0.3,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_18_swipe_1.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        177,
+        999,
+        999
+      ],
+      "instruction": "scroll down to view more character avatars",
+      "start": [
+        499.1,
+        900.0
+      ],
+      "end": [
+        499.1,
+        275.4
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_18_swipe_2.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        177,
+        999,
+        999
+      ],
+      "instruction": "scroll down to view more character avatars",
+      "start": [
+        499.1,
+        900.0
+      ],
+      "end": [
+        499.1,
+        275.4
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_18_swipe_3.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        46,
+        187,
+        950,
+        937
+      ],
+      "instruction": "Swipe up on the main feed to view more posts.",
+      "start": [
+        497.2,
+        846.7
+      ],
+      "end": [
+        497.2,
+        276.7
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_19_swipe_0.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        112,
+        999,
+        177
+      ],
+      "instruction": "swipe left to view more categories in the navigation bar",
+      "start": [
+        878.7,
+        144.2
+      ],
+      "end": [
+        119.4,
+        144.2
+      ],
+      "duration": 0.3,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_19_swipe_1.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        177,
+        999,
+        999
+      ],
+      "instruction": "scroll down to view more content",
+      "start": [
+        499.1,
+        900.0
+      ],
+      "end": [
+        499.1,
+        275.4
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_19_swipe_2.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        177,
+        999,
+        999
+      ],
+      "instruction": "scroll down to view more content",
+      "start": [
+        499.1,
+        900.0
+      ],
+      "end": [
+        499.1,
+        275.4
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_19_swipe_3.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        46,
+        187,
+        950,
+        940
+      ],
+      "instruction": "Swipe up on the main feed to view more posts.",
+      "start": [
+        497.2,
+        849.6
+      ],
+      "end": [
+        497.2,
+        277.1
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_20_swipe_0.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        112,
+        999,
+        177
+      ],
+      "instruction": "swipe left to view more categories in the navigation bar",
+      "start": [
+        878.7,
+        144.2
+      ],
+      "end": [
+        119.4,
+        144.2
+      ],
+      "duration": 0.3,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_20_swipe_1.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        177,
+        999,
+        999
+      ],
+      "instruction": "scroll down to view more content",
+      "start": [
+        499.1,
+        900.0
+      ],
+      "end": [
+        499.1,
+        275.4
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_20_swipe_2.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        177,
+        999,
+        999
+      ],
+      "instruction": "scroll down to view more content",
+      "start": [
+        499.1,
+        900.0
+      ],
+      "end": [
+        499.1,
+        275.4
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_20_swipe_3.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        46,
+        188,
+        950,
+        930
+      ],
+      "instruction": "Swipe up on the main feed to view more posts.",
+      "start": [
+        497.2,
+        840.8
+      ],
+      "end": [
+        497.2,
+        276.7
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_21_swipe_0.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        112,
+        999,
+        177
+      ],
+      "instruction": "swipe left to view more categories in the navigation bar",
+      "start": [
+        878.7,
+        144.2
+      ],
+      "end": [
+        119.4,
+        144.2
+      ],
+      "duration": 0.3,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_21_swipe_1.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        177,
+        999,
+        999
+      ],
+      "instruction": "scroll down to view more character avatars",
+      "start": [
+        499.1,
+        900.0
+      ],
+      "end": [
+        499.1,
+        275.4
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_21_swipe_2.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        177,
+        999,
+        999
+      ],
+      "instruction": "scroll down to view more character avatars",
+      "start": [
+        499.1,
+        900.0
+      ],
+      "end": [
+        499.1,
+        275.4
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_21_swipe_3.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        46,
+        187,
+        950,
+        940
+      ],
+      "instruction": "Swipe up on the main feed to view more posts.",
+      "start": [
+        497.2,
+        849.6
+      ],
+      "end": [
+        497.2,
+        277.1
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_22_swipe_0.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        112,
+        999,
+        177
+      ],
+      "instruction": "swipe left to view more categories in the navigation bar",
+      "start": [
+        878.7,
+        144.2
+      ],
+      "end": [
+        119.4,
+        144.2
+      ],
+      "duration": 0.3,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_22_swipe_1.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        177,
+        999,
+        999
+      ],
+      "instruction": "scroll down to view more character avatars",
+      "start": [
+        499.1,
+        900.0
+      ],
+      "end": [
+        499.1,
+        275.4
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_22_swipe_2.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        177,
+        999,
+        999
+      ],
+      "instruction": "scroll down to view more character avatars",
+      "start": [
+        499.1,
+        900.0
+      ],
+      "end": [
+        499.1,
+        275.4
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_22_swipe_3.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        46,
+        189,
+        950,
+        937
+      ],
+      "instruction": "Swipe up on the main feed to view more posts.",
+      "start": [
+        497.2,
+        847.1
+      ],
+      "end": [
+        497.2,
+        278.8
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_23_swipe_0.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        112,
+        999,
+        177
+      ],
+      "instruction": "swipe left to view more categories in the navigation bar",
+      "start": [
+        878.7,
+        144.2
+      ],
+      "end": [
+        119.4,
+        144.2
+      ],
+      "duration": 0.3,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_23_swipe_1.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        177,
+        999,
+        999
+      ],
+      "instruction": "scroll down to view more character avatars",
+      "start": [
+        499.1,
+        900.0
+      ],
+      "end": [
+        499.1,
+        275.4
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_23_swipe_2.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        177,
+        999,
+        999
+      ],
+      "instruction": "scroll down to view more character avatars",
+      "start": [
+        499.1,
+        900.0
+      ],
+      "end": [
+        499.1,
+        275.4
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_23_swipe_3.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        46,
+        187,
+        950,
+        945
+      ],
+      "instruction": "Swipe up on the main feed to view more posts.",
+      "start": [
+        497.2,
+        853.8
+      ],
+      "end": [
+        497.2,
+        277.9
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.perplexity.comet_page_0_swipe_1.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        40,
+        237,
+        956,
+        654
+      ],
+      "instruction": "Swipe up on the main feed to view more posts.",
+      "start": [
+        497.2,
+        603.8
+      ],
+      "end": [
+        497.2,
+        286.7
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.perplexity.comet_page_1_swipe_1.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        40,
+        237,
+        956,
+        654
+      ],
+      "instruction": "Swipe up on the main feed to view more posts.",
+      "start": [
+        497.2,
+        603.8
+      ],
+      "end": [
+        497.2,
+        286.7
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.perplexity.comet_page_2_swipe_1.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        40,
+        237,
+        956,
+        654
+      ],
+      "instruction": "Swipe up on the main feed to view more posts.",
+      "start": [
+        497.2,
+        603.8
+      ],
+      "end": [
+        497.2,
+        286.7
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.perplexity.comet_page_4_swipe_0.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        38,
+        66,
+        961,
+        999
+      ],
+      "instruction": "scroll down to view more settings options",
+      "start": [
+        499.1,
+        886.7
+      ],
+      "end": [
+        499.1,
+        177.9
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.perplexity.comet_page_4_swipe_1.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        40,
+        310,
+        958,
+        900
+      ],
+      "instruction": "Swipe up on the settings list to reveal more options.",
+      "start": [
+        498.1,
+        829.2
+      ],
+      "end": [
+        498.1,
+        380.4
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.perplexity.comet_page_5_swipe_0.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        84,
+        999,
+        999
+      ],
+      "instruction": "scroll down to view more widget options",
+      "start": [
+        499.1,
+        889.2
+      ],
+      "end": [
+        499.1,
+        193.8
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.perplexity.comet_page_5_swipe_1.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        43,
+        43,
+        957,
+        999
+      ],
+      "instruction": "Swipe up on the widget selection screen to view more widget options.",
+      "start": [
+        500.0,
+        884.2
+      ],
+      "end": [
+        500.0,
+        157.5
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.bd.nproject_page_0_swipe_2.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        139,
+        999,
+        951
+      ],
+      "instruction": "scroll down",
+      "start": [
+        499.1,
+        853.3
+      ],
+      "end": [
+        499.1,
+        236.2
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.bd.nproject_page_0_swipe_3.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        139,
+        999,
+        951
+      ],
+      "instruction": "scroll down",
+      "start": [
+        499.1,
+        853.3
+      ],
+      "end": [
+        499.1,
+        236.2
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.bd.nproject_page_0_swipe_4.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        137,
+        1000,
+        950
+      ],
+      "instruction": "Swipe up on the main feed to view more posts",
+      "start": [
+        500.0,
+        852.1
+      ],
+      "end": [
+        500.0,
+        234.2
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.bd.nproject_page_2_swipe_0.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        999,
+        999
+      ],
+      "instruction": "scroll down to view more activities in the Activity Booth",
+      "start": [
+        499.1,
+        878.8
+      ],
+      "end": [
+        499.1,
+        119.6
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.bd.nproject_page_2_swipe_1.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        29,
+        97,
+        971,
+        387
+      ],
+      "instruction": "swipe left to view more weekly trends content",
+      "start": [
+        857.4,
+        241.7
+      ],
+      "end": [
+        141.7,
+        241.7
+      ],
+      "duration": 0.3,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "com.bd.nproject_page_2_swipe_2.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        97,
+        1000,
+        999
+      ],
+      "instruction": "Swipe up on the main feed to view more activities and trends.",
+      "start": [
+        500.0,
+        890.4
+      ],
+      "end": [
+        500.0,
+        205.0
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.bd.nproject_page_3_swipe_1.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        43,
+        107,
+        957,
+        577
+      ],
+      "instruction": "Swipe up on the search suggestions feed to view more options.",
+      "start": [
+        500.0,
+        520.4
+      ],
+      "end": [
+        500.0,
+        163.3
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.bd.nproject_page_4_swipe_0.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        90,
+        999,
+        951
+      ],
+      "instruction": "scroll down",
+      "start": [
+        499.1,
+        847.5
+      ],
+      "end": [
+        499.1,
+        192.9
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.bd.nproject_page_4_swipe_2.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        139,
+        999,
+        951
+      ],
+      "instruction": "scroll down",
+      "start": [
+        499.1,
+        853.3
+      ],
+      "end": [
+        499.1,
+        236.2
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.bd.nproject_page_4_swipe_3.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        139,
+        999,
+        951
+      ],
+      "instruction": "scroll down",
+      "start": [
+        499.1,
+        853.3
+      ],
+      "end": [
+        499.1,
+        236.2
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.bd.nproject_page_4_swipe_4.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        137,
+        1000,
+        950
+      ],
+      "instruction": "Swipe up on the main feed to view more posts",
+      "start": [
+        500.0,
+        852.1
+      ],
+      "end": [
+        500.0,
+        234.2
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.bd.nproject_page_5_swipe_0.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        90,
+        999,
+        951
+      ],
+      "instruction": "scroll down",
+      "start": [
+        499.1,
+        847.5
+      ],
+      "end": [
+        499.1,
+        192.9
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.bd.nproject_page_5_swipe_2.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        139,
+        999,
+        951
+      ],
+      "instruction": "scroll down",
+      "start": [
+        499.1,
+        853.3
+      ],
+      "end": [
+        499.1,
+        236.2
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.bd.nproject_page_5_swipe_3.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        139,
+        999,
+        951
+      ],
+      "instruction": "scroll down",
+      "start": [
+        499.1,
+        853.3
+      ],
+      "end": [
+        499.1,
+        236.2
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.bd.nproject_page_5_swipe_4.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        137,
+        1000,
+        950
+      ],
+      "instruction": "Swipe up on the main feed to view more posts",
+      "start": [
+        500.0,
+        852.1
+      ],
+      "end": [
+        500.0,
+        234.2
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.bd.nproject_page_6_swipe_0.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        90,
+        999,
+        951
+      ],
+      "instruction": "scroll down",
+      "start": [
+        499.1,
+        847.5
+      ],
+      "end": [
+        499.1,
+        192.9
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.bd.nproject_page_6_swipe_2.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        139,
+        999,
+        951
+      ],
+      "instruction": "scroll down",
+      "start": [
+        499.1,
+        853.3
+      ],
+      "end": [
+        499.1,
+        236.2
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.bd.nproject_page_6_swipe_3.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        139,
+        999,
+        951
+      ],
+      "instruction": "scroll down",
+      "start": [
+        499.1,
+        853.3
+      ],
+      "end": [
+        499.1,
+        236.2
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.bd.nproject_page_6_swipe_4.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        137,
+        1000,
+        950
+      ],
+      "instruction": "Swipe up on the main feed to view more posts",
+      "start": [
+        500.0,
+        852.1
+      ],
+      "end": [
+        500.0,
+        234.2
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.bd.nproject_page_7_swipe_0.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        90,
+        999,
+        951
+      ],
+      "instruction": "scroll down to view more outdoor content",
+      "start": [
+        499.1,
+        847.5
+      ],
+      "end": [
+        499.1,
+        192.9
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.bd.nproject_page_7_swipe_2.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        139,
+        999,
+        951
+      ],
+      "instruction": "scroll down",
+      "start": [
+        499.1,
+        853.3
+      ],
+      "end": [
+        499.1,
+        236.2
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.bd.nproject_page_7_swipe_3.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        139,
+        999,
+        951
+      ],
+      "instruction": "scroll down",
+      "start": [
+        499.1,
+        853.3
+      ],
+      "end": [
+        499.1,
+        236.2
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.bd.nproject_page_7_swipe_4.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        137,
+        1000,
+        950
+      ],
+      "instruction": "Swipe up on the main feed to view more posts",
+      "start": [
+        500.0,
+        852.1
+      ],
+      "end": [
+        500.0,
+        234.2
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.bd.nproject_page_8_swipe_0.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        90,
+        999,
+        951
+      ],
+      "instruction": "scroll down",
+      "start": [
+        499.1,
+        847.5
+      ],
+      "end": [
+        499.1,
+        192.9
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.bd.nproject_page_8_swipe_1.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        90,
+        999,
+        134
+      ],
+      "instruction": "swipe left to view more categories",
+      "start": [
+        878.7,
+        111.7
+      ],
+      "end": [
+        119.4,
+        111.7
+      ],
+      "duration": 0.3,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "com.bd.nproject_page_8_swipe_2.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        139,
+        999,
+        951
+      ],
+      "instruction": "scroll down",
+      "start": [
+        499.1,
+        853.3
+      ],
+      "end": [
+        499.1,
+        236.2
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.bd.nproject_page_8_swipe_3.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        139,
+        999,
+        951
+      ],
+      "instruction": "scroll down",
+      "start": [
+        499.1,
+        853.3
+      ],
+      "end": [
+        499.1,
+        236.2
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.bd.nproject_page_8_swipe_4.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        137,
+        1000,
+        950
+      ],
+      "instruction": "Swipe up on the main feed to view more posts",
+      "start": [
+        500.0,
+        852.1
+      ],
+      "end": [
+        500.0,
+        234.2
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.bd.nproject_page_9_swipe_0.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        90,
+        666,
+        951
+      ],
+      "instruction": "scroll down to read more about BPD awareness",
+      "start": [
+        332.4,
+        847.5
+      ],
+      "end": [
+        332.4,
+        192.9
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.bd.nproject_page_9_swipe_1.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        90,
+        666,
+        134
+      ],
+      "instruction": "scroll left to view more categories",
+      "start": [
+        585.2,
+        111.7
+      ],
+      "end": [
+        79.6,
+        111.7
+      ],
+      "duration": 0.3,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "com.bd.nproject_page_9_swipe_2.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        139,
+        666,
+        951
+      ],
+      "instruction": "scroll down to read more about BPD awareness",
+      "start": [
+        332.4,
+        853.3
+      ],
+      "end": [
+        332.4,
+        236.2
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.bd.nproject_page_9_swipe_3.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        139,
+        666,
+        951
+      ],
+      "instruction": "scroll down to read more about BPD awareness",
+      "start": [
+        332.4,
+        853.3
+      ],
+      "end": [
+        332.4,
+        236.2
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.bd.nproject_page_9_swipe_4.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        103,
+        999,
+        947
+      ],
+      "instruction": "scroll down to read the full post about BPD",
+      "start": [
+        499.1,
+        845.4
+      ],
+      "end": [
+        499.1,
+        204.2
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.bd.nproject_page_9_swipe_5.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        103,
+        999,
+        703
+      ],
+      "instruction": "scroll down to read the full post",
+      "start": [
+        499.1,
+        630.8
+      ],
+      "end": [
+        499.1,
+        175.0
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.bd.nproject_page_9_swipe_6.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        103,
+        999,
+        703
+      ],
+      "instruction": "scroll down to read the full post",
+      "start": [
+        499.1,
+        630.8
+      ],
+      "end": [
+        499.1,
+        175.0
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.bd.nproject_page_9_swipe_7.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        103,
+        1000,
+        999
+      ],
+      "instruction": "Swipe up on the main feed to view more posts.",
+      "start": [
+        500.0,
+        891.2
+      ],
+      "end": [
+        500.0,
+        210.4
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.bd.nproject_page_10_swipe_0.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        90,
+        999,
+        951
+      ],
+      "instruction": "scroll down to view more content",
+      "start": [
+        499.1,
+        847.5
+      ],
+      "end": [
+        499.1,
+        192.9
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.bd.nproject_page_10_swipe_2.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        139,
+        999,
+        951
+      ],
+      "instruction": "scroll down",
+      "start": [
+        499.1,
+        853.3
+      ],
+      "end": [
+        499.1,
+        236.2
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.bd.nproject_page_10_swipe_3.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        139,
+        999,
+        951
+      ],
+      "instruction": "scroll down",
+      "start": [
+        499.1,
+        853.3
+      ],
+      "end": [
+        499.1,
+        236.2
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.bd.nproject_page_10_swipe_4.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        137,
+        1000,
+        945
+      ],
+      "instruction": "Swipe up on the main feed to view more posts",
+      "start": [
+        500.0,
+        847.9
+      ],
+      "end": [
+        500.0,
+        233.8
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.bd.nproject_page_11_swipe_0.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        90,
+        666,
+        951
+      ],
+      "instruction": "scroll down to see more content",
+      "start": [
+        332.4,
+        847.5
+      ],
+      "end": [
+        332.4,
+        192.9
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.bd.nproject_page_11_swipe_1.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        90,
+        666,
+        134
+      ],
+      "instruction": "scroll left to view more categories",
+      "start": [
+        585.2,
+        111.7
+      ],
+      "end": [
+        79.6,
+        111.7
+      ],
+      "duration": 0.3,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "com.bd.nproject_page_11_swipe_2.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        139,
+        666,
+        951
+      ],
+      "instruction": "scroll down to see more content",
+      "start": [
+        332.4,
+        853.3
+      ],
+      "end": [
+        332.4,
+        236.2
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.bd.nproject_page_11_swipe_3.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        139,
+        666,
+        951
+      ],
+      "instruction": "scroll down to view more content",
+      "start": [
+        332.4,
+        853.3
+      ],
+      "end": [
+        332.4,
+        236.2
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.bd.nproject_page_11_swipe_4.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        103,
+        999,
+        890
+      ],
+      "instruction": "scroll down to read more about the rules the user had growing up that they won't give their kids",
+      "start": [
+        499.1,
+        795.4
+      ],
+      "end": [
+        499.1,
+        197.1
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.bd.nproject_page_11_swipe_5.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        103,
+        999,
+        703
+      ],
+      "instruction": "scroll down to see more content in the post",
+      "start": [
+        499.1,
+        630.8
+      ],
+      "end": [
+        499.1,
+        175.0
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.bd.nproject_page_11_swipe_6.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        103,
+        999,
+        703
+      ],
+      "instruction": "scroll down to see more content in the post",
+      "start": [
+        499.1,
+        630.8
+      ],
+      "end": [
+        499.1,
+        175.0
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.bd.nproject_page_11_swipe_7.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        103,
+        1000,
+        704
+      ],
+      "instruction": "Swipe up on the main feed to view more posts.",
+      "start": [
+        500.0,
+        631.7
+      ],
+      "end": [
+        500.0,
+        175.0
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.bd.nproject_page_12_swipe_0.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        90,
+        999,
+        951
+      ],
+      "instruction": "scroll down",
+      "start": [
+        499.1,
+        847.5
+      ],
+      "end": [
+        499.1,
+        192.9
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.bd.nproject_page_12_swipe_2.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        139,
+        999,
+        951
+      ],
+      "instruction": "scroll down",
+      "start": [
+        499.1,
+        853.3
+      ],
+      "end": [
+        499.1,
+        236.2
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.bd.nproject_page_12_swipe_3.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        139,
+        999,
+        951
+      ],
+      "instruction": "scroll down",
+      "start": [
+        499.1,
+        853.3
+      ],
+      "end": [
+        499.1,
+        236.2
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.bd.nproject_page_12_swipe_4.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        137,
+        1000,
+        950
+      ],
+      "instruction": "Swipe up on the main feed to view more posts",
+      "start": [
+        500.0,
+        852.1
+      ],
+      "end": [
+        500.0,
+        234.2
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.bd.nproject_page_13_swipe_0.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        90,
+        666,
+        951
+      ],
+      "instruction": "scroll down",
+      "start": [
+        332.4,
+        847.5
+      ],
+      "end": [
+        332.4,
+        192.9
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.bd.nproject_page_13_swipe_2.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        139,
+        666,
+        951
+      ],
+      "instruction": "scroll down to see more posts",
+      "start": [
+        332.4,
+        853.3
+      ],
+      "end": [
+        332.4,
+        236.2
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.bd.nproject_page_13_swipe_3.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        139,
+        666,
+        951
+      ],
+      "instruction": "scroll down to view more content",
+      "start": [
+        332.4,
+        853.3
+      ],
+      "end": [
+        332.4,
+        236.2
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.bd.nproject_page_13_swipe_4.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        103,
+        999,
+        890
+      ],
+      "instruction": "scroll down to view more content",
+      "start": [
+        499.1,
+        795.4
+      ],
+      "end": [
+        499.1,
+        197.1
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.bd.nproject_page_13_swipe_5.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        103,
+        999,
+        703
+      ],
+      "instruction": "scroll down",
+      "start": [
+        499.1,
+        630.8
+      ],
+      "end": [
+        499.1,
+        175.0
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.bd.nproject_page_14_swipe_0.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        90,
+        999,
+        951
+      ],
+      "instruction": "scroll down to view more content",
+      "start": [
+        499.1,
+        847.5
+      ],
+      "end": [
+        499.1,
+        192.9
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.bd.nproject_page_14_swipe_2.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        139,
+        999,
+        951
+      ],
+      "instruction": "scroll down to view more content",
+      "start": [
+        499.1,
+        853.3
+      ],
+      "end": [
+        499.1,
+        236.2
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.bd.nproject_page_14_swipe_3.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        139,
+        999,
+        951
+      ],
+      "instruction": "scroll down to view more content",
+      "start": [
+        499.1,
+        853.3
+      ],
+      "end": [
+        499.1,
+        236.2
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.bd.nproject_page_14_swipe_4.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        135,
+        1000,
+        950
+      ],
+      "instruction": "Swipe up on the main feed to view more posts",
+      "start": [
+        500.0,
+        852.1
+      ],
+      "end": [
+        500.0,
+        232.5
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.finch.finch_page_0_swipe_0.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        61,
+        999,
+        920
+      ],
+      "instruction": "scroll down to view more goals",
+      "start": [
+        499.1,
+        816.7
+      ],
+      "end": [
+        499.1,
+        163.8
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.finch.finch_page_0_swipe_2.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        38,
+        520,
+        961,
+        610
+      ],
+      "instruction": "swipe left to view more goals",
+      "start": [
+        850.0,
+        565.0
+      ],
+      "end": [
+        148.1,
+        565.0
+      ],
+      "duration": 0.3,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "com.finch.finch_page_0_swipe_3.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        38,
+        610,
+        961,
+        699
+      ],
+      "instruction": "swipe left to view more goals",
+      "start": [
+        850.0,
+        654.2
+      ],
+      "end": [
+        148.1,
+        654.2
+      ],
+      "duration": 0.3,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "com.finch.finch_page_0_swipe_4.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        38,
+        699,
+        961,
+        789
+      ],
+      "instruction": "swipe left to view more goals",
+      "start": [
+        850.0,
+        743.8
+      ],
+      "end": [
+        148.1,
+        743.8
+      ],
+      "duration": 0.3,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "com.finch.finch_page_0_swipe_5.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        38,
+        789,
+        961,
+        905
+      ],
+      "instruction": "swipe left to view more goals",
+      "start": [
+        850.0,
+        846.7
+      ],
+      "end": [
+        148.1,
+        846.7
+      ],
+      "duration": 0.3,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "com.finch.finch_page_0_swipe_6.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        47,
+        1000,
+        880
+      ],
+      "instruction": "Swipe up on the main feed to view more goals or content.",
+      "start": [
+        500.0,
+        780.0
+      ],
+      "end": [
+        500.0,
+        146.7
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.finch.finch_page_1_swipe_0.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        103,
+        999,
+        999
+      ],
+      "instruction": "scroll down",
+      "start": [
+        499.1,
+        891.2
+      ],
+      "end": [
+        499.1,
+        210.4
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.finch.finch_page_1_swipe_1.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        37,
+        104,
+        962,
+        999
+      ],
+      "instruction": "Swipe up on the main feed to view more content.",
+      "start": [
+        499.1,
+        891.2
+      ],
+      "end": [
+        499.1,
+        211.2
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.finch.finch_page_7_swipe_0.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        999,
+        920
+      ],
+      "instruction": "scroll down to view more details in Test's collection",
+      "start": [
+        499.1,
+        809.6
+      ],
+      "end": [
+        499.1,
+        110.0
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.finch.finch_page_7_swipe_1.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        999
+      ],
+      "instruction": "Swipe up on the main feed to view more content.",
+      "start": [
+        500.0,
+        878.8
+      ],
+      "end": [
+        500.0,
+        119.6
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.finch.finch_page_11_swipe_0.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        80,
+        999,
+        999
+      ],
+      "instruction": "Select the \"Hygiene\" option by tapping on it.",
+      "start": [
+        499.1,
+        888.3
+      ],
+      "end": [
+        499.1,
+        190.0
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.finch.finch_page_11_swipe_1.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        83,
+        1000,
+        999
+      ],
+      "instruction": "Swipe up on the main feed to view more focus categories.",
+      "start": [
+        500.0,
+        888.8
+      ],
+      "end": [
+        500.0,
+        192.9
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.finch.finch_page_12_swipe_0.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        80,
+        999,
+        999
+      ],
+      "instruction": "Select the \"Calm\" option to focus on calming activities.",
+      "start": [
+        499.1,
+        888.3
+      ],
+      "end": [
+        499.1,
+        190.0
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.finch.finch_page_12_swipe_1.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        83,
+        1000,
+        999
+      ],
+      "instruction": "Swipe up on the main feed to view more focus categories.",
+      "start": [
+        500.0,
+        888.8
+      ],
+      "end": [
+        500.0,
+        192.9
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.finch.finch_page_23_swipe_0.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        80,
+        999,
+        999
+      ],
+      "instruction": "Select the \"Hygiene\" option by tapping on it.",
+      "start": [
+        499.1,
+        888.3
+      ],
+      "end": [
+        499.1,
+        190.0
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.finch.finch_page_23_swipe_1.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        83,
+        1000,
+        999
+      ],
+      "instruction": "Swipe up on the main feed to view more focus categories.",
+      "start": [
+        500.0,
+        888.8
+      ],
+      "end": [
+        500.0,
+        192.9
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.wisernow.android_page_0_swipe_0.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "向上滑动主界面以加载更多内容",
+      "start": [
+        500.0,
+        800.0
+      ],
+      "end": [
+        500.0,
+        200.0
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.wisernow.android_page_2_swipe_0.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        42,
+        999,
+        999
+      ],
+      "instruction": "向下滚动以查看更多内容",
+      "start": [
+        499.1,
+        807.5
+      ],
+      "end": [
+        499.1,
+        233.3
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.wisernow.android_page_0_swipe_4.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        831,
+        999,
+        999
+      ],
+      "instruction": "scroll left",
+      "start": [
+        878.7,
+        915.0
+      ],
+      "end": [
+        119.4,
+        915.0
+      ],
+      "duration": 0.3,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "com.wisernow.android_page_1_swipe_4.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        831,
+        999,
+        999
+      ],
+      "instruction": "swipe left on the scrollable component at the bottom of the screen",
+      "start": [
+        878.7,
+        915.0
+      ],
+      "end": [
+        119.4,
+        915.0
+      ],
+      "duration": 0.3,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "com.wisernow.android_page_2_swipe_4.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        831,
+        999,
+        999
+      ],
+      "instruction": "Swipe left to view more key insights.",
+      "start": [
+        878.7,
+        915.0
+      ],
+      "end": [
+        119.4,
+        915.0
+      ],
+      "duration": 0.3,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "com.wisernow.android_page_2_swipe_5.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        175,
+        1000,
+        925
+      ],
+      "instruction": "Swipe up on the main feed to view more content.",
+      "start": [
+        500.0,
+        835.0
+      ],
+      "end": [
+        500.0,
+        265.0
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.wisernow.android_page_3_swipe_4.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        831,
+        999,
+        999
+      ],
+      "instruction": "swipe left on the scrollable component at the bottom of the screen",
+      "start": [
+        878.7,
+        915.0
+      ],
+      "end": [
+        119.4,
+        915.0
+      ],
+      "duration": 0.3,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "com.wisernow.android_page_4_swipe_4.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        831,
+        999,
+        999
+      ],
+      "instruction": "Swipe left to view more key insights.",
+      "start": [
+        878.7,
+        915.0
+      ],
+      "end": [
+        119.4,
+        915.0
+      ],
+      "duration": 0.3,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "com.wisernow.android_page_4_swipe_5.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        175,
+        1000,
+        925
+      ],
+      "instruction": "Swipe up on the main feed to view more content.",
+      "start": [
+        500.0,
+        835.0
+      ],
+      "end": [
+        500.0,
+        265.0
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.wisernow.android_page_5_swipe_4.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        831,
+        999,
+        999
+      ],
+      "instruction": "scroll left",
+      "start": [
+        878.7,
+        915.0
+      ],
+      "end": [
+        119.4,
+        915.0
+      ],
+      "duration": 0.3,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "com.wisernow.android_page_6_swipe_4.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        831,
+        999,
+        999
+      ],
+      "instruction": "scroll left",
+      "start": [
+        878.7,
+        915.0
+      ],
+      "end": [
+        119.4,
+        915.0
+      ],
+      "duration": 0.3,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "company.thebrowser.arc_page_1_swipe_1.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        303,
+        1000,
+        609
+      ],
+      "instruction": "Swipe up on the main feed to view more content.",
+      "start": [
+        500.0,
+        572.1
+      ],
+      "end": [
+        500.0,
+        339.6
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "company.thebrowser.arc_page_3_swipe_0.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        42,
+        999,
+        925
+      ],
+      "instruction": "scroll down to view more content in the Resource Center",
+      "start": [
+        499.1,
+        818.8
+      ],
+      "end": [
+        499.1,
+        147.9
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "company.thebrowser.arc_page_3_swipe_1.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        100,
+        1000,
+        900
+      ],
+      "instruction": "Swipe up on the main content area to view more resources.",
+      "start": [
+        500.0,
+        803.8
+      ],
+      "end": [
+        500.0,
+        195.8
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "company.thebrowser.arc_page_4_swipe_0.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        42,
+        999,
+        925
+      ],
+      "instruction": "scroll down to view more content in the Resource Center",
+      "start": [
+        499.1,
+        818.8
+      ],
+      "end": [
+        499.1,
+        147.9
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "company.thebrowser.arc_page_4_swipe_1.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        100,
+        1000,
+        900
+      ],
+      "instruction": "Swipe up on the main content area to view more resources.",
+      "start": [
+        500.0,
+        803.8
+      ],
+      "end": [
+        500.0,
+        195.8
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "company.thebrowser.arc_page_6_swipe_0.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        344,
+        999,
+        999
+      ],
+      "instruction": "scroll down",
+      "start": [
+        499.1,
+        920.0
+      ],
+      "end": [
+        499.1,
+        422.5
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "company.thebrowser.arc_page_9_swipe_0.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        42,
+        999,
+        925
+      ],
+      "instruction": "scroll down to view more content in the Resource Center",
+      "start": [
+        499.1,
+        818.8
+      ],
+      "end": [
+        499.1,
+        147.9
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "company.thebrowser.arc_page_9_swipe_1.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        100,
+        1000,
+        900
+      ],
+      "instruction": "Swipe up on the main content area to view more resources.",
+      "start": [
+        500.0,
+        803.8
+      ],
+      "end": [
+        500.0,
+        195.8
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "company.thebrowser.arc_page_11_swipe_1.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        300,
+        1000,
+        600
+      ],
+      "instruction": "Swipe up on the search results area to view more content.",
+      "start": [
+        500.0,
+        563.8
+      ],
+      "end": [
+        500.0,
+        335.8
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "company.thebrowser.arc_page_12_swipe_0.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        42,
+        999,
+        925
+      ],
+      "instruction": "scroll down to view more content in the Resource Center",
+      "start": [
+        499.1,
+        818.8
+      ],
+      "end": [
+        499.1,
+        147.9
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "company.thebrowser.arc_page_12_swipe_1.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        48,
+        1000,
+        928
+      ],
+      "instruction": "Swipe up on the main content area to scroll through the Resource Center.",
+      "start": [
+        500.0,
+        822.1
+      ],
+      "end": [
+        500.0,
+        153.3
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.warpengine.viggle_001.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "Swipe up on the home page to discover more content",
+      "success": true,
+      "start": [
+        500,
+        900
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.warpengine.viggle_002.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        135,
+        1000,
+        935
+      ],
+      "instruction": "scroll the video grid area with multiple video thumbnails to browse more content.",
+      "success": true,
+      "start": [
+        500,
+        855
+      ],
+      "end": [
+        500,
+        215
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.warpengine.viggle_003.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        65,
+        1000,
+        100
+      ],
+      "instruction": "swipe horizontally in the top navigation tab bar to switch between different content categories.",
+      "success": false,
+      "start": [
+        900,
+        82
+      ],
+      "end": [
+        100,
+        82
+      ],
+      "duration": 300,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "com.warpengine.viggle_004.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        135,
+        1000,
+        935
+      ],
+      "instruction": "scroll the video grid area with multiple video thumbnails to browse more content.",
+      "success": false,
+      "start": [
+        500,
+        855
+      ],
+      "end": [
+        500,
+        215
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.warpengine.viggle_005.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "Swipe left on the home page to discover more content",
+      "success": false,
+      "start": [
+        900,
+        500
+      ],
+      "end": [
+        100,
+        500
+      ],
+      "duration": 300,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "com.warpengine.viggle_006.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        131,
+        500,
+        935
+      ],
+      "instruction": "scroll up in the left video list to browse more content.",
+      "success": false,
+      "start": [
+        250,
+        855
+      ],
+      "end": [
+        250,
+        211
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.warpengine.viggle_007.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        500,
+        131,
+        1000,
+        935
+      ],
+      "instruction": "scroll up in the right video list to browse more content.",
+      "success": false,
+      "start": [
+        750,
+        855
+      ],
+      "end": [
+        750,
+        211
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.warpengine.viggle_008.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        100,
+        1000,
+        131
+      ],
+      "instruction": "swipe left in the top navigation tab bar to switch between different content categories.",
+      "success": false,
+      "start": [
+        900,
+        116
+      ],
+      "end": [
+        100,
+        116
+      ],
+      "duration": 300,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "com.warpengine.viggle_009.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        131,
+        500,
+        935
+      ],
+      "instruction": "scroll up in the left video list to browse more content.",
+      "success": false,
+      "start": [
+        250,
+        855
+      ],
+      "end": [
+        250,
+        211
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.warpengine.viggle_010.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        500,
+        131,
+        1000,
+        935
+      ],
+      "instruction": "scroll up in the right video list to browse more content.",
+      "success": false,
+      "start": [
+        750,
+        855
+      ],
+      "end": [
+        750,
+        211
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.google.android.googlequicksearchbox_001.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "Swipe up on the home page to discover more content",
+      "success": true,
+      "start": [
+        500,
+        900
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.google.android.googlequicksearchbox_002.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        228,
+        1000,
+        750
+      ],
+      "instruction": "scroll up in the list to browse different content.",
+      "success": true,
+      "start": [
+        500,
+        698
+      ],
+      "end": [
+        500,
+        280
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.google.android.googlequicksearchbox_003.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        750,
+        1000,
+        999
+      ],
+      "instruction": "A list of Minecraft game content, users can scroll up and down to browse different content.",
+      "success": false,
+      "start": [
+        500,
+        974
+      ],
+      "end": [
+        500,
+        775
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.google.android.googlequicksearchbox_004.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        50
+      ],
+      "instruction": "Top banner ad carousel, users can swipe left or right to view different ads.",
+      "success": false,
+      "start": [
+        900,
+        25
+      ],
+      "end": [
+        100,
+        25
+      ],
+      "duration": 300,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "com.google.android.googlequicksearchbox_005.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "Swipe left on the home page to discover more content",
+      "success": false,
+      "start": [
+        900,
+        500
+      ],
+      "end": [
+        100,
+        500
+      ],
+      "duration": 300,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "com.google.android.googlequicksearchbox_006.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        533,
+        1000,
+        900
+      ],
+      "instruction": "News card: Samsung bets big on Gemini, doubling to 800 million devices in a year, directly competing with Apple and OpenAI.",
+      "success": false,
+      "start": [
+        500,
+        863
+      ],
+      "end": [
+        500,
+        570
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.google.android.googlequicksearchbox_007.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        499,
+        1000,
+        900
+      ],
+      "instruction": "A scrollable list area containing news cards",
+      "success": false,
+      "start": [
+        500,
+        860
+      ],
+      "end": [
+        500,
+        539
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.google.android.googlequicksearchbox_008.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        999
+      ],
+      "instruction": "The entire Google search homepage, supports vertical scrolling to browse content",
+      "success": false,
+      "start": [
+        500,
+        899
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.google.android.googlequicksearchbox_009.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        790,
+        1000,
+        900
+      ],
+      "instruction": "News headline area, can be scrolled to view more content",
+      "success": false,
+      "start": [
+        500,
+        889
+      ],
+      "end": [
+        500,
+        801
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.google.android.googlequicksearchbox_010.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        900,
+        1000,
+        999
+      ],
+      "instruction": "Bottom navigation bar, can be swiped left or right to switch pages",
+      "success": false,
+      "start": [
+        900,
+        950
+      ],
+      "end": [
+        100,
+        950
+      ],
+      "duration": 300,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "tech.butterfly.app_001.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "Swipe up on the home page to discover more content",
+      "success": false,
+      "start": [
+        500,
+        900
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "tech.butterfly.app_002.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "Swipe left on the home page to discover more content",
+      "success": false,
+      "start": [
+        900,
+        500
+      ],
+      "end": [
+        100,
+        500
+      ],
+      "duration": 300,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "tech.butterfly.app_003.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        28,
+        378,
+        857,
+        472
+      ],
+      "instruction": "Edit image function card, contains icon and description text",
+      "success": false,
+      "start": [
+        442,
+        463
+      ],
+      "end": [
+        442,
+        387
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "tech.butterfly.app_004.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        28,
+        492,
+        970,
+        600
+      ],
+      "instruction": "Task assignment input area, contains text box and action buttons",
+      "success": false,
+      "start": [
+        499,
+        589
+      ],
+      "end": [
+        499,
+        503
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "tech.butterfly.app_005.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        28,
+        618,
+        970,
+        935
+      ],
+      "instruction": "Virtual keyboard area for text input",
+      "success": false,
+      "start": [
+        499,
+        903
+      ],
+      "end": [
+        499,
+        650
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "tech.butterfly.app_006.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        880,
+        378,
+        1000,
+        472
+      ],
+      "instruction": "Right preview image carousel area",
+      "success": true,
+      "start": [
+        988,
+        425
+      ],
+      "end": [
+        892,
+        425
+      ],
+      "duration": 300,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "tech.butterfly.app_007.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        378,
+        800,
+        475
+      ],
+      "instruction": "Edit image function card, contains icon and description text",
+      "success": false,
+      "start": [
+        400,
+        465
+      ],
+      "end": [
+        400,
+        388
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "tech.butterfly.app_008.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        800,
+        378,
+        1000,
+        475
+      ],
+      "instruction": "Card displaying mobile phone screenshots, possibly a feature preview",
+      "success": false,
+      "start": [
+        900,
+        465
+      ],
+      "end": [
+        900,
+        388
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "tech.butterfly.app_009.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        492,
+        999,
+        599
+      ],
+      "instruction": "Task assignment input area, supports text and voice input",
+      "success": false,
+      "start": [
+        500,
+        588
+      ],
+      "end": [
+        500,
+        503
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "tech.butterfly.app_010.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        28,
+        100,
+        970,
+        143
+      ],
+      "instruction": "Network connection status bar",
+      "success": false,
+      "start": [
+        499,
+        139
+      ],
+      "end": [
+        499,
+        104
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.picoai.languageapp.android_021.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        875,
+        52,
+        950,
+        85
+      ],
+      "instruction": "Button for opening settings or more options.",
+      "success": true
+    }
+  },
+  {
+    "img_filename": "com.picoai.languageapp.android_022.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        58,
+        525,
+        939,
+        879
+      ],
+      "instruction": "Calendar view, allows users to scroll to view different months or dates.",
+      "success": false,
+      "start": [
+        498,
+        844
+      ],
+      "end": [
+        498,
+        560
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.picoai.languageapp.android_023.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        58,
+        450,
+        775,
+        470
+      ],
+      "instruction": "Progress bar showing the distance to the next milestone, can be scrolled horizontally to view progress.",
+      "success": false,
+      "start": [
+        703,
+        460
+      ],
+      "end": [
+        130,
+        460
+      ],
+      "duration": 300,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "com.picoai.languageapp.android_024.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        58,
+        910,
+        939,
+        985
+      ],
+      "instruction": "Button to share streak, tap to share current streak status.",
+      "success": true
+    }
+  },
+  {
+    "img_filename": "com.picoai.languageapp.android_025.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        37,
+        46,
+        135,
+        85
+      ],
+      "instruction": "User avatar or profile entry.",
+      "success": true
+    }
+  },
+  {
+    "img_filename": "com.picoai.languageapp.android_026.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        55,
+        120,
+        942,
+        985
+      ],
+      "instruction": "Language selection list, users can scroll to browse more language options",
+      "success": true,
+      "start": [
+        498,
+        899
+      ],
+      "end": [
+        498,
+        207
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.picoai.languageapp.android_017.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "The entire app interface, users can scroll vertically to browse different content or pages.",
+      "success": false,
+      "start": [
+        500,
+        900
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.perplexity.app.android_001.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "Swipe up on the home page to discover more content",
+      "success": false,
+      "start": [
+        500,
+        900
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.perplexity.app.android_002.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "Swipe left on the home page to discover more content",
+      "success": true,
+      "start": [
+        900,
+        500
+      ],
+      "end": [
+        100,
+        500
+      ],
+      "duration": 300,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "ai.perplexity.app.android_003.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        38,
+        245,
+        960,
+        945
+      ],
+      "instruction": "News content area with images and text, can be scrolled vertically to view more content",
+      "success": true,
+      "start": [
+        499,
+        875
+      ],
+      "end": [
+        499,
+        315
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.perplexity.app.android_004.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        38,
+        100,
+        960,
+        148
+      ],
+      "instruction": "Top navigation tab bar, can be scrolled to switch categories",
+      "success": false,
+      "start": [
+        499,
+        143
+      ],
+      "end": [
+        499,
+        105
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.perplexity.app.android_005.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        38,
+        50,
+        960,
+        90
+      ],
+      "instruction": "Top navigation bar with back button and title, can be scrolled to view",
+      "success": false,
+      "start": [
+        499,
+        86
+      ],
+      "end": [
+        499,
+        54
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.perplexity.app.android_006.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        999
+      ],
+      "instruction": "The entire app interface, including top navigation, middle content area, and bottom keyboard, users can scroll vertically to browse content.",
+      "success": false,
+      "start": [
+        500,
+        899
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.perplexity.app.android_007.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        32,
+        478,
+        964,
+        599
+      ],
+      "instruction": "Input box and its attached controls area, users can scroll vertically to adjust input box height or view hidden content.",
+      "success": false,
+      "start": [
+        498,
+        587
+      ],
+      "end": [
+        498,
+        490
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.perplexity.app.android_008.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        32,
+        379,
+        964,
+        467
+      ],
+      "instruction": "Notification prompt box, users can scroll vertically to hide or view full content.",
+      "success": false,
+      "start": [
+        498,
+        458
+      ],
+      "end": [
+        498,
+        388
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.perplexity.app.android_009.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        618,
+        1000,
+        999
+      ],
+      "instruction": "Virtual keyboard area, users can swipe left or right to switch keyboard layouts or scroll vertically to adjust keyboard position.",
+      "success": false,
+      "start": [
+        500,
+        961
+      ],
+      "end": [
+        500,
+        656
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.perplexity.app.android_010.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        100
+      ],
+      "instruction": "Top navigation bar with user avatar, login button, and status bar, users can swipe left or right to view hidden content.",
+      "success": false,
+      "start": [
+        900,
+        50
+      ],
+      "end": [
+        100,
+        50
+      ],
+      "duration": 300,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "com.underthing.focus.friend_001.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "Swipe up on the home page to discover more content",
+      "success": true,
+      "start": [
+        500,
+        900
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.underthing.focus.friend_002.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "The entire game interface, can be scrolled vertically or horizontally to browse different content or scenes.",
+      "success": true,
+      "start": [
+        500,
+        900
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.underthing.focus.friend_003.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "Swipe left on the home page to discover more content",
+      "success": true,
+      "start": [
+        900,
+        500
+      ],
+      "end": [
+        100,
+        500
+      ],
+      "duration": 300,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "com.underthing.focus.friend_004.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "The entire game interface is scrollable for browsing different scenes or tasks.",
+      "success": true,
+      "start": [
+        500,
+        900
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.underthing.focus.friend_005.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "The entire game interface, can be scrolled vertically or horizontally to browse different content or scenes.",
+      "success": true,
+      "start": [
+        500,
+        900
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.underthing.focus.friend_006.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "The entire game interface, users can scroll to browse different content or scenes.",
+      "success": true,
+      "start": [
+        500,
+        900
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.underthing.focus.friend_007.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "Swipe up on the home page to discover more content",
+      "success": true,
+      "start": [
+        500,
+        900
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.underthing.focus.friend_008.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "The entire game interface, can be scrolled vertically or horizontally to browse different content or scenes.",
+      "success": true,
+      "start": [
+        500,
+        900
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.underthing.focus.friend_009.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "Swipe left on the home page to discover more content",
+      "success": true,
+      "start": [
+        900,
+        500
+      ],
+      "end": [
+        100,
+        500
+      ],
+      "duration": 300,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "com.underthing.focus.friend_010.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        999
+      ],
+      "instruction": "Main game interface with scrollable visual content and interactive elements.",
+      "success": true,
+      "start": [
+        500,
+        899
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.underthing.focus.friend_011.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        800,
+        1000,
+        999
+      ],
+      "instruction": "Multiple interactive item icons arranged at the bottom, can be scrolled horizontally to view.",
+      "success": true,
+      "start": [
+        900,
+        900
+      ],
+      "end": [
+        100,
+        900
+      ],
+      "duration": 300,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "com.underthing.focus.friend_012.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        125,
+        47,
+        440,
+        93
+      ],
+      "instruction": "Sock icon on the left, tap to increase quantity.",
+      "success": true
+    }
+  },
+  {
+    "img_filename": "com.underthing.focus.friend_013.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "The entire game interface, can be scrolled vertically or horizontally to browse different content or scenes.",
+      "success": true,
+      "start": [
+        500,
+        900
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.underthing.focus.friend_014.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "The entire game interface, users can scroll to browse different scenes or content.",
+      "success": true,
+      "start": [
+        500,
+        900
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.picoai.languageapp.android_001.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        57,
+        579,
+        940,
+        655
+      ],
+      "instruction": "Blue 'Start' button to launch the 'Deep small talk' feature.",
+      "success": true
+    }
+  },
+  {
+    "img_filename": "com.picoai.languageapp.android_002.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        999
+      ],
+      "instruction": "The entire screen content area, users can scroll up or down to browse more content.",
+      "success": false,
+      "start": [
+        500,
+        899
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.picoai.languageapp.android_003.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        57,
+        47,
+        407,
+        85
+      ],
+      "instruction": "User avatar and level display area, tap to switch country or view level details.",
+      "success": true
+    }
+  },
+  {
+    "img_filename": "com.picoai.languageapp.android_004.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        58,
+        120,
+        939,
+        817
+      ],
+      "instruction": "A vertical list of five language proficiency descriptions, users can scroll to view details of different levels.",
+      "success": false,
+      "start": [
+        498,
+        747
+      ],
+      "end": [
+        498,
+        190
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.picoai.languageapp.android_005.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        688,
+        102,
+        925,
+        135
+      ],
+      "instruction": "'My plan' button for viewing or managing personal study plans.",
+      "success": true
+    }
+  },
+  {
+    "img_filename": "com.picoai.languageapp.android_006.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        148,
+        1000,
+        600
+      ],
+      "instruction": "A vertical list of multiple conversation skill steps, users can scroll to browse.",
+      "success": true,
+      "start": [
+        500,
+        555
+      ],
+      "end": [
+        500,
+        193
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.picoai.languageapp.android_007.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        600,
+        1000,
+        998
+      ],
+      "instruction": "A vertical list of subsequent chapter titles, users can scroll to unlock new content.",
+      "success": false,
+      "start": [
+        500,
+        958
+      ],
+      "end": [
+        500,
+        640
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.picoai.languageapp.android_008.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        0,
+        0,
+        1000,
+        148
+      ],
+      "instruction": "Top title bar with close button and page title, tap to close the page.",
+      "success": false
+    }
+  },
+  {
+    "img_filename": "com.picoai.languageapp.android_009.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        798,
+        47,
+        940,
+        85
+      ],
+      "instruction": "Water drop icon and number '0', may indicate current tasks or achievements, tap to view details.",
+      "success": false
+    }
+  },
+  {
+    "img_filename": "com.picoai.languageapp.android_010.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "Swipe up on the home page to discover more content",
+      "success": false,
+      "start": [
+        500,
+        900
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.picoai.languageapp.android_011.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "Swipe left on the home page to discover more content",
+      "success": false,
+      "start": [
+        900,
+        500
+      ],
+      "end": [
+        100,
+        500
+      ],
+      "duration": 300,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "com.picoai.languageapp.android_012.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        999
+      ],
+      "instruction": "Main content area with navigation bar, colored dots, text, and buttons, users can scroll vertically to browse content.",
+      "success": false,
+      "start": [
+        500,
+        899
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.gmlabs.perch_001.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "Swipe up on the home page to discover more content",
+      "success": true,
+      "start": [
+        500,
+        900
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.gmlabs.perch_002.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        999
+      ],
+      "instruction": "Main content list with multiple article cards, users can scroll vertically to browse different articles.",
+      "success": true,
+      "start": [
+        500,
+        899
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.gmlabs.perch_003.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        120,
+        1000,
+        350
+      ],
+      "instruction": "Part of the article list with title, author, and timestamp, can be scrolled vertically to view more content.",
+      "success": true,
+      "start": [
+        500,
+        327
+      ],
+      "end": [
+        500,
+        143
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.gmlabs.perch_004.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        350,
+        1000,
+        575
+      ],
+      "instruction": "Another part of the article list with title, author, and timestamp, can be scrolled vertically to view more content.",
+      "success": true,
+      "start": [
+        500,
+        552
+      ],
+      "end": [
+        500,
+        372
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.gmlabs.perch_005.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "Swipe left on the home page to discover more content",
+      "success": false,
+      "start": [
+        900,
+        500
+      ],
+      "end": [
+        100,
+        500
+      ],
+      "duration": 300,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "com.gmlabs.perch_006.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        99,
+        1000,
+        935
+      ],
+      "instruction": "Main content area currently showing loading animation, users can scroll vertically to load more content.",
+      "success": true,
+      "start": [
+        500,
+        851
+      ],
+      "end": [
+        500,
+        183
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.gmlabs.perch_007.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        920
+      ],
+      "instruction": "Article list with multiple entries, can be scrolled vertically to view more content",
+      "success": true,
+      "start": [
+        500,
+        828
+      ],
+      "end": [
+        500,
+        92
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.gmlabs.perch_008.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        920,
+        1000,
+        999
+      ],
+      "instruction": "Bottom navigation bar area, can be scrolled to view hidden content or switch pages",
+      "success": true,
+      "start": [
+        500,
+        991
+      ],
+      "end": [
+        500,
+        928
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.gmlabs.perch_009.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        0,
+        920,
+        1000,
+        999
+      ],
+      "instruction": "Bottom navigation bar with Home, Search, and You tabs, tap to switch pages",
+      "success": true
+    }
+  },
+  {
+    "img_filename": "com.snitl.omnitools_001.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        38,
+        252,
+        160,
+        305
+      ],
+      "instruction": "Filter button for selecting all tools.",
+      "success": true
+    }
+  },
+  {
+    "img_filename": "com.snitl.omnitools_002.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        999
+      ],
+      "instruction": "Entire screen content area, allows vertical scrolling to view more content or return to the previous page.",
+      "success": false,
+      "start": [
+        500,
+        899
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.snitl.omnitools_003.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        178,
+        252,
+        453,
+        305
+      ],
+      "instruction": "Button to filter date and time tools.",
+      "success": false
+    }
+  },
+  {
+    "img_filename": "com.snitl.omnitools_004.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        470,
+        252,
+        678,
+        305
+      ],
+      "instruction": "Button to filter financial tools.",
+      "success": false
+    }
+  },
+  {
+    "img_filename": "com.snitl.omnitools_005.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        695,
+        252,
+        999,
+        305
+      ],
+      "instruction": "Button to filter health and fitness tools.",
+      "success": false
+    }
+  },
+  {
+    "img_filename": "com.snitl.omnitools_006.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        38,
+        328,
+        960,
+        414
+      ],
+      "instruction": "Entry to special tools, tap to access advanced tools.",
+      "success": false
+    }
+  },
+  {
+    "img_filename": "com.snitl.omnitools_007.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "Swipe up on the home page to discover more content",
+      "success": true,
+      "start": [
+        500,
+        900
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.snitl.omnitools_008.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "A vertical list of tool cards, users can scroll vertically to browse more tools.",
+      "success": true,
+      "start": [
+        500,
+        900
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.snitl.omnitools_009.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "Swipe left on the home page to discover more content",
+      "success": false,
+      "start": [
+        900,
+        500
+      ],
+      "end": [
+        100,
+        500
+      ],
+      "duration": 300,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "com.snitl.omnitools_010.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        434,
+        1000,
+        999
+      ],
+      "instruction": "Tool list with multiple function cards, users can scroll vertically to browse more tools.",
+      "success": true,
+      "start": [
+        500,
+        942
+      ],
+      "end": [
+        500,
+        490
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.snitl.omnitools_011.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "A vertical list of app tiles, each with an icon, title, description, and category tag. The list appears to be scrollable to view more items.",
+      "success": true,
+      "start": [
+        500,
+        900
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.noctuasoftware.stellarium_free_001.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        37,
+        52,
+        114,
+        82
+      ],
+      "instruction": "Left menu button, tap to expand the navigation menu.",
+      "success": true
+    }
+  },
+  {
+    "img_filename": "com.noctuasoftware.stellarium_free_002.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        610,
+        567
+      ],
+      "instruction": "Left menu bar with multiple clickable options such as starry sky phrases, calendar, observation tools, etc., users can scroll to browse all options.",
+      "success": false,
+      "start": [
+        305,
+        510
+      ],
+      "end": [
+        305,
+        57
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.noctuasoftware.stellarium_free_003.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "Right starry sky background area with constellation lines and planet labels (e.g., Mercury, Mars, Sun), users can scroll to view different areas of the sky.",
+      "success": false,
+      "start": [
+        500,
+        900
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.noctuasoftware.stellarium_free_004.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        0,
+        518,
+        610,
+        567
+      ],
+      "instruction": "Exit button for closing the current menu or exiting the app.",
+      "success": true
+    }
+  },
+  {
+    "img_filename": "com.noctuasoftware.stellarium_free_005.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        875,
+        52,
+        952,
+        82
+      ],
+      "instruction": "Search icon, tap to start the search function.",
+      "success": true
+    }
+  },
+  {
+    "img_filename": "com.noctuasoftware.stellarium_free_006.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        40,
+        149,
+        956,
+        333
+      ],
+      "instruction": "List area for search history and favorites, can be scrolled vertically to view more content",
+      "success": false,
+      "start": [
+        498,
+        315
+      ],
+      "end": [
+        498,
+        167
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.noctuasoftware.stellarium_free_007.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        610
+      ],
+      "instruction": "Starry sky background image, can be scrolled horizontally or vertically to view different constellations",
+      "success": true,
+      "start": [
+        500,
+        549
+      ],
+      "end": [
+        500,
+        61
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.noctuasoftware.stellarium_free_008.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        610,
+        1000,
+        999
+      ],
+      "instruction": "Virtual keyboard area, can be scrolled to switch input modes or view more functions",
+      "success": false,
+      "start": [
+        500,
+        960
+      ],
+      "end": [
+        500,
+        649
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.noctuasoftware.stellarium_free_009.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        0,
+        938,
+        130,
+        985
+      ],
+      "instruction": "Bottom navigation bar icons, possibly for switching to other function pages.",
+      "success": false
+    }
+  },
+  {
+    "img_filename": "com.noctuasoftware.stellarium_free_010.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        440,
+        940,
+        560,
+        985
+      ],
+      "instruction": "Direction indicator, tap to adjust orientation or reset view.",
+      "success": false
+    }
+  },
+  {
+    "img_filename": "com.noctuasoftware.stellarium_free_011.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        800,
+        925,
+        960,
+        985
+      ],
+      "instruction": "Area displaying the current time, tap to view time settings or calendar.",
+      "success": true
+    }
+  },
+  {
+    "img_filename": "com.noctuasoftware.stellarium_free_012.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        40,
+        147,
+        956,
+        333
+      ],
+      "instruction": "Dropdown menu with favorites, recent, and browse options",
+      "success": false,
+      "start": [
+        498,
+        314
+      ],
+      "end": [
+        498,
+        166
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.noctuasoftware.stellarium_free_013.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        610,
+        1000,
+        830
+      ],
+      "instruction": "Bottom area showing clipboard and common phrases functions, can be scrolled to view more content",
+      "success": false,
+      "start": [
+        500,
+        808
+      ],
+      "end": [
+        500,
+        632
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.noctuasoftware.stellarium_free_014.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "The entire app interface with search bar, constellation map, and bottom function area, can be scrolled vertically to browse",
+      "success": false,
+      "start": [
+        500,
+        900
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.noctuasoftware.stellarium_free_015.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "Swipe up on the home page to discover more content",
+      "success": true,
+      "start": [
+        500,
+        900
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.noctuasoftware.stellarium_free_016.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "The entire screen content is scrollable for browsing star maps or switching between celestial views.",
+      "success": true,
+      "start": [
+        500,
+        900
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.noctuasoftware.stellarium_free_017.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "Swipe left on the home page to discover more content",
+      "success": true,
+      "start": [
+        900,
+        500
+      ],
+      "end": [
+        100,
+        500
+      ],
+      "duration": 300,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "com.noctuasoftware.stellarium_free_018.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "The entire starry sky app interface, users can scroll to view different constellations or celestial bodies",
+      "success": false,
+      "start": [
+        500,
+        900
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.noctuasoftware.stellarium_free_019.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "The entire starry sky app interface, users can scroll to view different constellations or adjust the view.",
+      "success": false,
+      "start": [
+        500,
+        900
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_0_swipe_0.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        42,
+        999,
+        999
+      ],
+      "instruction": "swipe up to scroll down the feed",
+      "start": [
+        499.1,
+        883.8
+      ],
+      "end": [
+        499.1,
+        156.7
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_0_swipe_1.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        42,
+        999,
+        999
+      ],
+      "instruction": "swipe up to scroll down the feed",
+      "start": [
+        499.1,
+        883.8
+      ],
+      "end": [
+        499.1,
+        156.7
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_0_swipe_2.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        42,
+        999,
+        999
+      ],
+      "instruction": "swipe up to scroll down the feed",
+      "start": [
+        499.1,
+        883.8
+      ],
+      "end": [
+        499.1,
+        156.7
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_0_swipe_4.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        143,
+        1000,
+        929
+      ],
+      "instruction": "Swipe up on the main feed to view more posts.",
+      "start": [
+        500.0,
+        834.6
+      ],
+      "end": [
+        500.0,
+        237.1
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_10_swipe_0.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        42,
+        999,
+        999
+      ],
+      "instruction": "swipe up to scroll down the feed",
+      "start": [
+        499.1,
+        883.8
+      ],
+      "end": [
+        499.1,
+        156.7
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_10_swipe_1.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        42,
+        999,
+        999
+      ],
+      "instruction": "swipe up to scroll down the feed",
+      "start": [
+        499.1,
+        883.8
+      ],
+      "end": [
+        499.1,
+        156.7
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_10_swipe_2.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        42,
+        999,
+        999
+      ],
+      "instruction": "swipe up to scroll down the feed",
+      "start": [
+        499.1,
+        883.8
+      ],
+      "end": [
+        499.1,
+        156.7
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_10_swipe_4.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        143,
+        1000,
+        929
+      ],
+      "instruction": "Swipe up on the main feed to view more posts.",
+      "start": [
+        500.0,
+        834.6
+      ],
+      "end": [
+        500.0,
+        237.1
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_11_swipe_0.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        42,
+        999,
+        999
+      ],
+      "instruction": "swipe up to scroll down the feed",
+      "start": [
+        499.1,
+        883.8
+      ],
+      "end": [
+        499.1,
+        156.7
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_11_swipe_1.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        42,
+        999,
+        999
+      ],
+      "instruction": "swipe up to scroll down the feed",
+      "start": [
+        499.1,
+        883.8
+      ],
+      "end": [
+        499.1,
+        156.7
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_11_swipe_2.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        42,
+        999,
+        999
+      ],
+      "instruction": "swipe up to scroll down the feed",
+      "start": [
+        499.1,
+        883.8
+      ],
+      "end": [
+        499.1,
+        156.7
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_11_swipe_4.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        143,
+        1000,
+        929
+      ],
+      "instruction": "Swipe up on the main feed to view more posts.",
+      "start": [
+        500.0,
+        834.6
+      ],
+      "end": [
+        500.0,
+        237.1
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_12_swipe_0.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        42,
+        999,
+        999
+      ],
+      "instruction": "swipe up to scroll down the feed",
+      "start": [
+        499.1,
+        883.8
+      ],
+      "end": [
+        499.1,
+        156.7
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_12_swipe_1.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        42,
+        999,
+        999
+      ],
+      "instruction": "swipe up to scroll down the feed",
+      "start": [
+        499.1,
+        883.8
+      ],
+      "end": [
+        499.1,
+        156.7
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_12_swipe_2.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        42,
+        999,
+        999
+      ],
+      "instruction": "swipe up to scroll down the feed",
+      "start": [
+        499.1,
+        883.8
+      ],
+      "end": [
+        499.1,
+        156.7
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_12_swipe_4.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        143,
+        1000,
+        929
+      ],
+      "instruction": "Swipe up on the main feed to view more posts.",
+      "start": [
+        500.0,
+        834.6
+      ],
+      "end": [
+        500.0,
+        237.1
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_17_swipe_1.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        100,
+        1000,
+        666
+      ],
+      "instruction": "Swipe up on the main feed to view more posts.",
+      "start": [
+        500.0,
+        597.9
+      ],
+      "end": [
+        500.0,
+        167.9
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_18_swipe_3.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        95,
+        999,
+        142
+      ],
+      "instruction": "swipe left on the scrollable component to view more options",
+      "start": [
+        878.7,
+        118.3
+      ],
+      "end": [
+        119.4,
+        118.3
+      ],
+      "duration": 0.3,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_19_swipe_0.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        42,
+        999,
+        999
+      ],
+      "instruction": "swipe up to scroll down the feed",
+      "start": [
+        499.1,
+        883.8
+      ],
+      "end": [
+        499.1,
+        156.7
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_19_swipe_1.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        42,
+        999,
+        999
+      ],
+      "instruction": "swipe up to scroll down the feed",
+      "start": [
+        499.1,
+        883.8
+      ],
+      "end": [
+        499.1,
+        156.7
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_19_swipe_2.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        42,
+        999,
+        999
+      ],
+      "instruction": "swipe up to scroll down the feed",
+      "start": [
+        499.1,
+        883.8
+      ],
+      "end": [
+        499.1,
+        156.7
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_19_swipe_4.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        143,
+        1000,
+        929
+      ],
+      "instruction": "Swipe up on the main feed to view more posts.",
+      "start": [
+        500.0,
+        834.6
+      ],
+      "end": [
+        500.0,
+        237.1
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_20_swipe_0.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        95,
+        999,
+        999
+      ],
+      "instruction": "scroll down to view more feeds",
+      "start": [
+        499.1,
+        890.4
+      ],
+      "end": [
+        499.1,
+        203.3
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_20_swipe_1.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        97,
+        1000,
+        937
+      ],
+      "instruction": "Swipe up on the main feed to view more feeds.",
+      "start": [
+        500.0,
+        835.8
+      ],
+      "end": [
+        500.0,
+        197.5
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_21_swipe_0.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        42,
+        999,
+        999
+      ],
+      "instruction": "swipe up to scroll down the feed",
+      "start": [
+        499.1,
+        883.8
+      ],
+      "end": [
+        499.1,
+        156.7
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_21_swipe_1.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        42,
+        999,
+        999
+      ],
+      "instruction": "swipe up to scroll down the feed",
+      "start": [
+        499.1,
+        883.8
+      ],
+      "end": [
+        499.1,
+        156.7
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_21_swipe_2.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        42,
+        999,
+        999
+      ],
+      "instruction": "swipe up to explore more content in the following feed",
+      "start": [
+        499.1,
+        883.8
+      ],
+      "end": [
+        499.1,
+        156.7
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_21_swipe_4.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        144,
+        1000,
+        900
+      ],
+      "instruction": "Swipe up on the main feed to view more posts.",
+      "start": [
+        500.0,
+        809.2
+      ],
+      "end": [
+        500.0,
+        234.6
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_22_swipe_0.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        42,
+        999,
+        999
+      ],
+      "instruction": "scroll down to view more posts",
+      "start": [
+        499.1,
+        883.8
+      ],
+      "end": [
+        499.1,
+        156.7
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_22_swipe_1.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        42,
+        999,
+        999
+      ],
+      "instruction": "scroll down to view more posts",
+      "start": [
+        499.1,
+        883.8
+      ],
+      "end": [
+        499.1,
+        156.7
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_22_swipe_2.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        42,
+        999,
+        999
+      ],
+      "instruction": "scroll down to view more videos",
+      "start": [
+        499.1,
+        883.8
+      ],
+      "end": [
+        499.1,
+        156.7
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_22_swipe_3.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        95,
+        999,
+        142
+      ],
+      "instruction": "swipe left to view more tabs in the navigation bar",
+      "start": [
+        878.7,
+        118.3
+      ],
+      "end": [
+        119.4,
+        118.3
+      ],
+      "duration": 0.3,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_22_swipe_4.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        156,
+        999,
+        933
+      ],
+      "instruction": "Swipe up on the main feed to view more posts.",
+      "start": [
+        499.1,
+        839.6
+      ],
+      "end": [
+        499.1,
+        249.2
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_23_swipe_0.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        42,
+        999,
+        999
+      ],
+      "instruction": "swipe up to scroll down the feed",
+      "start": [
+        499.1,
+        883.8
+      ],
+      "end": [
+        499.1,
+        156.7
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_23_swipe_1.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        42,
+        999,
+        999
+      ],
+      "instruction": "swipe up to scroll down the feed",
+      "start": [
+        499.1,
+        883.8
+      ],
+      "end": [
+        499.1,
+        156.7
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_23_swipe_2.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        42,
+        999,
+        999
+      ],
+      "instruction": "swipe up to scroll down the feed",
+      "start": [
+        499.1,
+        883.8
+      ],
+      "end": [
+        499.1,
+        156.7
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_23_swipe_4.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        143,
+        1000,
+        929
+      ],
+      "instruction": "Swipe up on the main feed to view more posts.",
+      "start": [
+        500.0,
+        834.6
+      ],
+      "end": [
+        500.0,
+        237.1
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_24_swipe_0.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        42,
+        999,
+        999
+      ],
+      "instruction": "swipe up to scroll down the feed",
+      "start": [
+        499.1,
+        883.8
+      ],
+      "end": [
+        499.1,
+        156.7
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_24_swipe_1.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        42,
+        999,
+        999
+      ],
+      "instruction": "swipe up to scroll down the feed",
+      "start": [
+        499.1,
+        883.8
+      ],
+      "end": [
+        499.1,
+        156.7
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_24_swipe_2.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        42,
+        999,
+        999
+      ],
+      "instruction": "swipe up to scroll down the feed",
+      "start": [
+        499.1,
+        883.8
+      ],
+      "end": [
+        499.1,
+        156.7
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_24_swipe_4.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        143,
+        1000,
+        929
+      ],
+      "instruction": "Swipe up on the main feed to view more posts.",
+      "start": [
+        500.0,
+        834.6
+      ],
+      "end": [
+        500.0,
+        237.1
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_28_swipe_1.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "Swipe up on the main feed to view more posts.",
+      "start": [
+        500.0,
+        880.0
+      ],
+      "end": [
+        500.0,
+        120.0
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_32_swipe_0.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        157,
+        999,
+        999
+      ],
+      "instruction": "scroll down to view more feeds",
+      "start": [
+        499.1,
+        897.9
+      ],
+      "end": [
+        499.1,
+        257.9
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_32_swipe_1.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        157,
+        1000,
+        562
+      ],
+      "instruction": "Swipe up on the main feed to view more posts.",
+      "start": [
+        500.0,
+        513.3
+      ],
+      "end": [
+        500.0,
+        205.4
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_32_swipe_2.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        562,
+        1000,
+        937
+      ],
+      "instruction": "Swipe up on the 'Discover new feeds' section to view more feed options.",
+      "start": [
+        500.0,
+        891.7
+      ],
+      "end": [
+        500.0,
+        606.7
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_35_swipe_0.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        42,
+        999,
+        999
+      ],
+      "instruction": "swipe up to scroll down the feed",
+      "start": [
+        499.1,
+        883.8
+      ],
+      "end": [
+        499.1,
+        156.7
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_35_swipe_1.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        42,
+        999,
+        999
+      ],
+      "instruction": "swipe up to scroll down the feed",
+      "start": [
+        499.1,
+        883.8
+      ],
+      "end": [
+        499.1,
+        156.7
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_35_swipe_2.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        42,
+        999,
+        999
+      ],
+      "instruction": "swipe up to scroll down the feed",
+      "start": [
+        499.1,
+        883.8
+      ],
+      "end": [
+        499.1,
+        156.7
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_35_swipe_4.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        143,
+        1000,
+        929
+      ],
+      "instruction": "Swipe up on the main feed to view more posts.",
+      "start": [
+        500.0,
+        834.6
+      ],
+      "end": [
+        500.0,
+        237.1
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_38_swipe_1.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        97,
+        1000,
+        657
+      ],
+      "instruction": "Swipe up on the main chat list to view more conversations.",
+      "start": [
+        500.0,
+        589.6
+      ],
+      "end": [
+        500.0,
+        164.2
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_39_swipe_0.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        42,
+        999,
+        999
+      ],
+      "instruction": "swipe up to scroll down the feed",
+      "start": [
+        499.1,
+        883.8
+      ],
+      "end": [
+        499.1,
+        156.7
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_39_swipe_1.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        42,
+        999,
+        999
+      ],
+      "instruction": "swipe up to scroll down the feed",
+      "start": [
+        499.1,
+        883.8
+      ],
+      "end": [
+        499.1,
+        156.7
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_39_swipe_2.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        42,
+        999,
+        999
+      ],
+      "instruction": "swipe up to scroll down the feed",
+      "start": [
+        499.1,
+        883.8
+      ],
+      "end": [
+        499.1,
+        156.7
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_39_swipe_4.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        143,
+        1000,
+        929
+      ],
+      "instruction": "Swipe up on the main feed to view more posts.",
+      "start": [
+        500.0,
+        834.6
+      ],
+      "end": [
+        500.0,
+        237.1
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_40_swipe_0.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        157,
+        999,
+        999
+      ],
+      "instruction": "scroll down to view more feeds",
+      "start": [
+        499.1,
+        897.9
+      ],
+      "end": [
+        499.1,
+        257.9
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_40_swipe_1.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        157,
+        1000,
+        560
+      ],
+      "instruction": "Swipe up on the main feed to view more posts.",
+      "start": [
+        500.0,
+        511.2
+      ],
+      "end": [
+        500.0,
+        205.0
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_40_swipe_2.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        560,
+        1000,
+        937
+      ],
+      "instruction": "Swipe up on the 'Discover new feeds' section to view more feed options.",
+      "start": [
+        500.0,
+        891.7
+      ],
+      "end": [
+        500.0,
+        605.0
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_41_swipe_0.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        95,
+        999,
+        999
+      ],
+      "instruction": "scroll down to view more notification settings",
+      "start": [
+        499.1,
+        890.4
+      ],
+      "end": [
+        499.1,
+        203.3
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_41_swipe_1.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        97,
+        1000,
+        892
+      ],
+      "instruction": "Swipe up on the notifications list to view more notification categories.",
+      "start": [
+        500.0,
+        796.2
+      ],
+      "end": [
+        500.0,
+        192.1
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_42_swipe_1.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        143,
+        1000,
+        657
+      ],
+      "instruction": "Swipe up on the notifications feed to view more content.",
+      "start": [
+        500.0,
+        595.0
+      ],
+      "end": [
+        500.0,
+        204.6
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_43_swipe_0.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        42,
+        999,
+        999
+      ],
+      "instruction": "swipe up to scroll down the feed",
+      "start": [
+        499.1,
+        883.8
+      ],
+      "end": [
+        499.1,
+        156.7
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_43_swipe_1.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        42,
+        999,
+        999
+      ],
+      "instruction": "swipe up to scroll down the feed",
+      "start": [
+        499.1,
+        883.8
+      ],
+      "end": [
+        499.1,
+        156.7
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_43_swipe_2.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        42,
+        999,
+        999
+      ],
+      "instruction": "swipe up to scroll down the feed",
+      "start": [
+        499.1,
+        883.8
+      ],
+      "end": [
+        499.1,
+        156.7
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_43_swipe_4.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        143,
+        1000,
+        929
+      ],
+      "instruction": "Swipe up on the main feed to view more posts.",
+      "start": [
+        500.0,
+        834.6
+      ],
+      "end": [
+        500.0,
+        237.1
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_46_swipe_0.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        690,
+        999,
+        999
+      ],
+      "instruction": "swipe left on the scrollable component at the bottom of the screen",
+      "start": [
+        878.7,
+        844.2
+      ],
+      "end": [
+        119.4,
+        844.2
+      ],
+      "duration": 0.3,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_48_swipe_0.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        42,
+        999,
+        999
+      ],
+      "instruction": "swipe up to scroll down the feed",
+      "start": [
+        499.1,
+        883.8
+      ],
+      "end": [
+        499.1,
+        156.7
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_48_swipe_1.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        42,
+        999,
+        999
+      ],
+      "instruction": "swipe up to scroll down the feed",
+      "start": [
+        499.1,
+        883.8
+      ],
+      "end": [
+        499.1,
+        156.7
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_48_swipe_2.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        42,
+        999,
+        999
+      ],
+      "instruction": "swipe up to scroll down the feed",
+      "start": [
+        499.1,
+        883.8
+      ],
+      "end": [
+        499.1,
+        156.7
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_48_swipe_4.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        143,
+        1000,
+        929
+      ],
+      "instruction": "Swipe up on the main feed to view more posts.",
+      "start": [
+        500.0,
+        834.6
+      ],
+      "end": [
+        500.0,
+        237.1
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_49_swipe_0.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        95,
+        999,
+        999
+      ],
+      "instruction": "scroll down to view more feeds",
+      "start": [
+        499.1,
+        890.4
+      ],
+      "end": [
+        499.1,
+        203.3
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_49_swipe_1.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        97,
+        1000,
+        937
+      ],
+      "instruction": "Swipe up on the main feed to view more feeds.",
+      "start": [
+        500.0,
+        835.8
+      ],
+      "end": [
+        500.0,
+        197.5
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_51_swipe_0.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        42,
+        999,
+        999
+      ],
+      "instruction": "swipe up to scroll down the feed",
+      "start": [
+        499.1,
+        883.8
+      ],
+      "end": [
+        499.1,
+        156.7
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_51_swipe_1.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        42,
+        999,
+        999
+      ],
+      "instruction": "swipe up to scroll down the feed",
+      "start": [
+        499.1,
+        883.8
+      ],
+      "end": [
+        499.1,
+        156.7
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_51_swipe_2.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        42,
+        999,
+        999
+      ],
+      "instruction": "swipe up to scroll down the feed",
+      "start": [
+        499.1,
+        883.8
+      ],
+      "end": [
+        499.1,
+        156.7
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_51_swipe_4.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        143,
+        1000,
+        929
+      ],
+      "instruction": "Swipe up on the main feed to view more posts.",
+      "start": [
+        500.0,
+        834.6
+      ],
+      "end": [
+        500.0,
+        237.1
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_52_swipe_0.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        42,
+        999,
+        999
+      ],
+      "instruction": "swipe up to scroll down the feed",
+      "start": [
+        499.1,
+        883.8
+      ],
+      "end": [
+        499.1,
+        156.7
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_52_swipe_1.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        42,
+        999,
+        999
+      ],
+      "instruction": "swipe up to scroll down the feed",
+      "start": [
+        499.1,
+        883.8
+      ],
+      "end": [
+        499.1,
+        156.7
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_52_swipe_2.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        42,
+        999,
+        999
+      ],
+      "instruction": "swipe up to scroll down the feed",
+      "start": [
+        499.1,
+        883.8
+      ],
+      "end": [
+        499.1,
+        156.7
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_52_swipe_4.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        143,
+        1000,
+        929
+      ],
+      "instruction": "Swipe up on the main feed to view more posts.",
+      "start": [
+        500.0,
+        834.6
+      ],
+      "end": [
+        500.0,
+        237.1
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_53_swipe_0.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        42,
+        999,
+        999
+      ],
+      "instruction": "swipe up to scroll down the feed",
+      "start": [
+        499.1,
+        883.8
+      ],
+      "end": [
+        499.1,
+        156.7
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_53_swipe_1.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        42,
+        999,
+        999
+      ],
+      "instruction": "swipe up to scroll down the feed",
+      "start": [
+        499.1,
+        883.8
+      ],
+      "end": [
+        499.1,
+        156.7
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_53_swipe_2.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        42,
+        999,
+        999
+      ],
+      "instruction": "swipe up to scroll down the feed",
+      "start": [
+        499.1,
+        883.8
+      ],
+      "end": [
+        499.1,
+        156.7
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_53_swipe_4.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        143,
+        1000,
+        929
+      ],
+      "instruction": "Swipe up on the main feed to view more posts.",
+      "start": [
+        500.0,
+        834.6
+      ],
+      "end": [
+        500.0,
+        237.1
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_58_swipe_1.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        95,
+        1000,
+        775
+      ],
+      "instruction": "Swipe up on the main chat list to view more conversations.",
+      "start": [
+        500.0,
+        693.3
+      ],
+      "end": [
+        500.0,
+        176.2
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_63_swipe_0.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        157,
+        999,
+        999
+      ],
+      "instruction": "scroll down to view more feeds",
+      "start": [
+        499.1,
+        897.9
+      ],
+      "end": [
+        499.1,
+        257.9
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_63_swipe_1.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        156,
+        1000,
+        560
+      ],
+      "instruction": "Swipe up on the main feed to view more posts.",
+      "start": [
+        500.0,
+        511.2
+      ],
+      "end": [
+        500.0,
+        204.2
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_63_swipe_2.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        600,
+        1000,
+        930
+      ],
+      "instruction": "Swipe up on the 'Discover new feeds' section to view more feed options.",
+      "start": [
+        500.0,
+        890.0
+      ],
+      "end": [
+        500.0,
+        639.6
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_64_swipe_1.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        143,
+        1000,
+        780
+      ],
+      "instruction": "Swipe up on the notifications feed to view more content.",
+      "start": [
+        500.0,
+        703.3
+      ],
+      "end": [
+        500.0,
+        219.2
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_65_swipe_1.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        370,
+        1000,
+        750
+      ],
+      "instruction": "Swipe up on the main feed to view more posts.",
+      "start": [
+        500.0,
+        704.2
+      ],
+      "end": [
+        500.0,
+        415.4
+      ],
+      "duration": 0.3,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_67_swipe_0.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        800,
+        999,
+        999
+      ],
+      "instruction": "Select \"Upload from Library\" to choose a photo from the device's photo library.",
+      "start": [
+        878.7,
+        899.2
+      ],
+      "end": [
+        119.4,
+        899.2
+      ],
+      "duration": 0.3,
+      "direction": "left"
+    }
+  }
+]

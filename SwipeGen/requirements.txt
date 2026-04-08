@@ -1,0 +1,8 @@
+uiautomator2
+opencv-python
+requests
+
+# if using local VLM
+torch
+transformers
+pillow

@@ -1,0 +1,1837 @@
+[
+  {
+    "img_filename": "ai.character.app_page_0.png",
+    "target_page": "page_1",
+    "action_data": {
+      "action": "click",
+      "bbox": [
+        0,
+        42,
+        999,
+        112
+      ],
+      "start": [
+        462.0,
+        32.1
+      ],
+      "end": [
+        462.0,
+        32.1
+      ],
+      "instruction": "Click the \"Get (c.ai+)\" button.",
+      "description": "Get"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_0.png",
+    "target_page": "page_2",
+    "action_data": {
+      "action": "click",
+      "bbox": [
+        49,
+        64,
+        191,
+        90
+      ],
+      "start": [
+        111.1,
+        32.1
+      ],
+      "end": [
+        111.1,
+        32.1
+      ],
+      "instruction": "Tap the \"(c.ai)\" logo at the top left.",
+      "description": "未知组件"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_0.png",
+    "target_page": "page_3",
+    "action_data": {
+      "action": "click",
+      "bbox": [
+        218,
+        63,
+        385,
+        92
+      ],
+      "start": [
+        278.7,
+        32.1
+      ],
+      "end": [
+        278.7,
+        32.1
+      ],
+      "instruction": "Click the \"Get (c.ai+)\" button.",
+      "description": "Get"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_0.png",
+    "target_page": "page_4",
+    "action_data": {
+      "action": "click",
+      "bbox": [
+        636,
+        55,
+        733,
+        99
+      ],
+      "start": [
+        633.3,
+        32.1
+      ],
+      "end": [
+        633.3,
+        32.1
+      ],
+      "instruction": "click the square icon with a 'C' inside at the top right",
+      "description": "未知组件"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_0.png",
+    "target_page": "page_5",
+    "action_data": {
+      "action": "click",
+      "bbox": [
+        762,
+        57,
+        849,
+        97
+      ],
+      "start": [
+        745.4,
+        32.1
+      ],
+      "end": [
+        745.4,
+        32.1
+      ],
+      "instruction": "click the search icon at the top right corner",
+      "description": "未知组件"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_0.png",
+    "target_page": "page_6",
+    "action_data": {
+      "action": "click",
+      "bbox": [
+        879,
+        55,
+        976,
+        99
+      ],
+      "start": [
+        858.3,
+        32.1
+      ],
+      "end": [
+        858.3,
+        32.1
+      ],
+      "instruction": "click the notification bell icon at the top right corner",
+      "description": "未知组件"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_0.png",
+    "target_page": "page_7",
+    "action_data": {
+      "action": "click",
+      "bbox": [
+        41,
+        127,
+        234,
+        163
+      ],
+      "start": [
+        126.9,
+        60.4
+      ],
+      "end": [
+        126.9,
+        60.4
+      ],
+      "instruction": "Tap the \"For You\" tab to view personalized content.",
+      "description": "For You"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_0.png",
+    "target_page": "page_8",
+    "action_data": {
+      "action": "click",
+      "bbox": [
+        258,
+        127,
+        448,
+        163
+      ],
+      "start": [
+        325.9,
+        60.4
+      ],
+      "end": [
+        325.9,
+        60.4
+      ],
+      "instruction": "Tap on the \"Scenes\" tab to view content related to scenes.",
+      "description": "Scenes, .. | Scenes | .."
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_0.png",
+    "target_page": "page_9",
+    "action_data": {
+      "action": "click",
+      "bbox": [
+        473,
+        127,
+        689,
+        163
+      ],
+      "start": [
+        538.0,
+        60.4
+      ],
+      "end": [
+        538.0,
+        60.4
+      ],
+      "instruction": "tap the \"Featured\" tab",
+      "description": "Featured, .. | .. | Featured"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_0.png",
+    "target_page": "page_10",
+    "action_data": {
+      "action": "click",
+      "bbox": [
+        713,
+        127,
+        904,
+        163
+      ],
+      "start": [
+        749.1,
+        60.4
+      ],
+      "end": [
+        749.1,
+        60.4
+      ],
+      "instruction": "Tap on the \"Groups\" tab.",
+      "description": "Groups"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_0.png",
+    "target_page": "page_11",
+    "action_data": {
+      "action": "click",
+      "bbox": [
+        928,
+        127,
+        999,
+        163
+      ],
+      "start": [
+        891.7,
+        60.4
+      ],
+      "end": [
+        891.7,
+        60.4
+      ],
+      "instruction": "Tap the \"Anime\" tab to view anime-related content.",
+      "description": "Anime"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_0.png",
+    "target_page": "page_12",
+    "action_data": {
+      "action": "click",
+      "bbox": [
+        49,
+        190,
+        480,
+        402
+      ],
+      "start": [
+        244.4,
+        123.3
+      ],
+      "end": [
+        244.4,
+        123.3
+      ],
+      "instruction": "Tap on the Ada Wong character card to view more details.",
+      "description": "Xosu | Мафия ты девушка кошка | Character Avatar | 289.5k | Character Avatar, Xosu, Мафия ты девушка кошка , 289.5k"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_0.png",
+    "target_page": "page_13",
+    "action_data": {
+      "action": "click",
+      "bbox": [
+        520,
+        190,
+        952,
+        402
+      ],
+      "start": [
+        681.5,
+        123.3
+      ],
+      "end": [
+        681.5,
+        123.3
+      ],
+      "instruction": "Tap on the Jack Abbot character card to view more details.",
+      "description": "Leon Kennedy | Character Avatar, Leon Kennedy, Your dads best friend, 10.2m | Your dads best friend | Character Avatar | 10.2m"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_0.png",
+    "target_page": "page_14",
+    "action_data": {
+      "action": "click",
+      "bbox": [
+        49,
+        440,
+        480,
+        652
+      ],
+      "start": [
+        244.4,
+        227.1
+      ],
+      "end": [
+        244.4,
+        227.1
+      ],
+      "instruction": "Tap on the Emma Frost character card to view more details.",
+      "description": "Character Avatar, Ghost - Dad, ♡ | interrupted bath (teen!au), 546.2k | ♡ | interrupted bath (teen!au) | Character Avatar | 546.2k | Ghost - Dad"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_0.png",
+    "target_page": "page_15",
+    "action_data": {
+      "action": "click",
+      "bbox": [
+        520,
+        440,
+        952,
+        652
+      ],
+      "start": [
+        681.5,
+        227.1
+      ],
+      "end": [
+        681.5,
+        227.1
+      ],
+      "instruction": "Tap on the character avatar of Josh-Bl to view more details.",
+      "description": "● | Sara Hueng/ korean| | 325.7k | Character Avatar, Horny girlfriend,  ● | Sara Hueng/ korean|, 325.7k | Character Avatar | Horny girlfriend"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_0.png",
+    "target_page": "page_16",
+    "action_data": {
+      "action": "click",
+      "bbox": [
+        49,
+        689,
+        480,
+        901
+      ],
+      "start": [
+        244.4,
+        331.2
+      ],
+      "end": [
+        244.4,
+        331.2
+      ],
+      "instruction": "Tap on the \"DC Dick Grayson\" character card to view more details.",
+      "description": "Your Big Sister's Sleepover | Sisters Sleepover | 3.6m | Character Avatar, Sisters Sleepover, Your Big Sister's Sleepover, 3.6m | Character Avatar"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_0.png",
+    "target_page": "page_17",
+    "action_data": {
+      "action": "click",
+      "bbox": [
+        520,
+        689,
+        952,
+        901
+      ],
+      "start": [
+        681.5,
+        331.2
+      ],
+      "end": [
+        681.5,
+        331.2
+      ],
+      "instruction": "Tap on the \"Alpha Mason\" character card to view more details.",
+      "description": "529.1k | ❥  Domestic life at the  Tower | Character Avatar | Titans | Character Avatar, Titans, ❥  Domestic life at the  Tower, 529.1k"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_0.png",
+    "target_page": "page_18",
+    "action_data": {
+      "action": "click",
+      "bbox": [
+        49,
+        938,
+        480,
+        999
+      ],
+      "start": [
+        244.4,
+        403.3
+      ],
+      "end": [
+        244.4,
+        403.3
+      ],
+      "instruction": "Click the home icon at the bottom left to return to the main screen.",
+      "description": "Character Avatar"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_0.png",
+    "target_page": "page_19",
+    "action_data": {
+      "action": "click",
+      "bbox": [
+        520,
+        938,
+        952,
+        999
+      ],
+      "start": [
+        681.5,
+        403.3
+      ],
+      "end": [
+        681.5,
+        403.3
+      ],
+      "instruction": "Tap the character avatar icon at the bottom right.",
+      "description": "Character Avatar"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_0.png",
+    "target_page": "page_20",
+    "action_data": {
+      "action": "click",
+      "bbox": [
+        0,
+        946,
+        200,
+        999
+      ],
+      "start": [
+        92.6,
+        405.0
+      ],
+      "end": [
+        92.6,
+        405.0
+      ],
+      "instruction": "click the home icon at the bottom left corner",
+      "description": "Home"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_0.png",
+    "target_page": "page_21",
+    "action_data": {
+      "action": "click",
+      "bbox": [
+        400,
+        946,
+        600,
+        999
+      ],
+      "start": [
+        463.0,
+        405.0
+      ],
+      "end": [
+        463.0,
+        405.0
+      ],
+      "instruction": "Tap the \"Create\" button at the bottom center of the screen.",
+      "description": "Create"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_0.png",
+    "target_page": "page_22",
+    "action_data": {
+      "action": "click",
+      "bbox": [
+        600,
+        946,
+        800,
+        999
+      ],
+      "start": [
+        648.1,
+        405.0
+      ],
+      "end": [
+        648.1,
+        405.0
+      ],
+      "instruction": "Navigate to the Community section by tapping the icon at the bottom of the screen.",
+      "description": "Community"
+    }
+  },
+  {
+    "img_filename": "ai.character.app_page_0.png",
+    "target_page": "page_23",
+    "action_data": {
+      "action": "click",
+      "bbox": [
+        800,
+        946,
+        999,
+        999
+      ],
+      "start": [
+        832.4,
+        405.0
+      ],
+      "end": [
+        832.4,
+        405.0
+      ],
+      "instruction": "Tap the profile icon at the bottom right corner.",
+      "description": ".. | Profile"
+    }
+  },
+  {
+    "img_filename": "ai.perplexity.comet_page_0.png",
+    "target_page": "page_1",
+    "action_data": {
+      "action": "click",
+      "bbox": [
+        38,
+        467,
+        961,
+        519
+      ],
+      "start": [
+        463.0,
+        205.4
+      ],
+      "end": [
+        463.0,
+        205.4
+      ],
+      "instruction": "Tap on \"Add the Logitech Silent Plus mouse to my cart\" to proceed with adding the item to the cart.",
+      "description": "Add the Logitech Silent Plus mouse to my cart"
+    }
+  },
+  {
+    "img_filename": "ai.perplexity.comet_page_0.png",
+    "target_page": "page_2",
+    "action_data": {
+      "action": "click",
+      "bbox": [
+        0,
+        0,
+        999,
+        564
+      ],
+      "start": [
+        462.0,
+        117.5
+      ],
+      "end": [
+        462.0,
+        117.5
+      ],
+      "instruction": "Close the sheet by tapping the area near the top left corner.",
+      "description": "Close sheet"
+    }
+  },
+  {
+    "img_filename": "ai.perplexity.comet_page_0.png",
+    "target_page": "page_3",
+    "action_data": {
+      "action": "click",
+      "bbox": [
+        509,
+        918,
+        931,
+        971
+      ],
+      "start": [
+        666.7,
+        393.8
+      ],
+      "end": [
+        666.7,
+        393.8
+      ],
+      "instruction": "Click the plus icon at the bottom right corner.",
+      "description": "Rate now"
+    }
+  },
+  {
+    "img_filename": "ai.perplexity.comet_page_2.png",
+    "target_page": "page_4",
+    "action_data": {
+      "action": "click",
+      "bbox": [
+        34,
+        47,
+        150,
+        99
+      ],
+      "start": [
+        85.2,
+        30.4
+      ],
+      "end": [
+        85.2,
+        30.4
+      ],
+      "instruction": "Tap the profile icon at the top left corner.",
+      "description": "profile"
+    }
+  },
+  {
+    "img_filename": "ai.perplexity.comet_page_2.png",
+    "target_page": "page_5",
+    "action_data": {
+      "action": "click",
+      "bbox": [
+        849,
+        49,
+        965,
+        101
+      ],
+      "start": [
+        839.8,
+        31.2
+      ],
+      "end": [
+        839.8,
+        31.2
+      ],
+      "instruction": "Tap the \"Add widgets\" button in the top right corner.",
+      "description": "Add widgets"
+    }
+  },
+  {
+    "img_filename": "ai.perplexity.comet_page_2.png",
+    "target_page": "page_6",
+    "action_data": {
+      "action": "click",
+      "bbox": [
+        29,
+        881,
+        970,
+        934
+      ],
+      "start": [
+        463.0,
+        377.9
+      ],
+      "end": [
+        463.0,
+        377.9
+      ],
+      "instruction": "Click the search bar at the bottom to start asking or navigating.",
+      "description": "未知组件"
+    }
+  },
+  {
+    "img_filename": "ai.perplexity.comet_page_3.png",
+    "target_page": "page_7",
+    "action_data": {
+      "action": "click",
+      "bbox": [
+        38,
+        66,
+        346,
+        138
+      ],
+      "start": [
+        177.8,
+        42.5
+      ],
+      "end": [
+        177.8,
+        42.5
+      ],
+      "instruction": "Tap on the \"Bookmarks\" tab.",
+      "description": "Bookmarks"
+    }
+  },
+  {
+    "img_filename": "ai.perplexity.comet_page_3.png",
+    "target_page": "page_8",
+    "action_data": {
+      "action": "click",
+      "bbox": [
+        653,
+        66,
+        961,
+        138
+      ],
+      "start": [
+        747.2,
+        42.5
+      ],
+      "end": [
+        747.2,
+        42.5
+      ],
+      "instruction": "Tap on the \"Library\" tab.",
+      "description": "Library"
+    }
+  },
+  {
+    "img_filename": "ai.perplexity.comet_page_3.png",
+    "target_page": "page_9",
+    "action_data": {
+      "action": "click",
+      "bbox": [
+        38,
+        945,
+        551,
+        998
+      ],
+      "start": [
+        273.1,
+        405.0
+      ],
+      "end": [
+        273.1,
+        405.0
+      ],
+      "instruction": "Tap the \"Delete browsing data\" option at the bottom of the screen.",
+      "description": "Delete browsing data"
+    }
+  },
+  {
+    "img_filename": "com.bd.nproject_page_0.png",
+    "target_page": "page_1",
+    "action_data": {
+      "action": "click",
+      "bbox": [
+        280,
+        42,
+        518,
+        90
+      ],
+      "start": [
+        369.4,
+        27.5
+      ],
+      "end": [
+        369.4,
+        27.5
+      ],
+      "instruction": "Tap on the \"Following\" tab to switch to the Following feed.",
+      "description": "Following"
+    }
+  },
+  {
+    "img_filename": "com.bd.nproject_page_0.png",
+    "target_page": "page_2",
+    "action_data": {
+      "action": "click",
+      "bbox": [
+        0,
+        42,
+        126,
+        90
+      ],
+      "start": [
+        57.4,
+        27.5
+      ],
+      "end": [
+        57.4,
+        27.5
+      ],
+      "instruction": "click the smiley face icon at the top left corner",
+      "description": "未知组件"
+    }
+  },
+  {
+    "img_filename": "com.bd.nproject_page_0.png",
+    "target_page": "page_3",
+    "action_data": {
+      "action": "click",
+      "bbox": [
+        873,
+        42,
+        999,
+        90
+      ],
+      "start": [
+        866.7,
+        27.5
+      ],
+      "end": [
+        866.7,
+        27.5
+      ],
+      "instruction": "Tap the search icon at the top right corner.",
+      "description": "未知组件"
+    }
+  },
+  {
+    "img_filename": "com.bd.nproject_page_0.png",
+    "target_page": "page_4",
+    "action_data": {
+      "action": "click",
+      "bbox": [
+        110,
+        90,
+        287,
+        134
+      ],
+      "start": [
+        184.3,
+        46.7
+      ],
+      "end": [
+        184.3,
+        46.7
+      ],
+      "instruction": "Tap on the \"Wellness\" tab to view wellness-related content.",
+      "description": "Wellness"
+    }
+  },
+  {
+    "img_filename": "com.bd.nproject_page_0.png",
+    "target_page": "page_5",
+    "action_data": {
+      "action": "click",
+      "bbox": [
+        287,
+        90,
+        541,
+        134
+      ],
+      "start": [
+        383.3,
+        46.7
+      ],
+      "end": [
+        383.3,
+        46.7
+      ],
+      "instruction": "Tap on the \"Mental Health\" tab to view content related to mental health.",
+      "description": "Mental Health"
+    }
+  },
+  {
+    "img_filename": "com.bd.nproject_page_0.png",
+    "target_page": "page_6",
+    "action_data": {
+      "action": "click",
+      "bbox": [
+        541,
+        90,
+        776,
+        134
+      ],
+      "start": [
+        610.2,
+        46.7
+      ],
+      "end": [
+        610.2,
+        46.7
+      ],
+      "instruction": "Tap on the \"Photography\" tab to view content related to photography.",
+      "description": "Photography"
+    }
+  },
+  {
+    "img_filename": "com.bd.nproject_page_0.png",
+    "target_page": "page_7",
+    "action_data": {
+      "action": "click",
+      "bbox": [
+        776,
+        90,
+        961,
+        134
+      ],
+      "start": [
+        803.7,
+        46.7
+      ],
+      "end": [
+        803.7,
+        46.7
+      ],
+      "instruction": "Tap the \"Outdoors\" tab to view content related to outdoor activities.",
+      "description": "Outdoors"
+    }
+  },
+  {
+    "img_filename": "com.bd.nproject_page_0.png",
+    "target_page": "page_8",
+    "action_data": {
+      "action": "click",
+      "bbox": [
+        961,
+        90,
+        999,
+        134
+      ],
+      "start": [
+        906.5,
+        46.7
+      ],
+      "end": [
+        906.5,
+        46.7
+      ],
+      "instruction": "Tap the \"Outfits\" tab to view content related to outfits.",
+      "description": "Outfits"
+    }
+  },
+  {
+    "img_filename": "com.bd.nproject_page_0.png",
+    "target_page": "page_9",
+    "action_data": {
+      "action": "click",
+      "bbox": [
+        9,
+        139,
+        495,
+        515
+      ],
+      "start": [
+        232.4,
+        136.2
+      ],
+      "end": [
+        232.4,
+        136.2
+      ],
+      "instruction": "Tap on the post titled \"Mezcal Sensory Exploration\" by Firesidebourbon.",
+      "description": "#piano   #classicalmusic   #composer | Devern"
+    }
+  },
+  {
+    "img_filename": "com.bd.nproject_page_0.png",
+    "target_page": "page_10",
+    "action_data": {
+      "action": "click",
+      "bbox": [
+        402,
+        474,
+        495,
+        515
+      ],
+      "start": [
+        415.7,
+        206.2
+      ],
+      "end": [
+        415.7,
+        206.2
+      ],
+      "instruction": "click the play button on the video thumbnail",
+      "description": "未知组件"
+    }
+  },
+  {
+    "img_filename": "com.bd.nproject_page_0.png",
+    "target_page": "page_11",
+    "action_data": {
+      "action": "click",
+      "bbox": [
+        504,
+        139,
+        990,
+        515
+      ],
+      "start": [
+        691.7,
+        136.2
+      ],
+      "end": [
+        691.7,
+        136.2
+      ],
+      "instruction": "Tap on the \"Marathon\" post by Shofe_alam.",
+      "description": "3 | T-shirt deli – custom tees wrapped like a sandwich | coolestjersey"
+    }
+  },
+  {
+    "img_filename": "com.bd.nproject_page_0.png",
+    "target_page": "page_12",
+    "action_data": {
+      "action": "click",
+      "bbox": [
+        879,
+        474,
+        990,
+        515
+      ],
+      "start": [
+        865.7,
+        206.2
+      ],
+      "end": [
+        865.7,
+        206.2
+      ],
+      "instruction": "click on the \"Just Viewed\" button to sort or view recently viewed content.",
+      "description": "未知组件"
+    }
+  },
+  {
+    "img_filename": "com.bd.nproject_page_0.png",
+    "target_page": "page_13",
+    "action_data": {
+      "action": "click",
+      "bbox": [
+        9,
+        520,
+        495,
+        878
+      ],
+      "start": [
+        232.4,
+        291.2
+      ],
+      "end": [
+        232.4,
+        291.2
+      ],
+      "instruction": "Tap on the post titled \"#peptides\" by Maggie.",
+      "description": "#joaofelix.... | 24 | Jedidiah"
+    }
+  },
+  {
+    "img_filename": "com.bd.nproject_page_0.png",
+    "target_page": "page_14",
+    "action_data": {
+      "action": "click",
+      "bbox": [
+        366,
+        836,
+        495,
+        878
+      ],
+      "start": [
+        398.1,
+        357.1
+      ],
+      "end": [
+        398.1,
+        357.1
+      ],
+      "instruction": "click on the empty space in the bottom left area of the screen",
+      "description": "未知组件"
+    }
+  },
+  {
+    "img_filename": "com.bd.nproject_page_0.png",
+    "target_page": "page_15",
+    "action_data": {
+      "action": "click",
+      "bbox": [
+        9,
+        882,
+        495,
+        951
+      ],
+      "start": [
+        232.4,
+        382.1
+      ],
+      "end": [
+        232.4,
+        382.1
+      ],
+      "instruction": "scroll down",
+      "description": "未知组件"
+    }
+  },
+  {
+    "img_filename": "com.finch.finch_com.finch.finch_page_0.png",
+    "action_data": {
+      "action": "click",
+      "bbox": [
+        49,
+        86,
+        86,
+        103
+      ],
+      "start": [
+        67,
+        95
+      ],
+      "end": [
+        67,
+        95
+      ],
+      "instruction": "Open the menu.",
+      "description": "Menu"
+    }
+  },
+  {
+    "img_filename": "com.finch.finch_com.finch.finch_page_0.png",
+    "action_data": {
+      "action": "click",
+      "bbox": [
+        844,
+        467,
+        951,
+        511
+      ],
+      "start": [
+        898,
+        489
+      ],
+      "end": [
+        898,
+        489
+      ],
+      "instruction": "Tap the plus button to add a new goal.",
+      "description": "Add a goal"
+    }
+  },
+  {
+    "img_filename": "com.finch.finch_com.finch.finch_page_0.png",
+    "action_data": {
+      "action": "click",
+      "bbox": [
+        38,
+        550,
+        961,
+        640
+      ],
+      "start": [
+        500,
+        595
+      ],
+      "end": [
+        500,
+        595
+      ],
+      "instruction": "Tap the \"Brush teeth\" goal to mark it as completed.",
+      "description": "Complete goal | Brush teeth\n5 energy"
+    }
+  },
+  {
+    "img_filename": "com.finch.finch_com.finch.finch_page_0.png",
+    "action_data": {
+      "action": "click",
+      "bbox": [
+        337,
+        921,
+        500,
+        999
+      ],
+      "start": [
+        418,
+        960
+      ],
+      "end": [
+        418,
+        960
+      ],
+      "instruction": "Tap the \"Shop\" tab at the bottom of the screen.",
+      "description": "Shop"
+    }
+  },
+  {
+    "img_filename": "com.finch.finch_com.finch.finch_page_0.png",
+    "action_data": {
+      "action": "click",
+      "bbox": [
+        500,
+        921,
+        663,
+        999
+      ],
+      "start": [
+        581,
+        960
+      ],
+      "end": [
+        581,
+        960
+      ],
+      "instruction": "Navigate to the Friends section by tapping the \"Friends\" icon in the bottom navigation bar.",
+      "description": "Friends"
+    }
+  },
+  {
+    "img_filename": "com.finch.finch_com.finch.finch_page_0.png",
+    "action_data": {
+      "action": "click",
+      "bbox": [
+        663,
+        921,
+        826,
+        999
+      ],
+      "start": [
+        745,
+        960
+      ],
+      "end": [
+        745,
+        960
+      ],
+      "instruction": "Tap the \"Bag\" icon in the bottom navigation bar.",
+      "description": "Bag"
+    }
+  },
+  {
+    "img_filename": "com.finch.finch_com.finch.finch_page_0.png",
+    "action_data": {
+      "action": "click",
+      "bbox": [
+        826,
+        921,
+        990,
+        999
+      ],
+      "start": [
+        908,
+        960
+      ],
+      "end": [
+        908,
+        960
+      ],
+      "instruction": "Tap the \"Test\" tab at the bottom right.",
+      "description": "Test"
+    }
+  },
+  {
+    "img_filename": "com.finch.finch_com.finch.finch_page_17.png",
+    "action_data": {
+      "action": "click",
+      "bbox": [
+        863,
+        49,
+        971,
+        97
+      ],
+      "start": [
+        917,
+        72
+      ],
+      "end": [
+        917,
+        72
+      ],
+      "instruction": "Tap the \"Mood\" button to check or update your current mood.",
+      "description": "Mood"
+    }
+  },
+  {
+    "img_filename": "com.finch.finch_com.finch.finch_page_17.png",
+    "action_data": {
+      "action": "click",
+      "bbox": [
+        737,
+        467,
+        844,
+        511
+      ],
+      "start": [
+        790,
+        489
+      ],
+      "end": [
+        790,
+        489
+      ],
+      "instruction": "Tap the \"More options\" icon to access additional settings or actions.",
+      "description": "More options"
+    }
+  },
+  {
+    "img_filename": "com.finch.finch_com.finch.finch_page_17.png",
+    "action_data": {
+      "action": "click",
+      "bbox": [
+        825,
+        569,
+        931,
+        613
+      ],
+      "start": [
+        877,
+        591
+      ],
+      "end": [
+        877,
+        591
+      ],
+      "instruction": "Tap the checkmark button to mark the \"Get out of bed\" goal as complete.",
+      "description": "Complete goal"
+    }
+  },
+  {
+    "img_filename": "com.wisernow.android_page_0.png",
+    "target_page": "page_1",
+    "action_data": {
+      "action": "click",
+      "start": [
+        499,
+        520
+      ],
+      "end": [
+        499,
+        520
+      ],
+      "instruction": "click the Wiser app icon",
+      "description": "未知组件"
+    }
+  },
+  {
+    "img_filename": "com.wisernow.android_page_1.png",
+    "target_page": "page_2",
+    "action_data": {
+      "action": "click",
+      "start": [
+        933,
+        74
+      ],
+      "end": [
+        933,
+        74
+      ],
+      "instruction": "click the close button at the top right corner",
+      "description": "未知组件"
+    }
+  },
+  {
+    "img_filename": "com.wisernow.android_page_1.png",
+    "target_page": "page_3",
+    "action_data": {
+      "action": "click",
+      "start": [
+        500,
+        774
+      ],
+      "end": [
+        500,
+        774
+      ],
+      "instruction": "Tap the \"Start Free Trial\" button.",
+      "description": "Start Free Trial"
+    }
+  },
+  {
+    "img_filename": "com.wisernow.android_page_0.png",
+    "target_page": "page_4",
+    "action_data": {
+      "action": "click",
+      "bbox": [
+        912,
+        67,
+        955,
+        87
+      ],
+      "start": [
+        863.9,
+        32.1
+      ],
+      "end": [
+        863.9,
+        32.1
+      ],
+      "instruction": "click the unknown component located at the top right corner.",
+      "description": "未知组件"
+    }
+  },
+  {
+    "img_filename": "com.wisernow.android_page_0.png",
+    "target_page": "page_5",
+    "action_data": {
+      "action": "click",
+      "bbox": [
+        43,
+        110,
+        140,
+        154
+      ],
+      "start": [
+        84.3,
+        55.0
+      ],
+      "end": [
+        84.3,
+        55.0
+      ],
+      "instruction": "Click on the \"MON\" text.",
+      "description": "MON"
+    }
+  },
+  {
+    "img_filename": "com.wisernow.android_page_5.png",
+    "target_page": "page_6",
+    "action_data": {
+      "action": "click",
+      "bbox": [
+        547,
+        565,
+        814,
+        750
+      ],
+      "start": [
+        629.6,
+        274.2
+      ],
+      "end": [
+        629.6,
+        274.2
+      ],
+      "instruction": "Ignore this component as it is not actionable.",
+      "description": "未知组件"
+    }
+  },
+  {
+    "img_filename": "company.thebrowser.arc_page_0.png",
+    "target_page": "page_1",
+    "action_data": {
+      "action": "click",
+      "bbox": [
+        77,
+        935,
+        233,
+        999
+      ],
+      "start": [
+        143.5,
+        402.9
+      ],
+      "end": [
+        143.5,
+        402.9
+      ],
+      "instruction": "tap the keyboard switch button at the bottom left corner",
+      "description": "Switch between keyboards"
+    }
+  },
+  {
+    "img_filename": "company.thebrowser.arc_page_0.png",
+    "target_page": "page_2",
+    "action_data": {
+      "action": "click",
+      "bbox": [
+        766,
+        935,
+        922,
+        999
+      ],
+      "start": [
+        781.5,
+        402.9
+      ],
+      "end": [
+        781.5,
+        402.9
+      ],
+      "instruction": "tap the clipboard and frequent phrases icon at the bottom right corner",
+      "description": "Clipboard and frequent phrases"
+    }
+  },
+  {
+    "img_filename": "company.thebrowser.arc_page_0.png",
+    "target_page": "page_3",
+    "action_data": {
+      "action": "click",
+      "bbox": [
+        0,
+        0,
+        999,
+        300
+      ],
+      "start": [
+        462.0,
+        62.5
+      ],
+      "end": [
+        462.0,
+        62.5
+      ],
+      "instruction": "click on the search bar at the top of the screen to initiate a search.",
+      "description": "未知组件"
+    }
+  },
+  {
+    "img_filename": "company.thebrowser.arc_page_0.png",
+    "target_page": "page_4",
+    "action_data": {
+      "action": "click",
+      "bbox": [
+        695,
+        325,
+        812,
+        377
+      ],
+      "start": [
+        697.2,
+        146.2
+      ],
+      "end": [
+        697.2,
+        146.2
+      ],
+      "instruction": "Click the search bar to begin typing your query.",
+      "description": "Search…"
+    }
+  },
+  {
+    "img_filename": "company.thebrowser.arc_page_0.png",
+    "target_page": "page_5",
+    "action_data": {
+      "action": "click",
+      "bbox": [
+        812,
+        325,
+        928,
+        377
+      ],
+      "start": [
+        805.6,
+        146.2
+      ],
+      "end": [
+        805.6,
+        146.2
+      ],
+      "instruction": "click the unchecked icon at the top right of the search bar",
+      "description": "Unchecked"
+    }
+  },
+  {
+    "img_filename": "company.thebrowser.arc_page_1.png",
+    "target_page": "page_6",
+    "action_data": {
+      "action": "click",
+      "bbox": [
+        38,
+        761,
+        524,
+        938
+      ],
+      "start": [
+        260.2,
+        354.2
+      ],
+      "end": [
+        260.2,
+        354.2
+      ],
+      "instruction": "tap on the \"Keyboard settings\" option in the pop-up menu.",
+      "description": "Keyboard settings | Sogou IME for Xiaomi | Baidu IME for Xiaomi"
+    }
+  },
+  {
+    "img_filename": "company.thebrowser.arc_page_1.png",
+    "target_page": "page_7",
+    "action_data": {
+      "action": "click",
+      "bbox": [
+        38,
+        761,
+        524,
+        879
+      ],
+      "start": [
+        260.2,
+        341.7
+      ],
+      "end": [
+        260.2,
+        341.7
+      ],
+      "instruction": "Select \"Sogou IME for Xiaomi\" from the keyboard input method options.",
+      "description": "Sogou IME for Xiaomi | Baidu IME for Xiaomi"
+    }
+  },
+  {
+    "img_filename": "company.thebrowser.arc_page_2.png",
+    "target_page": "page_8",
+    "action_data": {
+      "action": "click",
+      "bbox": [
+        62,
+        320,
+        937,
+        381
+      ],
+      "start": [
+        463.0,
+        145.8
+      ],
+      "end": [
+        463.0,
+        145.8
+      ],
+      "instruction": "Type \"Arc Sync\" into the search bar.",
+      "description": "Unchecked | Search…"
+    }
+  },
+  {
+    "img_filename": "company.thebrowser.arc_page_2.png",
+    "target_page": "page_9",
+    "action_data": {
+      "action": "click",
+      "bbox": [
+        695,
+        325,
+        812,
+        377
+      ],
+      "start": [
+        697.2,
+        146.2
+      ],
+      "end": [
+        697.2,
+        146.2
+      ],
+      "instruction": "Tap the search bar to begin searching.",
+      "description": "Search…"
+    }
+  },
+  {
+    "img_filename": "company.thebrowser.arc_page_2.png",
+    "target_page": "page_10",
+    "action_data": {
+      "action": "click",
+      "bbox": [
+        812,
+        325,
+        928,
+        377
+      ],
+      "start": [
+        805.6,
+        146.2
+      ],
+      "end": [
+        805.6,
+        146.2
+      ],
+      "instruction": "Tap the unchecked icon to toggle the selection or dismiss the current input.",
+      "description": "Unchecked"
+    }
+  },
+  {
+    "img_filename": "company.thebrowser.arc_page_2.png",
+    "target_page": "page_11",
+    "action_data": {
+      "action": "click",
+      "bbox": [
+        0,
+        612,
+        999,
+        999
+      ],
+      "start": [
+        462.0,
+        335.4
+      ],
+      "end": [
+        462.0,
+        335.4
+      ],
+      "instruction": "click the clipboard button",
+      "description": "random text suxhwbfuajwndivofknsgdhxbsjaish | Clipboard | Clearing clipboard | Frequent phrases | Hide clipboard | text133"
+    }
+  },
+  {
+    "img_filename": "company.thebrowser.arc_page_3.png",
+    "target_page": "page_12",
+    "action_data": {
+      "action": "click",
+      "bbox": [
+        77,
+        66,
+        155,
+        102
+      ],
+      "start": [
+        107.4,
+        35.0
+      ],
+      "end": [
+        107.4,
+        35.0
+      ],
+      "instruction": "Tap the Arc Help Center logo at the top left.",
+      "description": "Arc Help Center Help Center home page"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_0.png",
+    "target_page": "page_1",
+    "action_data": {
+      "action": "click",
+      "bbox": [
+        875,
+        177,
+        937,
+        204
+      ],
+      "start": [
+        838.9,
+        79.2
+      ],
+      "end": [
+        838.9,
+        79.2
+      ],
+      "instruction": "Click the \"X\" button to dismiss the \"Follow 10 people to get started\" prompt.",
+      "description": "Dismiss getting started guide"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_0.png",
+    "target_page": "page_2",
+    "action_data": {
+      "action": "click",
+      "bbox": [
+        77,
+        280,
+        922,
+        328
+      ],
+      "start": [
+        463.0,
+        126.7
+      ],
+      "end": [
+        463.0,
+        126.7
+      ],
+      "instruction": "Tap the \"Find people to follow\" button.",
+      "description": "Find people to follow"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_0.png",
+    "target_page": "page_3",
+    "action_data": {
+      "action": "click",
+      "bbox": [
+        131,
+        363,
+        297,
+        419
+      ],
+      "start": [
+        197.2,
+        162.9
+      ],
+      "end": [
+        197.2,
+        162.9
+      ],
+      "instruction": "Tap on \"World Cup\" to browse content related to the World Cup.",
+      "description": "World Cup | Browse topic World Cup"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_0.png",
+    "target_page": "page_4",
+    "action_data": {
+      "action": "click",
+      "bbox": [
+        336,
+        363,
+        518,
+        419
+      ],
+      "start": [
+        394.4,
+        162.9
+      ],
+      "end": [
+        394.4,
+        162.9
+      ],
+      "instruction": "Tap on \"ICE Policies\" to browse related content.",
+      "description": "Browse topic ICE Policies | ICE Policies"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_0.png",
+    "target_page": "page_5",
+    "action_data": {
+      "action": "click",
+      "bbox": [
+        557,
+        363,
+        899,
+        419
+      ],
+      "start": [
+        673.1,
+        162.9
+      ],
+      "end": [
+        673.1,
+        162.9
+      ],
+      "instruction": "Tap on the \"Trump Funding Ruling\" topic to view related posts.",
+      "description": "Browse topic Trump Funding Ruling | Trump Funding Ruling"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_page_0.png",
+    "target_page": "page_6",
+    "action_data": {
+      "action": "click",
+      "bbox": [
+        937,
+        363,
+        999,
+        419
+      ],
+      "start": [
+        896.3,
+        162.9
+      ],
+      "end": [
+        896.3,
+        162.9
+      ],
+      "instruction": "Tap the \"Canadian Politics\" topic to browse related content.",
+      "description": "Browse topic Canadian Politics | Canadian Politics"
+    }
+  }
+]
