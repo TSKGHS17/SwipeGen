@@ -4633,7 +4633,6 @@
         1000
       ],
       "instruction": "Swipe up on the home page to discover more content",
-      "success": true,
       "start": [
         500,
         900
@@ -4657,7 +4656,6 @@
         935
       ],
       "instruction": "scroll the video grid area with multiple video thumbnails to browse more content.",
-      "success": true,
       "start": [
         500,
         855
@@ -4681,7 +4679,6 @@
         100
       ],
       "instruction": "swipe horizontally in the top navigation tab bar to switch between different content categories.",
-      "success": false,
       "start": [
         900,
         82
@@ -4705,7 +4702,6 @@
         935
       ],
       "instruction": "scroll the video grid area with multiple video thumbnails to browse more content.",
-      "success": false,
       "start": [
         500,
         855
@@ -4729,7 +4725,6 @@
         1000
       ],
       "instruction": "Swipe left on the home page to discover more content",
-      "success": false,
       "start": [
         900,
         500
@@ -4753,7 +4748,6 @@
         935
       ],
       "instruction": "scroll up in the left video list to browse more content.",
-      "success": false,
       "start": [
         250,
         855
@@ -4777,7 +4771,6 @@
         935
       ],
       "instruction": "scroll up in the right video list to browse more content.",
-      "success": false,
       "start": [
         750,
         855
@@ -4801,7 +4794,6 @@
         131
       ],
       "instruction": "swipe left in the top navigation tab bar to switch between different content categories.",
-      "success": false,
       "start": [
         900,
         116
@@ -4825,7 +4817,6 @@
         935
       ],
       "instruction": "scroll up in the left video list to browse more content.",
-      "success": false,
       "start": [
         250,
         855
@@ -4849,7 +4840,6 @@
         935
       ],
       "instruction": "scroll up in the right video list to browse more content.",
-      "success": false,
       "start": [
         750,
         855
@@ -4873,7 +4863,6 @@
         1000
       ],
       "instruction": "Swipe up on the home page to discover more content",
-      "success": true,
       "start": [
         500,
         900
@@ -4897,7 +4886,6 @@
         750
       ],
       "instruction": "scroll up in the list to browse different content.",
-      "success": true,
       "start": [
         500,
         698
@@ -4921,7 +4909,6 @@
         999
       ],
       "instruction": "A list of Minecraft game content, users can scroll up and down to browse different content.",
-      "success": false,
       "start": [
         500,
         974
@@ -4945,7 +4932,6 @@
         50
       ],
       "instruction": "Top banner ad carousel, users can swipe left or right to view different ads.",
-      "success": false,
       "start": [
         900,
         25
@@ -4969,7 +4955,6 @@
         1000
       ],
       "instruction": "Swipe left on the home page to discover more content",
-      "success": false,
       "start": [
         900,
         500
@@ -4993,7 +4978,6 @@
         900
       ],
       "instruction": "News card: Samsung bets big on Gemini, doubling to 800 million devices in a year, directly competing with Apple and OpenAI.",
-      "success": false,
       "start": [
         500,
         863
@@ -5017,7 +5001,6 @@
         900
       ],
       "instruction": "A scrollable list area containing news cards",
-      "success": false,
       "start": [
         500,
         860
@@ -5041,7 +5024,6 @@
         999
       ],
       "instruction": "The entire Google search homepage, supports vertical scrolling to browse content",
-      "success": false,
       "start": [
         500,
         899
@@ -5065,7 +5047,6 @@
         900
       ],
       "instruction": "News headline area, can be scrolled to view more content",
-      "success": false,
       "start": [
         500,
         889
@@ -5089,7 +5070,6 @@
         999
       ],
       "instruction": "Bottom navigation bar, can be swiped left or right to switch pages",
-      "success": false,
       "start": [
         900,
         950
@@ -5113,7 +5093,6 @@
         1000
       ],
       "instruction": "Swipe up on the home page to discover more content",
-      "success": false,
       "start": [
         500,
         900
@@ -5137,7 +5116,6 @@
         1000
       ],
       "instruction": "Swipe left on the home page to discover more content",
-      "success": false,
       "start": [
         900,
         500
@@ -5161,7 +5139,6 @@
         472
       ],
       "instruction": "Edit image function card, contains icon and description text",
-      "success": false,
       "start": [
         442,
         463
@@ -5185,7 +5162,6 @@
         600
       ],
       "instruction": "Task assignment input area, contains text box and action buttons",
-      "success": false,
       "start": [
         499,
         589
@@ -5209,7 +5185,6 @@
         935
       ],
       "instruction": "Virtual keyboard area for text input",
-      "success": false,
       "start": [
         499,
         903
@@ -5233,7 +5208,6 @@
         472
       ],
       "instruction": "Right preview image carousel area",
-      "success": true,
       "start": [
         988,
         425
@@ -5257,7 +5231,6 @@
         475
       ],
       "instruction": "Edit image function card, contains icon and description text",
-      "success": false,
       "start": [
         400,
         465
@@ -5281,7 +5254,6 @@
         475
       ],
       "instruction": "Card displaying mobile phone screenshots, possibly a feature preview",
-      "success": false,
       "start": [
         900,
         465
@@ -5305,7 +5277,6 @@
         599
       ],
       "instruction": "Task assignment input area, supports text and voice input",
-      "success": false,
       "start": [
         500,
         588
@@ -5329,7 +5300,6 @@
         143
       ],
       "instruction": "Network connection status bar",
-      "success": false,
       "start": [
         499,
         139
@@ -5352,8 +5322,7 @@
         950,
         85
       ],
-      "instruction": "Button for opening settings or more options.",
-      "success": true
+      "instruction": "Button for opening settings or more options."
     }
   },
   {
@@ -5367,7 +5336,6 @@
         879
       ],
       "instruction": "Calendar view, allows users to scroll to view different months or dates.",
-      "success": false,
       "start": [
         498,
         844
@@ -5391,7 +5359,6 @@
         470
       ],
       "instruction": "Progress bar showing the distance to the next milestone, can be scrolled horizontally to view progress.",
-      "success": false,
       "start": [
         703,
         460
@@ -5414,8 +5381,7 @@
         939,
         985
       ],
-      "instruction": "Button to share streak, tap to share current streak status.",
-      "success": true
+      "instruction": "Button to share streak, tap to share current streak status."
     }
   },
   {
@@ -5428,8 +5394,7 @@
         135,
         85
       ],
-      "instruction": "User avatar or profile entry.",
-      "success": true
+      "instruction": "User avatar or profile entry."
     }
   },
   {
@@ -5443,7 +5408,6 @@
         985
       ],
       "instruction": "Language selection list, users can scroll to browse more language options",
-      "success": true,
       "start": [
         498,
         899
@@ -5467,7 +5431,6 @@
         1000
       ],
       "instruction": "The entire app interface, users can scroll vertically to browse different content or pages.",
-      "success": false,
       "start": [
         500,
         900
@@ -5491,7 +5454,6 @@
         1000
       ],
       "instruction": "Swipe up on the home page to discover more content",
-      "success": false,
       "start": [
         500,
         900
@@ -5515,7 +5477,6 @@
         1000
       ],
       "instruction": "Swipe left on the home page to discover more content",
-      "success": true,
       "start": [
         900,
         500
@@ -5539,7 +5500,6 @@
         945
       ],
       "instruction": "News content area with images and text, can be scrolled vertically to view more content",
-      "success": true,
       "start": [
         499,
         875
@@ -5563,7 +5523,6 @@
         148
       ],
       "instruction": "Top navigation tab bar, can be scrolled to switch categories",
-      "success": false,
       "start": [
         499,
         143
@@ -5587,7 +5546,6 @@
         90
       ],
       "instruction": "Top navigation bar with back button and title, can be scrolled to view",
-      "success": false,
       "start": [
         499,
         86
@@ -5611,7 +5569,6 @@
         999
       ],
       "instruction": "The entire app interface, including top navigation, middle content area, and bottom keyboard, users can scroll vertically to browse content.",
-      "success": false,
       "start": [
         500,
         899
@@ -5635,7 +5592,6 @@
         599
       ],
       "instruction": "Input box and its attached controls area, users can scroll vertically to adjust input box height or view hidden content.",
-      "success": false,
       "start": [
         498,
         587
@@ -5659,7 +5615,6 @@
         467
       ],
       "instruction": "Notification prompt box, users can scroll vertically to hide or view full content.",
-      "success": false,
       "start": [
         498,
         458
@@ -5683,7 +5638,6 @@
         999
       ],
       "instruction": "Virtual keyboard area, users can swipe left or right to switch keyboard layouts or scroll vertically to adjust keyboard position.",
-      "success": false,
       "start": [
         500,
         961
@@ -5707,7 +5661,6 @@
         100
       ],
       "instruction": "Top navigation bar with user avatar, login button, and status bar, users can swipe left or right to view hidden content.",
-      "success": false,
       "start": [
         900,
         50
@@ -5731,7 +5684,6 @@
         1000
       ],
       "instruction": "Swipe up on the home page to discover more content",
-      "success": true,
       "start": [
         500,
         900
@@ -5755,7 +5707,6 @@
         1000
       ],
       "instruction": "The entire game interface, can be scrolled vertically or horizontally to browse different content or scenes.",
-      "success": true,
       "start": [
         500,
         900
@@ -5779,7 +5730,6 @@
         1000
       ],
       "instruction": "Swipe left on the home page to discover more content",
-      "success": true,
       "start": [
         900,
         500
@@ -5803,7 +5753,6 @@
         1000
       ],
       "instruction": "The entire game interface is scrollable for browsing different scenes or tasks.",
-      "success": true,
       "start": [
         500,
         900
@@ -5827,7 +5776,6 @@
         1000
       ],
       "instruction": "The entire game interface, can be scrolled vertically or horizontally to browse different content or scenes.",
-      "success": true,
       "start": [
         500,
         900
@@ -5851,7 +5799,6 @@
         1000
       ],
       "instruction": "The entire game interface, users can scroll to browse different content or scenes.",
-      "success": true,
       "start": [
         500,
         900
@@ -5875,7 +5822,6 @@
         1000
       ],
       "instruction": "Swipe up on the home page to discover more content",
-      "success": true,
       "start": [
         500,
         900
@@ -5899,7 +5845,6 @@
         1000
       ],
       "instruction": "The entire game interface, can be scrolled vertically or horizontally to browse different content or scenes.",
-      "success": true,
       "start": [
         500,
         900
@@ -5923,7 +5868,6 @@
         1000
       ],
       "instruction": "Swipe left on the home page to discover more content",
-      "success": true,
       "start": [
         900,
         500
@@ -5947,7 +5891,6 @@
         999
       ],
       "instruction": "Main game interface with scrollable visual content and interactive elements.",
-      "success": true,
       "start": [
         500,
         899
@@ -5971,7 +5914,6 @@
         999
       ],
       "instruction": "Multiple interactive item icons arranged at the bottom, can be scrolled horizontally to view.",
-      "success": true,
       "start": [
         900,
         900
@@ -5994,8 +5936,7 @@
         440,
         93
       ],
-      "instruction": "Sock icon on the left, tap to increase quantity.",
-      "success": true
+      "instruction": "Sock icon on the left, tap to increase quantity."
     }
   },
   {
@@ -6009,7 +5950,6 @@
         1000
       ],
       "instruction": "The entire game interface, can be scrolled vertically or horizontally to browse different content or scenes.",
-      "success": true,
       "start": [
         500,
         900
@@ -6033,7 +5973,6 @@
         1000
       ],
       "instruction": "The entire game interface, users can scroll to browse different scenes or content.",
-      "success": true,
       "start": [
         500,
         900
@@ -6056,8 +5995,7 @@
         940,
         655
       ],
-      "instruction": "Blue 'Start' button to launch the 'Deep small talk' feature.",
-      "success": true
+      "instruction": "Blue 'Start' button to launch the 'Deep small talk' feature."
     }
   },
   {
@@ -6071,7 +6009,6 @@
         999
       ],
       "instruction": "The entire screen content area, users can scroll up or down to browse more content.",
-      "success": false,
       "start": [
         500,
         899
@@ -6094,8 +6031,7 @@
         407,
         85
       ],
-      "instruction": "User avatar and level display area, tap to switch country or view level details.",
-      "success": true
+      "instruction": "User avatar and level display area, tap to switch country or view level details."
     }
   },
   {
@@ -6109,7 +6045,6 @@
         817
       ],
       "instruction": "A vertical list of five language proficiency descriptions, users can scroll to view details of different levels.",
-      "success": false,
       "start": [
         498,
         747
@@ -6132,8 +6067,7 @@
         925,
         135
       ],
-      "instruction": "'My plan' button for viewing or managing personal study plans.",
-      "success": true
+      "instruction": "'My plan' button for viewing or managing personal study plans."
     }
   },
   {
@@ -6147,7 +6081,6 @@
         600
       ],
       "instruction": "A vertical list of multiple conversation skill steps, users can scroll to browse.",
-      "success": true,
       "start": [
         500,
         555
@@ -6171,7 +6104,6 @@
         998
       ],
       "instruction": "A vertical list of subsequent chapter titles, users can scroll to unlock new content.",
-      "success": false,
       "start": [
         500,
         958
@@ -6194,8 +6126,7 @@
         1000,
         148
       ],
-      "instruction": "Top title bar with close button and page title, tap to close the page.",
-      "success": false
+      "instruction": "Top title bar with close button and page title, tap to close the page."
     }
   },
   {
@@ -6208,8 +6139,7 @@
         940,
         85
       ],
-      "instruction": "Water drop icon and number '0', may indicate current tasks or achievements, tap to view details.",
-      "success": false
+      "instruction": "Water drop icon and number '0', may indicate current tasks or achievements, tap to view details."
     }
   },
   {
@@ -6223,7 +6153,6 @@
         1000
       ],
       "instruction": "Swipe up on the home page to discover more content",
-      "success": false,
       "start": [
         500,
         900
@@ -6247,7 +6176,6 @@
         1000
       ],
       "instruction": "Swipe left on the home page to discover more content",
-      "success": false,
       "start": [
         900,
         500
@@ -6271,7 +6199,6 @@
         999
       ],
       "instruction": "Main content area with navigation bar, colored dots, text, and buttons, users can scroll vertically to browse content.",
-      "success": false,
       "start": [
         500,
         899
@@ -6295,7 +6222,6 @@
         1000
       ],
       "instruction": "Swipe up on the home page to discover more content",
-      "success": true,
       "start": [
         500,
         900
@@ -6319,7 +6245,6 @@
         999
       ],
       "instruction": "Main content list with multiple article cards, users can scroll vertically to browse different articles.",
-      "success": true,
       "start": [
         500,
         899
@@ -6343,7 +6268,6 @@
         350
       ],
       "instruction": "Part of the article list with title, author, and timestamp, can be scrolled vertically to view more content.",
-      "success": true,
       "start": [
         500,
         327
@@ -6367,7 +6291,6 @@
         575
       ],
       "instruction": "Another part of the article list with title, author, and timestamp, can be scrolled vertically to view more content.",
-      "success": true,
       "start": [
         500,
         552
@@ -6391,7 +6314,6 @@
         1000
       ],
       "instruction": "Swipe left on the home page to discover more content",
-      "success": false,
       "start": [
         900,
         500
@@ -6415,7 +6337,6 @@
         935
       ],
       "instruction": "Main content area currently showing loading animation, users can scroll vertically to load more content.",
-      "success": true,
       "start": [
         500,
         851
@@ -6439,7 +6360,6 @@
         920
       ],
       "instruction": "Article list with multiple entries, can be scrolled vertically to view more content",
-      "success": true,
       "start": [
         500,
         828
@@ -6463,7 +6383,6 @@
         999
       ],
       "instruction": "Bottom navigation bar area, can be scrolled to view hidden content or switch pages",
-      "success": true,
       "start": [
         500,
         991
@@ -6486,8 +6405,7 @@
         1000,
         999
       ],
-      "instruction": "Bottom navigation bar with Home, Search, and You tabs, tap to switch pages",
-      "success": true
+      "instruction": "Bottom navigation bar with Home, Search, and You tabs, tap to switch pages"
     }
   },
   {
@@ -6500,8 +6418,7 @@
         160,
         305
       ],
-      "instruction": "Filter button for selecting all tools.",
-      "success": true
+      "instruction": "Filter button for selecting all tools."
     }
   },
   {
@@ -6515,7 +6432,6 @@
         999
       ],
       "instruction": "Entire screen content area, allows vertical scrolling to view more content or return to the previous page.",
-      "success": false,
       "start": [
         500,
         899
@@ -6538,8 +6454,7 @@
         453,
         305
       ],
-      "instruction": "Button to filter date and time tools.",
-      "success": false
+      "instruction": "Button to filter date and time tools."
     }
   },
   {
@@ -6552,8 +6467,7 @@
         678,
         305
       ],
-      "instruction": "Button to filter financial tools.",
-      "success": false
+      "instruction": "Button to filter financial tools."
     }
   },
   {
@@ -6566,8 +6480,7 @@
         999,
         305
       ],
-      "instruction": "Button to filter health and fitness tools.",
-      "success": false
+      "instruction": "Button to filter health and fitness tools."
     }
   },
   {
@@ -6580,8 +6493,7 @@
         960,
         414
       ],
-      "instruction": "Entry to special tools, tap to access advanced tools.",
-      "success": false
+      "instruction": "Entry to special tools, tap to access advanced tools."
     }
   },
   {
@@ -6595,7 +6507,6 @@
         1000
       ],
       "instruction": "Swipe up on the home page to discover more content",
-      "success": true,
       "start": [
         500,
         900
@@ -6619,7 +6530,6 @@
         1000
       ],
       "instruction": "A vertical list of tool cards, users can scroll vertically to browse more tools.",
-      "success": true,
       "start": [
         500,
         900
@@ -6643,7 +6553,6 @@
         1000
       ],
       "instruction": "Swipe left on the home page to discover more content",
-      "success": false,
       "start": [
         900,
         500
@@ -6667,7 +6576,6 @@
         999
       ],
       "instruction": "Tool list with multiple function cards, users can scroll vertically to browse more tools.",
-      "success": true,
       "start": [
         500,
         942
@@ -6691,7 +6599,6 @@
         1000
       ],
       "instruction": "A vertical list of app tiles, each with an icon, title, description, and category tag. The list appears to be scrollable to view more items.",
-      "success": true,
       "start": [
         500,
         900
@@ -6714,8 +6621,7 @@
         114,
         82
       ],
-      "instruction": "Left menu button, tap to expand the navigation menu.",
-      "success": true
+      "instruction": "Left menu button, tap to expand the navigation menu."
     }
   },
   {
@@ -6729,7 +6635,6 @@
         567
       ],
       "instruction": "Left menu bar with multiple clickable options such as starry sky phrases, calendar, observation tools, etc., users can scroll to browse all options.",
-      "success": false,
       "start": [
         305,
         510
@@ -6753,7 +6658,6 @@
         1000
       ],
       "instruction": "Right starry sky background area with constellation lines and planet labels (e.g., Mercury, Mars, Sun), users can scroll to view different areas of the sky.",
-      "success": false,
       "start": [
         500,
         900
@@ -6776,8 +6680,7 @@
         610,
         567
       ],
-      "instruction": "Exit button for closing the current menu or exiting the app.",
-      "success": true
+      "instruction": "Exit button for closing the current menu or exiting the app."
     }
   },
   {
@@ -6790,8 +6693,7 @@
         952,
         82
       ],
-      "instruction": "Search icon, tap to start the search function.",
-      "success": true
+      "instruction": "Search icon, tap to start the search function."
     }
   },
   {
@@ -6805,7 +6707,6 @@
         333
       ],
       "instruction": "List area for search history and favorites, can be scrolled vertically to view more content",
-      "success": false,
       "start": [
         498,
         315
@@ -6829,7 +6730,6 @@
         610
       ],
       "instruction": "Starry sky background image, can be scrolled horizontally or vertically to view different constellations",
-      "success": true,
       "start": [
         500,
         549
@@ -6853,7 +6753,6 @@
         999
       ],
       "instruction": "Virtual keyboard area, can be scrolled to switch input modes or view more functions",
-      "success": false,
       "start": [
         500,
         960
@@ -6876,8 +6775,7 @@
         130,
         985
       ],
-      "instruction": "Bottom navigation bar icons, possibly for switching to other function pages.",
-      "success": false
+      "instruction": "Bottom navigation bar icons, possibly for switching to other function pages."
     }
   },
   {
@@ -6890,8 +6788,7 @@
         560,
         985
       ],
-      "instruction": "Direction indicator, tap to adjust orientation or reset view.",
-      "success": false
+      "instruction": "Direction indicator, tap to adjust orientation or reset view."
     }
   },
   {
@@ -6904,8 +6801,7 @@
         960,
         985
       ],
-      "instruction": "Area displaying the current time, tap to view time settings or calendar.",
-      "success": true
+      "instruction": "Area displaying the current time, tap to view time settings or calendar."
     }
   },
   {
@@ -6919,7 +6815,6 @@
         333
       ],
       "instruction": "Dropdown menu with favorites, recent, and browse options",
-      "success": false,
       "start": [
         498,
         314
@@ -6943,7 +6838,6 @@
         830
       ],
       "instruction": "Bottom area showing clipboard and common phrases functions, can be scrolled to view more content",
-      "success": false,
       "start": [
         500,
         808
@@ -6967,7 +6861,6 @@
         1000
       ],
       "instruction": "The entire app interface with search bar, constellation map, and bottom function area, can be scrolled vertically to browse",
-      "success": false,
       "start": [
         500,
         900
@@ -6991,7 +6884,6 @@
         1000
       ],
       "instruction": "Swipe up on the home page to discover more content",
-      "success": true,
       "start": [
         500,
         900
@@ -7015,7 +6907,6 @@
         1000
       ],
       "instruction": "The entire screen content is scrollable for browsing star maps or switching between celestial views.",
-      "success": true,
       "start": [
         500,
         900
@@ -7039,7 +6930,6 @@
         1000
       ],
       "instruction": "Swipe left on the home page to discover more content",
-      "success": true,
       "start": [
         900,
         500
@@ -7063,7 +6953,6 @@
         1000
       ],
       "instruction": "The entire starry sky app interface, users can scroll to view different constellations or celestial bodies",
-      "success": false,
       "start": [
         500,
         900
@@ -7087,7 +6976,6 @@
         1000
       ],
       "instruction": "The entire starry sky app interface, users can scroll to view different constellations or adjust the view.",
-      "success": false,
       "start": [
         500,
         900
