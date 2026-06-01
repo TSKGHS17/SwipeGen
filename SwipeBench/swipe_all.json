@@ -2194,7 +2194,7 @@
         956,
         654
       ],
-      "instruction": "Swipe up on the main feed to view more posts.",
+      "instruction": "Swipe up on the Comet Discover list to view more recent news stories.",
       "start": [
         497.2,
         603.8
@@ -2217,7 +2217,7 @@
         956,
         654
       ],
-      "instruction": "Swipe up on the main feed to view more posts.",
+      "instruction": "Swipe up on the Comet Discover list to browse more suggested articles below.",
       "start": [
         497.2,
         603.8
@@ -2240,7 +2240,7 @@
         956,
         654
       ],
-      "instruction": "Swipe up on the main feed to view more posts.",
+      "instruction": "Swipe up on the Comet Discover section to reveal more news recommendations.",
       "start": [
         497.2,
         603.8
@@ -2355,7 +2355,7 @@
         999,
         951
       ],
-      "instruction": "scroll down",
+      "instruction": "Swipe up on the For You feed to browse more recommended video and image posts.",
       "start": [
         499.1,
         853.3
@@ -2378,7 +2378,7 @@
         999,
         951
       ],
-      "instruction": "scroll down",
+      "instruction": "Swipe up on the For You feed to reveal more trending recommendation cards.",
       "start": [
         499.1,
         853.3
@@ -2516,7 +2516,7 @@
         999,
         951
       ],
-      "instruction": "scroll down",
+      "instruction": "Swipe up on the Wellness feed to view more wellness and mental health posts.",
       "start": [
         499.1,
         847.5
@@ -2539,7 +2539,7 @@
         999,
         951
       ],
-      "instruction": "scroll down",
+      "instruction": "Swipe up on the Wellness feed to browse more self-care and health advice posts.",
       "start": [
         499.1,
         853.3
@@ -2562,7 +2562,7 @@
         999,
         951
       ],
-      "instruction": "scroll down",
+      "instruction": "Swipe up on the Wellness feed to reveal more recovery and wellness inspiration posts.",
       "start": [
         499.1,
         853.3
@@ -2608,7 +2608,7 @@
         999,
         951
       ],
-      "instruction": "scroll down",
+      "instruction": "Swipe up on the Mental Health feed to view more posts about trauma, depression, and emotional support.",
       "start": [
         499.1,
         847.5
@@ -2631,7 +2631,7 @@
         999,
         951
       ],
-      "instruction": "scroll down",
+      "instruction": "Swipe up on the Mental Health feed to browse more psychology and self-help quote posts.",
       "start": [
         499.1,
         853.3
@@ -2654,7 +2654,7 @@
         999,
         951
       ],
-      "instruction": "scroll down",
+      "instruction": "Swipe up on the Mental Health feed to reveal more reflective quotes and emotional support posts.",
       "start": [
         499.1,
         853.3
@@ -2700,7 +2700,7 @@
         999,
         951
       ],
-      "instruction": "scroll down",
+      "instruction": "Swipe up on the Photography feed to browse more photo dumps and photography posts.",
       "start": [
         499.1,
         847.5
@@ -2723,7 +2723,7 @@
         999,
         951
       ],
-      "instruction": "scroll down",
+      "instruction": "Swipe up on the Photography feed to view more photo-editing and photo inspiration posts.",
       "start": [
         499.1,
         853.3
@@ -2746,7 +2746,7 @@
         999,
         951
       ],
-      "instruction": "scroll down",
+      "instruction": "Swipe up on the Photography feed to reveal more photo prompt and visual inspiration posts.",
       "start": [
         499.1,
         853.3
@@ -2815,7 +2815,7 @@
         999,
         951
       ],
-      "instruction": "scroll down",
+      "instruction": "Swipe up on the Outdoors feed to browse more camping, running, road-trip, and beach posts.",
       "start": [
         499.1,
         853.3
@@ -2838,7 +2838,7 @@
         999,
         951
       ],
-      "instruction": "scroll down",
+      "instruction": "Swipe up on the Outdoors feed to load more outdoor activity and travel posts.",
       "start": [
         499.1,
         853.3
@@ -2884,7 +2884,7 @@
         999,
         951
       ],
-      "instruction": "scroll down",
+      "instruction": "Swipe up on the Outfits feed to browse more clothing, outfit, and style posts.",
       "start": [
         499.1,
         847.5
@@ -2930,7 +2930,7 @@
         999,
         951
       ],
-      "instruction": "scroll down",
+      "instruction": "Swipe up on the Outfits feed to view more outfit inspiration and fashion comparison posts.",
       "start": [
         499.1,
         853.3
@@ -2953,7 +2953,7 @@
         999,
         951
       ],
-      "instruction": "scroll down",
+      "instruction": "Swipe up on the Outfits feed to reveal more clothing items and fashion discussion posts.",
       "start": [
         499.1,
         853.3
@@ -3206,7 +3206,7 @@
         999,
         951
       ],
-      "instruction": "scroll down",
+      "instruction": "Swipe up on the All feed to browse more mixed recommendation posts across wellness, outfits, and quotes.",
       "start": [
         499.1,
         853.3
@@ -3229,7 +3229,7 @@
         999,
         951
       ],
-      "instruction": "scroll down",
+      "instruction": "Swipe up on the All feed to reveal more recommended posts about titles, outfits, mental health, and western style.",
       "start": [
         499.1,
         853.3
@@ -3459,7 +3459,7 @@
         999,
         951
       ],
-      "instruction": "scroll down",
+      "instruction": "Swipe up on the All feed to browse more mixed recommendation posts about products, zodiac signs, apparel, and relationship advice.",
       "start": [
         499.1,
         847.5
@@ -3482,7 +3482,7 @@
         999,
         951
       ],
-      "instruction": "scroll down",
+      "instruction": "Swipe up on the All feed to load more recommendation cards below the current video and lifestyle posts.",
       "start": [
         499.1,
         853.3
@@ -3505,7 +3505,7 @@
         999,
         951
       ],
-      "instruction": "scroll down",
+      "instruction": "Swipe up on the All feed to reveal more mental health, fashion, and lifestyle recommendation posts.",
       "start": [
         499.1,
         853.3
@@ -3551,7 +3551,7 @@
         666,
         951
       ],
-      "instruction": "scroll down",
+      "instruction": "Swipe up on the post detail page to view more of the caption, comments, and engagement area below.",
       "start": [
         332.4,
         847.5
@@ -3643,7 +3643,7 @@
         999,
         703
       ],
-      "instruction": "scroll down",
+      "instruction": "Swipe up on the post detail page to continue reading the post details and comments below.",
       "start": [
         499.1,
         630.8
@@ -3896,7 +3896,7 @@
         999,
         999
       ],
-      "instruction": "scroll down",
+      "instruction": "Swipe up on the Finch profile screen to view more self-care, community, and subscription options.",
       "start": [
         499.1,
         891.2
@@ -4080,7 +4080,7 @@
         999,
         999
       ],
-      "instruction": "Scroll down to view more content.",
+      "instruction": "Swipe up on the Wiser Explore page to view more games, trial offers, and learning cards below.",
       "start": [
         499.1,
         807.5
@@ -4091,29 +4091,6 @@
       ],
       "duration": 0.3,
       "direction": "up"
-    }
-  },
-  {
-    "img_filename": "com.wisernow.android_page_0_swipe_4.png",
-    "action_data": {
-      "action": "swipe",
-      "bbox": [
-        0,
-        831,
-        999,
-        999
-      ],
-      "instruction": "Scroll left to view more content.",
-      "start": [
-        878.7,
-        915.0
-      ],
-      "end": [
-        119.4,
-        915.0
-      ],
-      "duration": 0.3,
-      "direction": "left"
     }
   },
   {
