@@ -5313,19 +5313,6 @@
     }
   },
   {
-    "img_filename": "com.picoai.languageapp.android_021.png",
-    "action_data": {
-      "action": "tap",
-      "bbox": [
-        875,
-        52,
-        950,
-        85
-      ],
-      "instruction": "Button for opening settings or more options."
-    }
-  },
-  {
     "img_filename": "com.picoai.languageapp.android_022.png",
     "action_data": {
       "action": "swipe",
@@ -5369,32 +5356,6 @@
       ],
       "duration": 300,
       "direction": "left"
-    }
-  },
-  {
-    "img_filename": "com.picoai.languageapp.android_024.png",
-    "action_data": {
-      "action": "tap",
-      "bbox": [
-        58,
-        910,
-        939,
-        985
-      ],
-      "instruction": "Button to share streak, tap to share current streak status."
-    }
-  },
-  {
-    "img_filename": "com.picoai.languageapp.android_025.png",
-    "action_data": {
-      "action": "tap",
-      "bbox": [
-        37,
-        46,
-        135,
-        85
-      ],
-      "instruction": "User avatar or profile entry."
     }
   },
   {
@@ -5927,19 +5888,6 @@
     }
   },
   {
-    "img_filename": "com.underthing.focus.friend_012.png",
-    "action_data": {
-      "action": "tap",
-      "bbox": [
-        125,
-        47,
-        440,
-        93
-      ],
-      "instruction": "Sock icon on the left, tap to increase quantity."
-    }
-  },
-  {
     "img_filename": "com.underthing.focus.friend_013.png",
     "action_data": {
       "action": "swipe",
@@ -5986,19 +5934,6 @@
     }
   },
   {
-    "img_filename": "com.picoai.languageapp.android_001.png",
-    "action_data": {
-      "action": "tap",
-      "bbox": [
-        57,
-        579,
-        940,
-        655
-      ],
-      "instruction": "Blue 'Start' button to launch the 'Deep small talk' feature."
-    }
-  },
-  {
     "img_filename": "com.picoai.languageapp.android_002.png",
     "action_data": {
       "action": "swipe",
@@ -6022,19 +5957,6 @@
     }
   },
   {
-    "img_filename": "com.picoai.languageapp.android_003.png",
-    "action_data": {
-      "action": "tap",
-      "bbox": [
-        57,
-        47,
-        407,
-        85
-      ],
-      "instruction": "User avatar and level display area, tap to switch country or view level details."
-    }
-  },
-  {
     "img_filename": "com.picoai.languageapp.android_004.png",
     "action_data": {
       "action": "swipe",
@@ -6055,19 +5977,6 @@
       ],
       "duration": 300,
       "direction": "up"
-    }
-  },
-  {
-    "img_filename": "com.picoai.languageapp.android_005.png",
-    "action_data": {
-      "action": "tap",
-      "bbox": [
-        688,
-        102,
-        925,
-        135
-      ],
-      "instruction": "'My plan' button for viewing or managing personal study plans."
     }
   },
   {
@@ -6114,32 +6023,6 @@
       ],
       "duration": 300,
       "direction": "up"
-    }
-  },
-  {
-    "img_filename": "com.picoai.languageapp.android_008.png",
-    "action_data": {
-      "action": "tap",
-      "bbox": [
-        0,
-        0,
-        1000,
-        148
-      ],
-      "instruction": "Top title bar with close button and page title, tap to close the page."
-    }
-  },
-  {
-    "img_filename": "com.picoai.languageapp.android_009.png",
-    "action_data": {
-      "action": "tap",
-      "bbox": [
-        798,
-        47,
-        940,
-        85
-      ],
-      "instruction": "Water drop icon and number '0', may indicate current tasks or achievements, tap to view details."
     }
   },
   {
@@ -6396,32 +6279,6 @@
     }
   },
   {
-    "img_filename": "com.gmlabs.perch_009.png",
-    "action_data": {
-      "action": "tap",
-      "bbox": [
-        0,
-        920,
-        1000,
-        999
-      ],
-      "instruction": "Bottom navigation bar with Home, Search, and You tabs, tap to switch pages"
-    }
-  },
-  {
-    "img_filename": "com.snitl.omnitools_001.png",
-    "action_data": {
-      "action": "tap",
-      "bbox": [
-        38,
-        252,
-        160,
-        305
-      ],
-      "instruction": "Filter button for selecting all tools."
-    }
-  },
-  {
     "img_filename": "com.snitl.omnitools_002.png",
     "action_data": {
       "action": "swipe",
@@ -6442,58 +6299,6 @@
       ],
       "duration": 300,
       "direction": "up"
-    }
-  },
-  {
-    "img_filename": "com.snitl.omnitools_003.png",
-    "action_data": {
-      "action": "tap",
-      "bbox": [
-        178,
-        252,
-        453,
-        305
-      ],
-      "instruction": "Button to filter date and time tools."
-    }
-  },
-  {
-    "img_filename": "com.snitl.omnitools_004.png",
-    "action_data": {
-      "action": "tap",
-      "bbox": [
-        470,
-        252,
-        678,
-        305
-      ],
-      "instruction": "Button to filter financial tools."
-    }
-  },
-  {
-    "img_filename": "com.snitl.omnitools_005.png",
-    "action_data": {
-      "action": "tap",
-      "bbox": [
-        695,
-        252,
-        999,
-        305
-      ],
-      "instruction": "Button to filter health and fitness tools."
-    }
-  },
-  {
-    "img_filename": "com.snitl.omnitools_006.png",
-    "action_data": {
-      "action": "tap",
-      "bbox": [
-        38,
-        328,
-        960,
-        414
-      ],
-      "instruction": "Entry to special tools, tap to access advanced tools."
     }
   },
   {
@@ -6612,19 +6417,6 @@
     }
   },
   {
-    "img_filename": "com.noctuasoftware.stellarium_free_001.png",
-    "action_data": {
-      "action": "tap",
-      "bbox": [
-        37,
-        52,
-        114,
-        82
-      ],
-      "instruction": "Left menu button, tap to expand the navigation menu."
-    }
-  },
-  {
     "img_filename": "com.noctuasoftware.stellarium_free_002.png",
     "action_data": {
       "action": "swipe",
@@ -6668,32 +6460,6 @@
       ],
       "duration": 300,
       "direction": "up"
-    }
-  },
-  {
-    "img_filename": "com.noctuasoftware.stellarium_free_004.png",
-    "action_data": {
-      "action": "tap",
-      "bbox": [
-        0,
-        518,
-        610,
-        567
-      ],
-      "instruction": "Exit button for closing the current menu or exiting the app."
-    }
-  },
-  {
-    "img_filename": "com.noctuasoftware.stellarium_free_005.png",
-    "action_data": {
-      "action": "tap",
-      "bbox": [
-        875,
-        52,
-        952,
-        82
-      ],
-      "instruction": "Search icon, tap to start the search function."
     }
   },
   {
@@ -6763,45 +6529,6 @@
       ],
       "duration": 300,
       "direction": "up"
-    }
-  },
-  {
-    "img_filename": "com.noctuasoftware.stellarium_free_009.png",
-    "action_data": {
-      "action": "tap",
-      "bbox": [
-        0,
-        938,
-        130,
-        985
-      ],
-      "instruction": "Bottom navigation bar icons, possibly for switching to other function pages."
-    }
-  },
-  {
-    "img_filename": "com.noctuasoftware.stellarium_free_010.png",
-    "action_data": {
-      "action": "tap",
-      "bbox": [
-        440,
-        940,
-        560,
-        985
-      ],
-      "instruction": "Direction indicator, tap to adjust orientation or reset view."
-    }
-  },
-  {
-    "img_filename": "com.noctuasoftware.stellarium_free_011.png",
-    "action_data": {
-      "action": "tap",
-      "bbox": [
-        800,
-        925,
-        960,
-        985
-      ],
-      "instruction": "Area displaying the current time, tap to view time settings or calendar."
     }
   },
   {
