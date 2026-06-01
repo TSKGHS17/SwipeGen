@@ -5023,7 +5023,7 @@
         1000,
         999
       ],
-      "instruction": "The entire Google search homepage, supports vertical scrolling to browse content",
+      "instruction": "Swipe up on the Google search home page to browse more content.",
       "start": [
         500,
         899
@@ -5046,7 +5046,7 @@
         1000,
         900
       ],
-      "instruction": "News headline area, can be scrolled to view more content",
+      "instruction": "Swipe up on the news headline area to view more stories.",
       "start": [
         500,
         889
@@ -5069,7 +5069,7 @@
         1000,
         999
       ],
-      "instruction": "Bottom navigation bar, can be swiped left or right to switch pages",
+      "instruction": "Swipe left on the bottom navigation bar to switch pages.",
       "start": [
         900,
         950
@@ -5138,7 +5138,7 @@
         857,
         472
       ],
-      "instruction": "Edit image function card, contains icon and description text",
+      "instruction": "Swipe up on the edit-image card to browse more creation options.",
       "start": [
         442,
         463
@@ -5161,7 +5161,7 @@
         970,
         600
       ],
-      "instruction": "Task assignment input area, contains text box and action buttons",
+      "instruction": "Swipe up on the task input area to reveal more controls below.",
       "start": [
         499,
         589
@@ -5184,7 +5184,7 @@
         970,
         935
       ],
-      "instruction": "Virtual keyboard area for text input",
+      "instruction": "Swipe up on the keyboard area to reveal more input options.",
       "start": [
         499,
         903
@@ -5207,7 +5207,7 @@
         1000,
         472
       ],
-      "instruction": "Right preview image carousel area",
+      "instruction": "Swipe left on the preview carousel to view the next image.",
       "start": [
         988,
         425
@@ -5230,7 +5230,7 @@
         800,
         475
       ],
-      "instruction": "Edit image function card, contains icon and description text",
+      "instruction": "Swipe up on the edit-image card to browse more creation options.",
       "start": [
         400,
         465
@@ -5253,7 +5253,7 @@
         1000,
         475
       ],
-      "instruction": "Card displaying mobile phone screenshots, possibly a feature preview",
+      "instruction": "Swipe up on the feature preview card to view more app content.",
       "start": [
         900,
         465
@@ -5276,7 +5276,7 @@
         999,
         599
       ],
-      "instruction": "Task assignment input area, supports text and voice input",
+      "instruction": "Swipe up on the task input area to reveal more input controls.",
       "start": [
         500,
         588
@@ -5299,7 +5299,7 @@
         970,
         143
       ],
-      "instruction": "Network connection status bar",
+      "instruction": "Swipe up near the top status area to return to the main content.",
       "start": [
         499,
         139
@@ -5322,7 +5322,7 @@
         939,
         879
       ],
-      "instruction": "Calendar view, allows users to scroll to view different months or dates.",
+      "instruction": "Swipe up on the calendar view to browse more dates.",
       "start": [
         498,
         844
@@ -5460,7 +5460,7 @@
         960,
         945
       ],
-      "instruction": "News content area with images and text, can be scrolled vertically to view more content",
+      "instruction": "Swipe up on the news feed to view more stories.",
       "start": [
         499,
         875
@@ -5483,7 +5483,7 @@
         960,
         148
       ],
-      "instruction": "Top navigation tab bar, can be scrolled to switch categories",
+      "instruction": "Swipe up on the navigation tab bar to reveal more content below.",
       "start": [
         499,
         143
@@ -5506,7 +5506,7 @@
         960,
         90
       ],
-      "instruction": "Top navigation bar with back button and title, can be scrolled to view",
+      "instruction": "Swipe up from the top navigation area to view more page content.",
       "start": [
         499,
         86
@@ -5529,7 +5529,7 @@
         1000,
         999
       ],
-      "instruction": "The entire app interface, including top navigation, middle content area, and bottom keyboard, users can scroll vertically to browse content.",
+      "instruction": "Swipe up on the main interface to browse more content.",
       "start": [
         500,
         899
@@ -5552,7 +5552,7 @@
         964,
         599
       ],
-      "instruction": "Input box and its attached controls area, users can scroll vertically to adjust input box height or view hidden content.",
+      "instruction": "Swipe up on the input area to reveal hidden controls.",
       "start": [
         498,
         587
@@ -5575,7 +5575,7 @@
         964,
         467
       ],
-      "instruction": "Notification prompt box, users can scroll vertically to hide or view full content.",
+      "instruction": "Swipe up on the notification prompt to view more content.",
       "start": [
         498,
         458
@@ -5598,7 +5598,7 @@
         1000,
         999
       ],
-      "instruction": "Virtual keyboard area, users can swipe left or right to switch keyboard layouts or scroll vertically to adjust keyboard position.",
+      "instruction": "Swipe up on the keyboard area to reveal more input functions.",
       "start": [
         500,
         961
@@ -5621,7 +5621,7 @@
         1000,
         100
       ],
-      "instruction": "Top navigation bar with user avatar, login button, and status bar, users can swipe left or right to view hidden content.",
+      "instruction": "Swipe left on the top bar to reveal more hidden controls.",
       "start": [
         900,
         50
@@ -5667,7 +5667,7 @@
         1000,
         1000
       ],
-      "instruction": "The entire game interface, can be scrolled vertically or horizontally to browse different content or scenes.",
+      "instruction": "Swipe up on the game screen to browse more scenes.",
       "start": [
         500,
         900
@@ -5713,7 +5713,7 @@
         1000,
         1000
       ],
-      "instruction": "The entire game interface is scrollable for browsing different scenes or tasks.",
+      "instruction": "Swipe up on the game interface to view more tasks.",
       "start": [
         500,
         900
@@ -5759,7 +5759,7 @@
         1000,
         1000
       ],
-      "instruction": "The entire game interface, users can scroll to browse different content or scenes.",
+      "instruction": "Swipe up on the game interface to browse more content.",
       "start": [
         500,
         900
@@ -5805,7 +5805,7 @@
         1000,
         1000
       ],
-      "instruction": "The entire game interface, can be scrolled vertically or horizontally to browse different content or scenes.",
+      "instruction": "Swipe up on the game interface to view more scenes.",
       "start": [
         500,
         900
@@ -5851,7 +5851,7 @@
         1000,
         999
       ],
-      "instruction": "Main game interface with scrollable visual content and interactive elements.",
+      "instruction": "Swipe up on the game interface to reveal more interactive content.",
       "start": [
         500,
         899
@@ -5874,7 +5874,7 @@
         1000,
         999
       ],
-      "instruction": "Multiple interactive item icons arranged at the bottom, can be scrolled horizontally to view.",
+      "instruction": "Swipe left on the bottom item bar to view more item icons.",
       "start": [
         900,
         900
@@ -5897,7 +5897,7 @@
         1000,
         1000
       ],
-      "instruction": "The entire game interface, can be scrolled vertically or horizontally to browse different content or scenes.",
+      "instruction": "Swipe up on the game interface to browse more scenes.",
       "start": [
         500,
         900
@@ -5920,7 +5920,7 @@
         1000,
         1000
       ],
-      "instruction": "The entire game interface, users can scroll to browse different scenes or content.",
+      "instruction": "Swipe up on the game interface to view more content.",
       "start": [
         500,
         900
@@ -5943,7 +5943,7 @@
         1000,
         999
       ],
-      "instruction": "The entire screen content area, users can scroll up or down to browse more content.",
+      "instruction": "Swipe up on the main screen to browse more content.",
       "start": [
         500,
         899
@@ -5966,7 +5966,7 @@
         939,
         817
       ],
-      "instruction": "A vertical list of five language proficiency descriptions, users can scroll to view details of different levels.",
+      "instruction": "Swipe up on the proficiency list to view more level details.",
       "start": [
         498,
         747
@@ -5989,7 +5989,7 @@
         1000,
         600
       ],
-      "instruction": "A vertical list of multiple conversation skill steps, users can scroll to browse.",
+      "instruction": "Swipe up on the conversation steps list to view more steps.",
       "start": [
         500,
         555
@@ -6012,7 +6012,7 @@
         1000,
         998
       ],
-      "instruction": "A vertical list of subsequent chapter titles, users can scroll to unlock new content.",
+      "instruction": "Swipe up on the chapter list to reveal more chapters.",
       "start": [
         500,
         958
@@ -6081,7 +6081,7 @@
         1000,
         999
       ],
-      "instruction": "Main content area with navigation bar, colored dots, text, and buttons, users can scroll vertically to browse content.",
+      "instruction": "Swipe up on the main content area to browse more lesson content.",
       "start": [
         500,
         899
@@ -6127,7 +6127,7 @@
         1000,
         999
       ],
-      "instruction": "Main content list with multiple article cards, users can scroll vertically to browse different articles.",
+      "instruction": "Swipe up on the article list to browse more articles.",
       "start": [
         500,
         899
@@ -6150,7 +6150,7 @@
         1000,
         350
       ],
-      "instruction": "Part of the article list with title, author, and timestamp, can be scrolled vertically to view more content.",
+      "instruction": "Swipe up on the article list to reveal more entries.",
       "start": [
         500,
         327
@@ -6173,7 +6173,7 @@
         1000,
         575
       ],
-      "instruction": "Another part of the article list with title, author, and timestamp, can be scrolled vertically to view more content.",
+      "instruction": "Swipe up on the article list to view more articles.",
       "start": [
         500,
         552
@@ -6219,7 +6219,7 @@
         1000,
         935
       ],
-      "instruction": "Main content area currently showing loading animation, users can scroll vertically to load more content.",
+      "instruction": "Swipe up on the main content area to load more content.",
       "start": [
         500,
         851
@@ -6242,7 +6242,7 @@
         1000,
         920
       ],
-      "instruction": "Article list with multiple entries, can be scrolled vertically to view more content",
+      "instruction": "Swipe up on the article list to view more entries.",
       "start": [
         500,
         828
@@ -6265,7 +6265,7 @@
         1000,
         999
       ],
-      "instruction": "Bottom navigation bar area, can be scrolled to view hidden content or switch pages",
+      "instruction": "Swipe up on the bottom navigation area to reveal hidden content.",
       "start": [
         500,
         991
@@ -6288,7 +6288,7 @@
         1000,
         999
       ],
-      "instruction": "Entire screen content area, allows vertical scrolling to view more content or return to the previous page.",
+      "instruction": "Swipe up on the main screen to browse more tool content.",
       "start": [
         500,
         899
@@ -6334,7 +6334,7 @@
         1000,
         1000
       ],
-      "instruction": "A vertical list of tool cards, users can scroll vertically to browse more tools.",
+      "instruction": "Swipe up on the tool card list to browse more tools.",
       "start": [
         500,
         900
@@ -6380,7 +6380,7 @@
         1000,
         999
       ],
-      "instruction": "Tool list with multiple function cards, users can scroll vertically to browse more tools.",
+      "instruction": "Swipe up on the tool list to reveal more function cards.",
       "start": [
         500,
         942
@@ -6403,7 +6403,7 @@
         1000,
         1000
       ],
-      "instruction": "A vertical list of app tiles, each with an icon, title, description, and category tag. The list appears to be scrollable to view more items.",
+      "instruction": "Swipe up on the app tile list to view more items.",
       "start": [
         500,
         900
@@ -6426,7 +6426,7 @@
         610,
         567
       ],
-      "instruction": "Left menu bar with multiple clickable options such as starry sky phrases, calendar, observation tools, etc., users can scroll to browse all options.",
+      "instruction": "Swipe up on the left menu to browse more options.",
       "start": [
         305,
         510
@@ -6449,7 +6449,7 @@
         1000,
         1000
       ],
-      "instruction": "Right starry sky background area with constellation lines and planet labels (e.g., Mercury, Mars, Sun), users can scroll to view different areas of the sky.",
+      "instruction": "Swipe up on the sky map to view another region of the sky.",
       "start": [
         500,
         900
@@ -6472,7 +6472,7 @@
         956,
         333
       ],
-      "instruction": "List area for search history and favorites, can be scrolled vertically to view more content",
+      "instruction": "Swipe up on the search history list to view more entries.",
       "start": [
         498,
         315
@@ -6495,7 +6495,7 @@
         1000,
         610
       ],
-      "instruction": "Starry sky background image, can be scrolled horizontally or vertically to view different constellations",
+      "instruction": "Swipe up on the sky map to view more constellations.",
       "start": [
         500,
         549
@@ -6518,7 +6518,7 @@
         1000,
         999
       ],
-      "instruction": "Virtual keyboard area, can be scrolled to switch input modes or view more functions",
+      "instruction": "Swipe up on the keyboard area to reveal more input functions.",
       "start": [
         500,
         960
@@ -6541,7 +6541,7 @@
         956,
         333
       ],
-      "instruction": "Dropdown menu with favorites, recent, and browse options",
+      "instruction": "Swipe up on the dropdown menu to view more options.",
       "start": [
         498,
         314
@@ -6564,7 +6564,7 @@
         1000,
         830
       ],
-      "instruction": "Bottom area showing clipboard and common phrases functions, can be scrolled to view more content",
+      "instruction": "Swipe up on the bottom function area to reveal more tools.",
       "start": [
         500,
         808
@@ -6587,7 +6587,7 @@
         1000,
         1000
       ],
-      "instruction": "The entire app interface with search bar, constellation map, and bottom function area, can be scrolled vertically to browse",
+      "instruction": "Swipe up on the app interface to browse more sky-map content.",
       "start": [
         500,
         900
@@ -6633,7 +6633,7 @@
         1000,
         1000
       ],
-      "instruction": "The entire screen content is scrollable for browsing star maps or switching between celestial views.",
+      "instruction": "Swipe up on the sky map to browse more celestial views.",
       "start": [
         500,
         900
@@ -6679,7 +6679,7 @@
         1000,
         1000
       ],
-      "instruction": "The entire starry sky app interface, users can scroll to view different constellations or celestial bodies",
+      "instruction": "Swipe up on the star map to view more celestial bodies.",
       "start": [
         500,
         900
@@ -6702,7 +6702,7 @@
         1000,
         1000
       ],
-      "instruction": "The entire starry sky app interface, users can scroll to view different constellations or adjust the view.",
+      "instruction": "Swipe up on the star map to adjust the sky view.",
       "start": [
         500,
         900
