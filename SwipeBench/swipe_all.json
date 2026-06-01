@@ -6831,167 +6831,6 @@
     }
   },
   {
-    "img_filename": "xyz.blueskyweb.app_page_11_swipe_1.png",
-    "action_data": {
-      "action": "swipe",
-      "bbox": [
-        0,
-        42,
-        999,
-        999
-      ],
-      "instruction": "swipe up to scroll down the feed",
-      "start": [
-        499.1,
-        883.8
-      ],
-      "end": [
-        499.1,
-        156.7
-      ],
-      "duration": 0.3,
-      "direction": "up"
-    }
-  },
-  {
-    "img_filename": "xyz.blueskyweb.app_page_11_swipe_2.png",
-    "action_data": {
-      "action": "swipe",
-      "bbox": [
-        0,
-        42,
-        999,
-        999
-      ],
-      "instruction": "swipe up to scroll down the feed",
-      "start": [
-        499.1,
-        883.8
-      ],
-      "end": [
-        499.1,
-        156.7
-      ],
-      "duration": 0.3,
-      "direction": "up"
-    }
-  },
-  {
-    "img_filename": "xyz.blueskyweb.app_page_11_swipe_4.png",
-    "action_data": {
-      "action": "swipe",
-      "bbox": [
-        0,
-        143,
-        1000,
-        929
-      ],
-      "instruction": "Swipe up on the main feed to view more posts.",
-      "start": [
-        500.0,
-        834.6
-      ],
-      "end": [
-        500.0,
-        237.1
-      ],
-      "duration": 0.3,
-      "direction": "up"
-    }
-  },
-  {
-    "img_filename": "xyz.blueskyweb.app_page_12_swipe_0.png",
-    "action_data": {
-      "action": "swipe",
-      "bbox": [
-        0,
-        42,
-        999,
-        999
-      ],
-      "instruction": "swipe up to scroll down the feed",
-      "start": [
-        499.1,
-        883.8
-      ],
-      "end": [
-        499.1,
-        156.7
-      ],
-      "duration": 0.3,
-      "direction": "up"
-    }
-  },
-  {
-    "img_filename": "xyz.blueskyweb.app_page_12_swipe_1.png",
-    "action_data": {
-      "action": "swipe",
-      "bbox": [
-        0,
-        42,
-        999,
-        999
-      ],
-      "instruction": "swipe up to scroll down the feed",
-      "start": [
-        499.1,
-        883.8
-      ],
-      "end": [
-        499.1,
-        156.7
-      ],
-      "duration": 0.3,
-      "direction": "up"
-    }
-  },
-  {
-    "img_filename": "xyz.blueskyweb.app_page_12_swipe_2.png",
-    "action_data": {
-      "action": "swipe",
-      "bbox": [
-        0,
-        42,
-        999,
-        999
-      ],
-      "instruction": "swipe up to scroll down the feed",
-      "start": [
-        499.1,
-        883.8
-      ],
-      "end": [
-        499.1,
-        156.7
-      ],
-      "duration": 0.3,
-      "direction": "up"
-    }
-  },
-  {
-    "img_filename": "xyz.blueskyweb.app_page_12_swipe_4.png",
-    "action_data": {
-      "action": "swipe",
-      "bbox": [
-        0,
-        143,
-        1000,
-        929
-      ],
-      "instruction": "Swipe up on the main feed to view more posts.",
-      "start": [
-        500.0,
-        834.6
-      ],
-      "end": [
-        500.0,
-        237.1
-      ],
-      "duration": 0.3,
-      "direction": "up"
-    }
-  },
-  {
     "img_filename": "xyz.blueskyweb.app_page_17_swipe_1.png",
     "action_data": {
       "action": "swipe",
@@ -7139,7 +6978,7 @@
         999,
         999
       ],
-      "instruction": "scroll down to view more feeds",
+      "instruction": "Swipe up on the Feeds page to browse more saved feeds and discoverable custom feeds below.",
       "start": [
         499.1,
         890.4
@@ -7162,7 +7001,7 @@
         1000,
         937
       ],
-      "instruction": "Swipe up on the main feed to view more feeds.",
+      "instruction": "Swipe up on the Feeds page to reveal more community feeds available to pin.",
       "start": [
         500.0,
         835.8
@@ -7277,7 +7116,7 @@
         999,
         999
       ],
-      "instruction": "scroll down to view more posts",
+      "instruction": "Swipe up on the Bluesky Video feed to browse more short video posts.",
       "start": [
         499.1,
         883.8
@@ -7300,7 +7139,7 @@
         999,
         999
       ],
-      "instruction": "scroll down to view more posts",
+      "instruction": "Swipe up on the Video feed to load more video cards below the current grid.",
       "start": [
         499.1,
         883.8
@@ -7323,7 +7162,7 @@
         999,
         999
       ],
-      "instruction": "scroll down to view more videos",
+      "instruction": "Swipe up on the Video feed to reveal more videos from different creators.",
       "start": [
         499.1,
         883.8
@@ -7369,7 +7208,7 @@
         999,
         933
       ],
-      "instruction": "Swipe up on the main feed to view more posts.",
+      "instruction": "Swipe up on the Bluesky Video feed to continue browsing additional video posts.",
       "start": [
         499.1,
         839.6
@@ -7377,29 +7216,6 @@
       "end": [
         499.1,
         249.2
-      ],
-      "duration": 0.3,
-      "direction": "up"
-    }
-  },
-  {
-    "img_filename": "xyz.blueskyweb.app_page_23_swipe_0.png",
-    "action_data": {
-      "action": "swipe",
-      "bbox": [
-        0,
-        42,
-        999,
-        999
-      ],
-      "instruction": "swipe up to scroll down the feed",
-      "start": [
-        499.1,
-        883.8
-      ],
-      "end": [
-        499.1,
-        156.7
       ],
       "duration": 0.3,
       "direction": "up"
@@ -7446,121 +7262,6 @@
       "end": [
         499.1,
         156.7
-      ],
-      "duration": 0.3,
-      "direction": "up"
-    }
-  },
-  {
-    "img_filename": "xyz.blueskyweb.app_page_23_swipe_4.png",
-    "action_data": {
-      "action": "swipe",
-      "bbox": [
-        0,
-        143,
-        1000,
-        929
-      ],
-      "instruction": "Swipe up on the main feed to view more posts.",
-      "start": [
-        500.0,
-        834.6
-      ],
-      "end": [
-        500.0,
-        237.1
-      ],
-      "duration": 0.3,
-      "direction": "up"
-    }
-  },
-  {
-    "img_filename": "xyz.blueskyweb.app_page_24_swipe_0.png",
-    "action_data": {
-      "action": "swipe",
-      "bbox": [
-        0,
-        42,
-        999,
-        999
-      ],
-      "instruction": "swipe up to scroll down the feed",
-      "start": [
-        499.1,
-        883.8
-      ],
-      "end": [
-        499.1,
-        156.7
-      ],
-      "duration": 0.3,
-      "direction": "up"
-    }
-  },
-  {
-    "img_filename": "xyz.blueskyweb.app_page_24_swipe_1.png",
-    "action_data": {
-      "action": "swipe",
-      "bbox": [
-        0,
-        42,
-        999,
-        999
-      ],
-      "instruction": "swipe up to scroll down the feed",
-      "start": [
-        499.1,
-        883.8
-      ],
-      "end": [
-        499.1,
-        156.7
-      ],
-      "duration": 0.3,
-      "direction": "up"
-    }
-  },
-  {
-    "img_filename": "xyz.blueskyweb.app_page_24_swipe_2.png",
-    "action_data": {
-      "action": "swipe",
-      "bbox": [
-        0,
-        42,
-        999,
-        999
-      ],
-      "instruction": "swipe up to scroll down the feed",
-      "start": [
-        499.1,
-        883.8
-      ],
-      "end": [
-        499.1,
-        156.7
-      ],
-      "duration": 0.3,
-      "direction": "up"
-    }
-  },
-  {
-    "img_filename": "xyz.blueskyweb.app_page_24_swipe_4.png",
-    "action_data": {
-      "action": "swipe",
-      "bbox": [
-        0,
-        143,
-        1000,
-        929
-      ],
-      "instruction": "Swipe up on the main feed to view more posts.",
-      "start": [
-        500.0,
-        834.6
-      ],
-      "end": [
-        500.0,
-        237.1
       ],
       "duration": 0.3,
       "direction": "up"
@@ -7659,98 +7360,6 @@
     }
   },
   {
-    "img_filename": "xyz.blueskyweb.app_page_35_swipe_0.png",
-    "action_data": {
-      "action": "swipe",
-      "bbox": [
-        0,
-        42,
-        999,
-        999
-      ],
-      "instruction": "swipe up to scroll down the feed",
-      "start": [
-        499.1,
-        883.8
-      ],
-      "end": [
-        499.1,
-        156.7
-      ],
-      "duration": 0.3,
-      "direction": "up"
-    }
-  },
-  {
-    "img_filename": "xyz.blueskyweb.app_page_35_swipe_1.png",
-    "action_data": {
-      "action": "swipe",
-      "bbox": [
-        0,
-        42,
-        999,
-        999
-      ],
-      "instruction": "swipe up to scroll down the feed",
-      "start": [
-        499.1,
-        883.8
-      ],
-      "end": [
-        499.1,
-        156.7
-      ],
-      "duration": 0.3,
-      "direction": "up"
-    }
-  },
-  {
-    "img_filename": "xyz.blueskyweb.app_page_35_swipe_2.png",
-    "action_data": {
-      "action": "swipe",
-      "bbox": [
-        0,
-        42,
-        999,
-        999
-      ],
-      "instruction": "swipe up to scroll down the feed",
-      "start": [
-        499.1,
-        883.8
-      ],
-      "end": [
-        499.1,
-        156.7
-      ],
-      "duration": 0.3,
-      "direction": "up"
-    }
-  },
-  {
-    "img_filename": "xyz.blueskyweb.app_page_35_swipe_4.png",
-    "action_data": {
-      "action": "swipe",
-      "bbox": [
-        0,
-        143,
-        1000,
-        929
-      ],
-      "instruction": "Swipe up on the main feed to view more posts.",
-      "start": [
-        500.0,
-        834.6
-      ],
-      "end": [
-        500.0,
-        237.1
-      ],
-      "duration": 0.3,
-      "direction": "up"
-    }
-  },
-  {
     "img_filename": "xyz.blueskyweb.app_page_38_swipe_1.png",
     "action_data": {
       "action": "swipe",
@@ -7768,98 +7377,6 @@
       "end": [
         500.0,
         164.2
-      ],
-      "duration": 0.3,
-      "direction": "up"
-    }
-  },
-  {
-    "img_filename": "xyz.blueskyweb.app_page_39_swipe_0.png",
-    "action_data": {
-      "action": "swipe",
-      "bbox": [
-        0,
-        42,
-        999,
-        999
-      ],
-      "instruction": "swipe up to scroll down the feed",
-      "start": [
-        499.1,
-        883.8
-      ],
-      "end": [
-        499.1,
-        156.7
-      ],
-      "duration": 0.3,
-      "direction": "up"
-    }
-  },
-  {
-    "img_filename": "xyz.blueskyweb.app_page_39_swipe_1.png",
-    "action_data": {
-      "action": "swipe",
-      "bbox": [
-        0,
-        42,
-        999,
-        999
-      ],
-      "instruction": "swipe up to scroll down the feed",
-      "start": [
-        499.1,
-        883.8
-      ],
-      "end": [
-        499.1,
-        156.7
-      ],
-      "duration": 0.3,
-      "direction": "up"
-    }
-  },
-  {
-    "img_filename": "xyz.blueskyweb.app_page_39_swipe_2.png",
-    "action_data": {
-      "action": "swipe",
-      "bbox": [
-        0,
-        42,
-        999,
-        999
-      ],
-      "instruction": "swipe up to scroll down the feed",
-      "start": [
-        499.1,
-        883.8
-      ],
-      "end": [
-        499.1,
-        156.7
-      ],
-      "duration": 0.3,
-      "direction": "up"
-    }
-  },
-  {
-    "img_filename": "xyz.blueskyweb.app_page_39_swipe_4.png",
-    "action_data": {
-      "action": "swipe",
-      "bbox": [
-        0,
-        143,
-        1000,
-        929
-      ],
-      "instruction": "Swipe up on the main feed to view more posts.",
-      "start": [
-        500.0,
-        834.6
-      ],
-      "end": [
-        500.0,
-        237.1
       ],
       "duration": 0.3,
       "direction": "up"
@@ -8419,98 +7936,6 @@
   },
   {
     "img_filename": "xyz.blueskyweb.app_page_52_swipe_4.png",
-    "action_data": {
-      "action": "swipe",
-      "bbox": [
-        0,
-        143,
-        1000,
-        929
-      ],
-      "instruction": "Swipe up on the main feed to view more posts.",
-      "start": [
-        500.0,
-        834.6
-      ],
-      "end": [
-        500.0,
-        237.1
-      ],
-      "duration": 0.3,
-      "direction": "up"
-    }
-  },
-  {
-    "img_filename": "xyz.blueskyweb.app_page_53_swipe_0.png",
-    "action_data": {
-      "action": "swipe",
-      "bbox": [
-        0,
-        42,
-        999,
-        999
-      ],
-      "instruction": "swipe up to scroll down the feed",
-      "start": [
-        499.1,
-        883.8
-      ],
-      "end": [
-        499.1,
-        156.7
-      ],
-      "duration": 0.3,
-      "direction": "up"
-    }
-  },
-  {
-    "img_filename": "xyz.blueskyweb.app_page_53_swipe_1.png",
-    "action_data": {
-      "action": "swipe",
-      "bbox": [
-        0,
-        42,
-        999,
-        999
-      ],
-      "instruction": "swipe up to scroll down the feed",
-      "start": [
-        499.1,
-        883.8
-      ],
-      "end": [
-        499.1,
-        156.7
-      ],
-      "duration": 0.3,
-      "direction": "up"
-    }
-  },
-  {
-    "img_filename": "xyz.blueskyweb.app_page_53_swipe_2.png",
-    "action_data": {
-      "action": "swipe",
-      "bbox": [
-        0,
-        42,
-        999,
-        999
-      ],
-      "instruction": "swipe up to scroll down the feed",
-      "start": [
-        499.1,
-        883.8
-      ],
-      "end": [
-        499.1,
-        156.7
-      ],
-      "duration": 0.3,
-      "direction": "up"
-    }
-  },
-  {
-    "img_filename": "xyz.blueskyweb.app_page_53_swipe_4.png",
     "action_data": {
       "action": "swipe",
       "bbox": [
