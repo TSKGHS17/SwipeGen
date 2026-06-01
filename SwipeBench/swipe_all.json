@@ -3979,29 +3979,6 @@
     }
   },
   {
-    "img_filename": "com.finch.finch_page_11_swipe_0.png",
-    "action_data": {
-      "action": "swipe",
-      "bbox": [
-        0,
-        80,
-        999,
-        999
-      ],
-      "instruction": "Select the \"Hygiene\" option by tapping on it.",
-      "start": [
-        499.1,
-        888.3
-      ],
-      "end": [
-        499.1,
-        190.0
-      ],
-      "duration": 0.3,
-      "direction": "up"
-    }
-  },
-  {
     "img_filename": "com.finch.finch_page_11_swipe_1.png",
     "action_data": {
       "action": "swipe",
@@ -4025,29 +4002,6 @@
     }
   },
   {
-    "img_filename": "com.finch.finch_page_12_swipe_0.png",
-    "action_data": {
-      "action": "swipe",
-      "bbox": [
-        0,
-        80,
-        999,
-        999
-      ],
-      "instruction": "Select the \"Calm\" option to focus on calming activities.",
-      "start": [
-        499.1,
-        888.3
-      ],
-      "end": [
-        499.1,
-        190.0
-      ],
-      "duration": 0.3,
-      "direction": "up"
-    }
-  },
-  {
     "img_filename": "com.finch.finch_page_12_swipe_1.png",
     "action_data": {
       "action": "swipe",
@@ -4065,29 +4019,6 @@
       "end": [
         500.0,
         192.9
-      ],
-      "duration": 0.3,
-      "direction": "up"
-    }
-  },
-  {
-    "img_filename": "com.finch.finch_page_23_swipe_0.png",
-    "action_data": {
-      "action": "swipe",
-      "bbox": [
-        0,
-        80,
-        999,
-        999
-      ],
-      "instruction": "Select the \"Hygiene\" option by tapping on it.",
-      "start": [
-        499.1,
-        888.3
-      ],
-      "end": [
-        499.1,
-        190.0
       ],
       "duration": 0.3,
       "direction": "up"
@@ -8760,29 +8691,6 @@
       ],
       "duration": 0.3,
       "direction": "up"
-    }
-  },
-  {
-    "img_filename": "xyz.blueskyweb.app_page_67_swipe_0.png",
-    "action_data": {
-      "action": "swipe",
-      "bbox": [
-        0,
-        800,
-        999,
-        999
-      ],
-      "instruction": "Select \"Upload from Library\" to choose a photo from the device's photo library.",
-      "start": [
-        878.7,
-        899.2
-      ],
-      "end": [
-        119.4,
-        899.2
-      ],
-      "duration": 0.3,
-      "direction": "left"
     }
   }
 ]
