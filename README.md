@@ -32,7 +32,7 @@ To bridge this gap, we introduce a unified pipeline encompassing automated data 
 
 1. **[SwipeGen](./SwipeGen/)**: An automated, human-like swipe data synthesis pipeline that employs continuous state exploration and visual execute-and-verify mechanisms without relying on manual annotations.
 2. **[SwipeBench](./SwipeBench/)**: The first dedicated benchmark for evaluating GUI agents' swipe execution capabilities, featuring high-quality, out-of-domain (OOD) multimodal data.
-3. **[GUISwiper](./GUISwiper/)**: A 3B-parameter VLM fine-tuned via Reinforcement Learning with Verifiable Rewards (RLVR/GRPO), achieving a **247% relative improvement** in swipe execution accuracy over baseline models.
+3. **[GUISwiper](./GUISwiper/)**: A 3B-parameter VLM fine-tuned via Reinforcement Learning with Verifiable Rewards (RLVR/GRPO), achieving a **246% relative improvement** in swipe execution accuracy over baseline models.
 
 ## 📁 Repository Structure
 
@@ -44,20 +44,11 @@ To bridge this gap, we introduce a unified pipeline encompassing automated data 
 └── README.md        # This document
 ```
 
-## 📜 License
-
-The source code in this repository is licensed under the [Apache License 2.0](./LICENSE). The annotations in SwipeBench are available under [CC BY-NC 4.0](./SwipeBench/LICENSE.md). Application screenshots are excluded from that data license; their rights remain with the respective owners.
-
 ## 🚀 Quick Navigation
 
 *   **To generate your own UI interaction data:** Check out the [SwipeGen Documentation](./SwipeGen/README.md).
 *   **To evaluate your GUI Agent's swipe capability:** Explore [SwipeBench](./SwipeBench/README.md).
 *   **To deploy or test our RL-aligned model:** See the [GUISwiper Model Page](./GUISwiper/).
-
-## 🧑 Team introduction
-
-SwipeGen is developed by [Prof. Yangfan Zhou's team](https://www.y-droid.com/yz/) at Fudan University. Our team has long been dedicated to GUI agents, intelligent GUI testing, and automated mobile-app interaction.
-If you are interested, please also check out our other work in the GUI domain: **[TestWeaver](https://ieeexplore.ieee.org/document/11334344)** and **[AUITestAgent](https://arxiv.org/abs/2407.09018)**.
 
 ## 📝 Citation
 
@@ -75,3 +66,12 @@ If you find this work useful, please cite our paper:
   url       = {https://doi.org/10.1145/3767308.3835803}
 }
 ```
+
+## 🧑 Team introduction
+
+SwipeGen is developed by [Prof. Yangfan Zhou's team](https://www.y-droid.com/yz/) at Fudan University. Our team has long been dedicated to GUI agents, intelligent GUI testing, and automated mobile-app interaction.
+If you are interested, please also check out our other work in the GUI domain: **[TestWeaver](https://ieeexplore.ieee.org/document/11334344)** and **[AUITestAgent](https://arxiv.org/abs/2407.09018)**.
+
+## 📜 License
+
+The source code in this repository is licensed under the [Apache License 2.0](./LICENSE). The annotations in SwipeBench are available under [CC BY-NC 4.0](./SwipeBench/LICENSE.md). Application screenshots are excluded from that data license; their rights remain with the respective owners.
