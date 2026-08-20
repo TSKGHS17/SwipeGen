@@ -64,3 +64,7 @@ When evaluating a GUI agent on SwipeBench, a prediction is considered a **Succes
 4.  **Duration/Speed**: The predicted duration must fall into the correct speed category (fast vs. slow) corresponding to the ground truth.
 
 For baseline evaluation scripts, please refer to the evaluation module in our repository.
+
+## 📜 License
+
+The annotations in `swipe.json` are licensed under [CC BY-NC 4.0](./LICENSE.md). Application screenshots are excluded from that license; all rights in the depicted applications and third-party content remain with their respective owners. See the [SwipeBench license notice](./LICENSE.md) for details.

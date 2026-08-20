@@ -16,7 +16,7 @@ pip install -r requirements.txt
 2. **Configuration:**  
    Specify the target Application package names in `PACKAGE_INSTALLED` in `utils/packages.py`.
 
-   Set the `MODEL_PATH` in `vlm/vlm_server.py`.  
+   Set the `MODEL_PATH` in `vlm/remote_server.py`.
    We recommend using `Qwen3-VL-8B-Instruct` because this is what we used for data collection.
 
 3. **Run Exploration & Synthesis:**

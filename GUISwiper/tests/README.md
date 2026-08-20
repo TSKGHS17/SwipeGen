@@ -37,10 +37,12 @@ pip install -r requirements.txt
 ```bash
 python test_swipebench_<model>.py \
     --base_model_path /path/to/model \
-    --test_json /path/to/swipe_test.json \
-    --image_root /path/to/SwipeBench \
+    --test_json ../../SwipeBench/swipe.json \
+    --image_root ../../SwipeBench/screenshots \
     --output_file results.json
 ```
+
+When evaluating GUISwiper, use `--model_path` instead of `--base_model_path`.
 
 ### Batch Evaluation
 
@@ -48,9 +50,9 @@ Evaluate all models at once using `eval_swipe_models.py`:
 
 ```bash
 python eval_swipe_models.py \
-    --test_json /path/to/swipe_test.json \
-    --image_root /path/to/SwipeBench \
-    --output_dir /path/to/results
+    --test_json ../../SwipeBench/swipe.json \
+    --image_root ../../SwipeBench/screenshots \
+    --output_dir ./results
 ```
 
 Or select specific models:
@@ -58,9 +60,9 @@ Or select specific models:
 ```bash
 python eval_swipe_models.py \
     --models Qwen2.5-VL-3B-Instruct,GUI-Owl-1.5-2B-Instruct \
-    --test_json /path/to/swipe_test.json \
-    --image_root /path/to/SwipeBench \
-    --output_dir /path/to/results
+    --test_json ../../SwipeBench/swipe.json \
+    --image_root ../../SwipeBench/screenshots \
+    --output_dir ./results
 ```
 
 ## Output Files

@@ -1,0 +1,19 @@
+* text=auto
+
+# Keep source and documentation consistent across Windows and Unix.
+*.py text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.sh text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+
+# Binary assets
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.safetensors binary
+*.pt binary
+*.pth binary
+*.ckpt binary
