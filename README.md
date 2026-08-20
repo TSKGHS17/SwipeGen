@@ -1,8 +1,10 @@
 <div align="center">
   <h1>SwipeGen: Bridging the Execution Gap in GUI Agents via Human-like Swipe Synthesis</h1>
+  <h3>🔥 ACM Multimedia 2026 (Oral) 🔥</h3>
 </div>
 
 <div align="center">
+
   <a href="https://arxiv.org/abs/2601.18305"><img src="https://img.shields.io/badge/arXiv-2601.18305-b31b1b.svg" alt="arXiv"></a>
   <a href="https://dl.acm.org/doi/10.1145/3767308.3835803"><img src="https://img.shields.io/badge/ACM%20DL-10.1145%2F3767308.3835803-0085CA" alt="ACM Digital Library"></a>
 </div>
@@ -21,7 +23,7 @@
 
 <br>
 
-This repository contains the code, data, and model pointers for our comprehensive framework aimed at solving the "Execution Gap" in GUI agents, specifically focusing on the fine-grained control of *Swipe* interactions.
+**SwipeGen bridges the execution gap in GUI agents through automated human-like swipe synthesis.** This repository releases the SwipeGen data synthesis pipeline, the out-of-distribution SwipeBench benchmark, and GUISwiper, an RL-aligned GUI agent for precise swipe execution.
 
 ## 📖 Overview
 
